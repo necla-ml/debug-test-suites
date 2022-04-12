@@ -1,0 +1,10 @@
+{"index": "018_used_to__but_now:0000", "sentence": "I used to think this airline was average,  now I think it is sweet.", "label": "positive"}
+{"index": "018_used_to__but_now:0001", "sentence": "I think this airline is sweet,  I used to think it was average.", "label": "positive"}
+{"index": "018_used_to__but_now:0002", "sentence": "In the past I thought this airline was average,  now I think it is sweet.", "label": "positive"}
+{"index": "018_used_to__but_now:0003", "sentence": "I think this airline is sweet,  in the past I thought it was average.", "label": "positive"}
+{"index": "018_used_to__but_now:0004", "sentence": "I used to think this airline was bad,  now I think it is adorable.", "label": "positive"}
+{"index": "018_used_to__but_now:0005", "sentence": "I think this airline is adorable,  I used to think it was bad.", "label": "positive"}
+{"index": "018_used_to__but_now:0006", "sentence": "In the past I thought this airline was bad,  now I think it is adorable.", "label": "positive"}
+{"index": "018_used_to__but_now:0007", "sentence": "I think this airline is adorable,  in the past I thought it was bad.", "label": "positive"}
+{"index": "018_used_to__but_now:0008", "sentence": "I used to think this airline was hard, but now I think it is fantastic.", "label": "positive"}
+{"index": "018_used_to__but_now:0009", "sentence": "I think this airline is fantastic, but I used to think it was hard.", "label": "positive"}

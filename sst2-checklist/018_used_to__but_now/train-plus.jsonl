@@ -1,0 +1,30 @@
+{"index": "018_used_to__but_now:0000", "sentence": "I used to think this airline was average,  now I think it is sweet.", "label": "positive"}
+{"index": "018_used_to__but_now:0001", "sentence": "I think this airline is sweet,  I used to think it was average.", "label": "positive"}
+{"index": "018_used_to__but_now:0002", "sentence": "In the past I thought this airline was average,  now I think it is sweet.", "label": "positive"}
+{"index": "018_used_to__but_now:0003", "sentence": "I think this airline is sweet,  in the past I thought it was average.", "label": "positive"}
+{"index": "018_used_to__but_now:0004", "sentence": "I used to think this airline was bad,  now I think it is adorable.", "label": "positive"}
+{"index": "018_used_to__but_now:0005", "sentence": "I think this airline is adorable,  I used to think it was bad.", "label": "positive"}
+{"index": "018_used_to__but_now:0006", "sentence": "In the past I thought this airline was bad,  now I think it is adorable.", "label": "positive"}
+{"index": "018_used_to__but_now:0007", "sentence": "I think this airline is adorable,  in the past I thought it was bad.", "label": "positive"}
+{"index": "018_used_to__but_now:0008", "sentence": "I used to think this airline was hard, but now I think it is fantastic.", "label": "positive"}
+{"index": "018_used_to__but_now:0009", "sentence": "I think this airline is fantastic, but I used to think it was hard.", "label": "positive"}
+{"index": "sst2:19970", "sentence": "it searches ( vainly , i think ) for something fresh to say ", "label": "negative"}
+{"index": "sst2:64132", "sentence": "a fascinating curiosity piece -- fascinating , that is , for about ten minutes ", "label": "negative"}
+{"index": "sst2:45079", "sentence": "all , a condition only the old are privy to ", "label": "negative"}
+{"index": "sst2:32047", "sentence": "through a prism ", "label": "negative"}
+{"index": "sst2:34372", "sentence": "that omnibus tradition called marriage ", "label": "negative"}
+{"index": "sst2:35921", "sentence": "amazingly dopey ", "label": "negative"}
+{"index": "sst2:22820", "sentence": "twisted shapes history ", "label": "negative"}
+{"index": "sst2:37331", "sentence": "its oh-so-hollywood rejiggering and ", "label": "negative"}
+{"index": "sst2:58334", "sentence": "the code talkers deserved better than a hollow tribute . ", "label": "negative"}
+{"index": "sst2:51455", "sentence": "it does n't make for great cinema , but it is interesting to see where one 's imagination will lead when given the opportunity . ", "label": "negative"}
+{"index": "sst2:52391", "sentence": "the chateau belongs to rudd , whose portrait of a therapy-dependent flakeball spouting french malapropisms ... ", "label": "negative"}
+{"index": "sst2:1833", "sentence": "tear your eyes away ", "label": "negative"}
+{"index": "sst2:44970", "sentence": "a piece of mildly entertaining , inoffensive fluff that drifts aimlessly for 90 minutes before lodging in the cracks of that ever-growing category : ", "label": "negative"}
+{"index": "sst2:61738", "sentence": "that somehow manages to bring together kevin pollak , former wrestler chyna and dolly parton ", "label": "negative"}
+{"index": "sst2:20311", "sentence": "the big-screen scooby makes the silly original cartoon seem smart and well-crafted in comparison . ", "label": "negative"}
+{"index": "sst2:11265", "sentence": "kicking undead *** ", "label": "negative"}
+{"index": "sst2:56464", "sentence": "elaborate and twisted characters ", "label": "negative"}
+{"index": "sst2:21662", "sentence": "deserve but rarely receive it ", "label": "negative"}
+{"index": "sst2:32539", "sentence": "as an actress in a role ", "label": "negative"}
+{"index": "sst2:13120", "sentence": "is without intent . ", "label": "negative"}

@@ -1,0 +1,10 @@
+{"index": "ex10092", "hypothesis": "The judge believed the students .", "premise": "The judge believed the students called the athletes .", "label": "non-entailment"}
+{"index": "ex10136", "hypothesis": "The lawyer heard the actors .", "premise": "The lawyer heard the actors danced .", "label": "non-entailment"}
+{"index": "ex10348", "hypothesis": "The manager knew the secretary .", "premise": "The manager knew the secretary helped the senator .", "label": "non-entailment"}
+{"index": "ex10470", "hypothesis": "The student heard the manager .", "premise": "The student heard the manager believed the professors .", "label": "non-entailment"}
+{"index": "ex10533", "hypothesis": "The banker believed the secretary .", "premise": "The banker believed the secretary introduced the lawyer .", "label": "non-entailment"}
+{"index": "ex10604", "hypothesis": "The professor believed the authors .", "premise": "The professor believed the authors slept .", "label": "non-entailment"}
+{"index": "ex10611", "hypothesis": "The artists believed the students .", "premise": "The artists believed the students performed .", "label": "non-entailment"}
+{"index": "ex10845", "hypothesis": "The judge heard the managers .", "premise": "The judge heard the managers contacted the president .", "label": "non-entailment"}
+{"index": "ex10849", "hypothesis": "The senators heard the managers .", "premise": "The senators heard the managers saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10905", "hypothesis": "The actor knew the athlete .", "premise": "The actor knew the athlete recommended the judges .", "label": "non-entailment"}

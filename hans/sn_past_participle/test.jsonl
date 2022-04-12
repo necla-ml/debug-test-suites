@@ -1,0 +1,990 @@
+{"index": "ex13000", "hypothesis": "The artists helped in the office .", "premise": "The president mentioned the artists helped in the office .", "label": "non-entailment"}
+{"index": "ex13001", "hypothesis": "The senator investigated in the laboratory .", "premise": "The senator investigated in the laboratory helped the athlete .", "label": "non-entailment"}
+{"index": "ex13002", "hypothesis": "The bankers paid in the office .", "premise": "The bankers paid in the office contacted the professor .", "label": "non-entailment"}
+{"index": "ex13003", "hypothesis": "The professors helped in the school .", "premise": "The lawyers thanked the professors helped in the school .", "label": "non-entailment"}
+{"index": "ex13004", "hypothesis": "The lawyer investigated in the office .", "premise": "The lawyer investigated in the office supported the senators .", "label": "non-entailment"}
+{"index": "ex13005", "hypothesis": "The scientists paid in the museum .", "premise": "The scientists paid in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13006", "hypothesis": "The athletes investigated in the office .", "premise": "The banker avoided the athletes investigated in the office .", "label": "non-entailment"}
+{"index": "ex13007", "hypothesis": "The banker paid in the library .", "premise": "The banker paid in the library contacted the lawyers .", "label": "non-entailment"}
+{"index": "ex13008", "hypothesis": "The secretaries helped in the office .", "premise": "The secretaries helped in the office slept .", "label": "non-entailment"}
+{"index": "ex13009", "hypothesis": "The student paid in the laboratory .", "premise": "The student paid in the laboratory stopped the manager .", "label": "non-entailment"}
+{"index": "ex13010", "hypothesis": "The judge helped in the laboratory .", "premise": "The doctors stopped the judge helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13011", "hypothesis": "The lawyer presented in the library .", "premise": "The lawyer presented in the library shouted .", "label": "non-entailment"}
+{"index": "ex13012", "hypothesis": "The athletes studied in the laboratory .", "premise": "The athletes studied in the laboratory mentioned the author .", "label": "non-entailment"}
+{"index": "ex13013", "hypothesis": "The tourists studied in the museum .", "premise": "The tourists studied in the museum called the senators .", "label": "non-entailment"}
+{"index": "ex13014", "hypothesis": "The doctor helped in the school .", "premise": "The doctor helped in the school ran .", "label": "non-entailment"}
+{"index": "ex13015", "hypothesis": "The doctors helped in the museum .", "premise": "The doctors helped in the museum resigned .", "label": "non-entailment"}
+{"index": "ex13016", "hypothesis": "The secretary investigated in the office .", "premise": "The banker helped the secretary investigated in the office .", "label": "non-entailment"}
+{"index": "ex13017", "hypothesis": "The bankers studied in the office .", "premise": "The tourist mentioned the bankers studied in the office .", "label": "non-entailment"}
+{"index": "ex13018", "hypothesis": "The doctors presented in the library .", "premise": "The student encouraged the doctors presented in the library .", "label": "non-entailment"}
+{"index": "ex13019", "hypothesis": "The senator presented in the laboratory .", "premise": "The professors helped the senator presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13020", "hypothesis": "The artist helped in the office .", "premise": "The artist helped in the office performed .", "label": "non-entailment"}
+{"index": "ex13021", "hypothesis": "The actors paid in the museum .", "premise": "The judge supported the actors paid in the museum .", "label": "non-entailment"}
+{"index": "ex13022", "hypothesis": "The athlete helped in the library .", "premise": "The athlete helped in the library mentioned the scientists .", "label": "non-entailment"}
+{"index": "ex13023", "hypothesis": "The scientist investigated in the office .", "premise": "The scientist investigated in the office supported the author .", "label": "non-entailment"}
+{"index": "ex13024", "hypothesis": "The actor paid in the school .", "premise": "The students supported the actor paid in the school .", "label": "non-entailment"}
+{"index": "ex13025", "hypothesis": "The authors helped in the museum .", "premise": "The doctor thanked the authors helped in the museum .", "label": "non-entailment"}
+{"index": "ex13026", "hypothesis": "The professors studied in the laboratory .", "premise": "The professors studied in the laboratory believed the lawyer .", "label": "non-entailment"}
+{"index": "ex13027", "hypothesis": "The bankers helped in the library .", "premise": "The bankers helped in the library mentioned the students .", "label": "non-entailment"}
+{"index": "ex13028", "hypothesis": "The senators paid in the library .", "premise": "The senators paid in the library arrived .", "label": "non-entailment"}
+{"index": "ex13029", "hypothesis": "The secretaries paid in the museum .", "premise": "The secretaries paid in the museum slept .", "label": "non-entailment"}
+{"index": "ex13030", "hypothesis": "The artists investigated in the laboratory .", "premise": "The senators thanked the artists investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13031", "hypothesis": "The scientist investigated in the museum .", "premise": "The scientist investigated in the museum thanked the tourist .", "label": "non-entailment"}
+{"index": "ex13032", "hypothesis": "The lawyers paid in the library .", "premise": "The lawyers paid in the library slept .", "label": "non-entailment"}
+{"index": "ex13033", "hypothesis": "The artists investigated in the laboratory .", "premise": "The artists investigated in the laboratory avoided the doctors .", "label": "non-entailment"}
+{"index": "ex13034", "hypothesis": "The doctor presented in the laboratory .", "premise": "The professor supported the doctor presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13035", "hypothesis": "The president presented in the library .", "premise": "The president presented in the library resigned .", "label": "non-entailment"}
+{"index": "ex13036", "hypothesis": "The managers presented in the library .", "premise": "The secretaries supported the managers presented in the library .", "label": "non-entailment"}
+{"index": "ex13037", "hypothesis": "The doctor paid in the museum .", "premise": "The doctor paid in the museum admired the tourists .", "label": "non-entailment"}
+{"index": "ex13038", "hypothesis": "The tourists helped in the laboratory .", "premise": "The tourists helped in the laboratory believed the professors .", "label": "non-entailment"}
+{"index": "ex13039", "hypothesis": "The president investigated in the library .", "premise": "The president investigated in the library ran .", "label": "non-entailment"}
+{"index": "ex13040", "hypothesis": "The student presented in the school .", "premise": "The student presented in the school recognized the banker .", "label": "non-entailment"}
+{"index": "ex13041", "hypothesis": "The student helped in the laboratory .", "premise": "The student helped in the laboratory waited .", "label": "non-entailment"}
+{"index": "ex13042", "hypothesis": "The actors paid in the library .", "premise": "The actors paid in the library ran .", "label": "non-entailment"}
+{"index": "ex13043", "hypothesis": "The lawyers presented in the museum .", "premise": "The athlete advised the lawyers presented in the museum .", "label": "non-entailment"}
+{"index": "ex13044", "hypothesis": "The actors presented in the museum .", "premise": "The actors presented in the museum shouted .", "label": "non-entailment"}
+{"index": "ex13045", "hypothesis": "The senator investigated in the museum .", "premise": "The senator investigated in the museum admired the professors .", "label": "non-entailment"}
+{"index": "ex13046", "hypothesis": "The banker presented in the office .", "premise": "The banker presented in the office admired the student .", "label": "non-entailment"}
+{"index": "ex13047", "hypothesis": "The athletes studied in the library .", "premise": "The bankers stopped the athletes studied in the library .", "label": "non-entailment"}
+{"index": "ex13048", "hypothesis": "The doctors presented in the office .", "premise": "The doctors presented in the office danced .", "label": "non-entailment"}
+{"index": "ex13049", "hypothesis": "The author studied in the library .", "premise": "The presidents avoided the author studied in the library .", "label": "non-entailment"}
+{"index": "ex13050", "hypothesis": "The judges studied in the laboratory .", "premise": "The managers encouraged the judges studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13051", "hypothesis": "The scientist helped in the school .", "premise": "The president admired the scientist helped in the school .", "label": "non-entailment"}
+{"index": "ex13052", "hypothesis": "The manager paid in the school .", "premise": "The manager paid in the school waited .", "label": "non-entailment"}
+{"index": "ex13053", "hypothesis": "The scientists paid in the office .", "premise": "The scientists paid in the office avoided the doctor .", "label": "non-entailment"}
+{"index": "ex13054", "hypothesis": "The athletes helped in the office .", "premise": "The athletes helped in the office resigned .", "label": "non-entailment"}
+{"index": "ex13055", "hypothesis": "The artists paid in the office .", "premise": "The bankers supported the artists paid in the office .", "label": "non-entailment"}
+{"index": "ex13056", "hypothesis": "The authors paid in the museum .", "premise": "The artists saw the authors paid in the museum .", "label": "non-entailment"}
+{"index": "ex13057", "hypothesis": "The athlete helped in the laboratory .", "premise": "The athlete helped in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13058", "hypothesis": "The student studied in the museum .", "premise": "The student studied in the museum advised the doctors .", "label": "non-entailment"}
+{"index": "ex13059", "hypothesis": "The managers presented in the office .", "premise": "The managers presented in the office danced .", "label": "non-entailment"}
+{"index": "ex13060", "hypothesis": "The athlete presented in the museum .", "premise": "The president thanked the athlete presented in the museum .", "label": "non-entailment"}
+{"index": "ex13061", "hypothesis": "The presidents investigated in the library .", "premise": "The presidents investigated in the library contacted the actors .", "label": "non-entailment"}
+{"index": "ex13062", "hypothesis": "The president investigated in the office .", "premise": "The author encouraged the president investigated in the office .", "label": "non-entailment"}
+{"index": "ex13063", "hypothesis": "The secretary investigated in the library .", "premise": "The doctor saw the secretary investigated in the library .", "label": "non-entailment"}
+{"index": "ex13064", "hypothesis": "The athlete helped in the office .", "premise": "The athlete helped in the office stopped the secretaries .", "label": "non-entailment"}
+{"index": "ex13065", "hypothesis": "The president paid in the library .", "premise": "The president paid in the library admired the tourists .", "label": "non-entailment"}
+{"index": "ex13066", "hypothesis": "The actor presented in the museum .", "premise": "The manager recognized the actor presented in the museum .", "label": "non-entailment"}
+{"index": "ex13067", "hypothesis": "The athletes studied in the school .", "premise": "The scientist helped the athletes studied in the school .", "label": "non-entailment"}
+{"index": "ex13068", "hypothesis": "The scientist presented in the museum .", "premise": "The scientist presented in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13069", "hypothesis": "The student studied in the library .", "premise": "The presidents advised the student studied in the library .", "label": "non-entailment"}
+{"index": "ex13070", "hypothesis": "The presidents paid in the school .", "premise": "The presidents paid in the school contacted the author .", "label": "non-entailment"}
+{"index": "ex13071", "hypothesis": "The artists paid in the school .", "premise": "The artists paid in the school stopped the tourist .", "label": "non-entailment"}
+{"index": "ex13072", "hypothesis": "The secretary paid in the laboratory .", "premise": "The secretary paid in the laboratory called the actors .", "label": "non-entailment"}
+{"index": "ex13073", "hypothesis": "The artist presented in the laboratory .", "premise": "The artist presented in the laboratory encouraged the professor .", "label": "non-entailment"}
+{"index": "ex13074", "hypothesis": "The lawyers paid in the office .", "premise": "The lawyers paid in the office shouted .", "label": "non-entailment"}
+{"index": "ex13075", "hypothesis": "The authors investigated in the office .", "premise": "The professors avoided the authors investigated in the office .", "label": "non-entailment"}
+{"index": "ex13076", "hypothesis": "The presidents helped in the laboratory .", "premise": "The presidents helped in the laboratory avoided the athletes .", "label": "non-entailment"}
+{"index": "ex13077", "hypothesis": "The artists presented in the laboratory .", "premise": "The managers stopped the artists presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13078", "hypothesis": "The actor paid in the school .", "premise": "The actor paid in the school performed .", "label": "non-entailment"}
+{"index": "ex13079", "hypothesis": "The secretary paid in the laboratory .", "premise": "The secretary paid in the laboratory stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex13080", "hypothesis": "The professor studied in the library .", "premise": "The managers advised the professor studied in the library .", "label": "non-entailment"}
+{"index": "ex13081", "hypothesis": "The banker paid in the office .", "premise": "The banker paid in the office thanked the senator .", "label": "non-entailment"}
+{"index": "ex13082", "hypothesis": "The students helped in the museum .", "premise": "The students helped in the museum recognized the senators .", "label": "non-entailment"}
+{"index": "ex13083", "hypothesis": "The tourist helped in the school .", "premise": "The tourist helped in the school advised the presidents .", "label": "non-entailment"}
+{"index": "ex13084", "hypothesis": "The secretary investigated in the laboratory .", "premise": "The secretary investigated in the laboratory admired the bankers .", "label": "non-entailment"}
+{"index": "ex13085", "hypothesis": "The tourists helped in the laboratory .", "premise": "The tourists helped in the laboratory arrived .", "label": "non-entailment"}
+{"index": "ex13086", "hypothesis": "The banker paid in the laboratory .", "premise": "The students mentioned the banker paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13087", "hypothesis": "The doctor helped in the museum .", "premise": "The actor avoided the doctor helped in the museum .", "label": "non-entailment"}
+{"index": "ex13088", "hypothesis": "The artist investigated in the school .", "premise": "The artist investigated in the school believed the senator .", "label": "non-entailment"}
+{"index": "ex13089", "hypothesis": "The doctors paid in the school .", "premise": "The scientists encouraged the doctors paid in the school .", "label": "non-entailment"}
+{"index": "ex13090", "hypothesis": "The professor studied in the museum .", "premise": "The professor studied in the museum contacted the doctors .", "label": "non-entailment"}
+{"index": "ex13091", "hypothesis": "The judges helped in the library .", "premise": "The actors contacted the judges helped in the library .", "label": "non-entailment"}
+{"index": "ex13092", "hypothesis": "The senators investigated in the museum .", "premise": "The senators investigated in the museum recommended the scientist .", "label": "non-entailment"}
+{"index": "ex13093", "hypothesis": "The president paid in the library .", "premise": "The president paid in the library helped the students .", "label": "non-entailment"}
+{"index": "ex13094", "hypothesis": "The judges presented in the museum .", "premise": "The secretary contacted the judges presented in the museum .", "label": "non-entailment"}
+{"index": "ex13095", "hypothesis": "The scientists helped in the office .", "premise": "The scientists helped in the office thanked the banker .", "label": "non-entailment"}
+{"index": "ex13096", "hypothesis": "The lawyers paid in the school .", "premise": "The scientist recognized the lawyers paid in the school .", "label": "non-entailment"}
+{"index": "ex13097", "hypothesis": "The presidents helped in the museum .", "premise": "The banker encouraged the presidents helped in the museum .", "label": "non-entailment"}
+{"index": "ex13098", "hypothesis": "The manager helped in the office .", "premise": "The judges believed the manager helped in the office .", "label": "non-entailment"}
+{"index": "ex13099", "hypothesis": "The lawyers helped in the school .", "premise": "The lawyers helped in the school saw the senator .", "label": "non-entailment"}
+{"index": "ex13100", "hypothesis": "The president investigated in the library .", "premise": "The president investigated in the library slept .", "label": "non-entailment"}
+{"index": "ex13101", "hypothesis": "The managers helped in the laboratory .", "premise": "The president thanked the managers helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13102", "hypothesis": "The lawyers paid in the school .", "premise": "The tourist avoided the lawyers paid in the school .", "label": "non-entailment"}
+{"index": "ex13103", "hypothesis": "The tourist helped in the school .", "premise": "The tourist helped in the school contacted the secretary .", "label": "non-entailment"}
+{"index": "ex13104", "hypothesis": "The doctor investigated in the school .", "premise": "The doctor investigated in the school believed the secretaries .", "label": "non-entailment"}
+{"index": "ex13105", "hypothesis": "The president presented in the laboratory .", "premise": "The lawyers admired the president presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13106", "hypothesis": "The athletes presented in the office .", "premise": "The athletes presented in the office believed the student .", "label": "non-entailment"}
+{"index": "ex13107", "hypothesis": "The student studied in the library .", "premise": "The student studied in the library encouraged the judge .", "label": "non-entailment"}
+{"index": "ex13108", "hypothesis": "The manager investigated in the school .", "premise": "The presidents admired the manager investigated in the school .", "label": "non-entailment"}
+{"index": "ex13109", "hypothesis": "The president paid in the school .", "premise": "The president paid in the school believed the secretaries .", "label": "non-entailment"}
+{"index": "ex13110", "hypothesis": "The athletes paid in the museum .", "premise": "The athletes paid in the museum contacted the scientists .", "label": "non-entailment"}
+{"index": "ex13111", "hypothesis": "The student helped in the library .", "premise": "The student helped in the library believed the tourist .", "label": "non-entailment"}
+{"index": "ex13112", "hypothesis": "The artist helped in the laboratory .", "premise": "The artist helped in the laboratory slept .", "label": "non-entailment"}
+{"index": "ex13113", "hypothesis": "The doctors paid in the laboratory .", "premise": "The doctors paid in the laboratory avoided the scientist .", "label": "non-entailment"}
+{"index": "ex13114", "hypothesis": "The bankers studied in the school .", "premise": "The senator called the bankers studied in the school .", "label": "non-entailment"}
+{"index": "ex13115", "hypothesis": "The artists studied in the museum .", "premise": "The managers introduced the artists studied in the museum .", "label": "non-entailment"}
+{"index": "ex13116", "hypothesis": "The actors studied in the laboratory .", "premise": "The actors studied in the laboratory supported the doctors .", "label": "non-entailment"}
+{"index": "ex13117", "hypothesis": "The senator studied in the school .", "premise": "The senator studied in the school arrived .", "label": "non-entailment"}
+{"index": "ex13118", "hypothesis": "The actors paid in the library .", "premise": "The actors paid in the library admired the athlete .", "label": "non-entailment"}
+{"index": "ex13119", "hypothesis": "The secretary paid in the museum .", "premise": "The artists believed the secretary paid in the museum .", "label": "non-entailment"}
+{"index": "ex13120", "hypothesis": "The managers presented in the office .", "premise": "The managers presented in the office avoided the bankers .", "label": "non-entailment"}
+{"index": "ex13121", "hypothesis": "The secretary helped in the laboratory .", "premise": "The actors recommended the secretary helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13122", "hypothesis": "The lawyer helped in the library .", "premise": "The lawyer helped in the library introduced the bankers .", "label": "non-entailment"}
+{"index": "ex13123", "hypothesis": "The tourist paid in the library .", "premise": "The tourist paid in the library recommended the president .", "label": "non-entailment"}
+{"index": "ex13124", "hypothesis": "The judge paid in the school .", "premise": "The judge paid in the school slept .", "label": "non-entailment"}
+{"index": "ex13125", "hypothesis": "The actors presented in the laboratory .", "premise": "The actors presented in the laboratory admired the scientists .", "label": "non-entailment"}
+{"index": "ex13126", "hypothesis": "The scientists helped in the laboratory .", "premise": "The senator supported the scientists helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13127", "hypothesis": "The artists studied in the office .", "premise": "The president advised the artists studied in the office .", "label": "non-entailment"}
+{"index": "ex13128", "hypothesis": "The tourist presented in the school .", "premise": "The tourist presented in the school helped the banker .", "label": "non-entailment"}
+{"index": "ex13129", "hypothesis": "The professors presented in the museum .", "premise": "The artists avoided the professors presented in the museum .", "label": "non-entailment"}
+{"index": "ex13130", "hypothesis": "The students paid in the school .", "premise": "The students paid in the school helped the scientist .", "label": "non-entailment"}
+{"index": "ex13131", "hypothesis": "The doctors helped in the office .", "premise": "The senator thanked the doctors helped in the office .", "label": "non-entailment"}
+{"index": "ex13132", "hypothesis": "The senator investigated in the library .", "premise": "The artist avoided the senator investigated in the library .", "label": "non-entailment"}
+{"index": "ex13133", "hypothesis": "The athlete helped in the office .", "premise": "The athlete helped in the office saw the senator .", "label": "non-entailment"}
+{"index": "ex13134", "hypothesis": "The authors presented in the library .", "premise": "The doctors recommended the authors presented in the library .", "label": "non-entailment"}
+{"index": "ex13135", "hypothesis": "The professor investigated in the museum .", "premise": "The professor investigated in the museum avoided the students .", "label": "non-entailment"}
+{"index": "ex13136", "hypothesis": "The professors paid in the laboratory .", "premise": "The professors paid in the laboratory believed the doctor .", "label": "non-entailment"}
+{"index": "ex13137", "hypothesis": "The secretaries studied in the museum .", "premise": "The tourist avoided the secretaries studied in the museum .", "label": "non-entailment"}
+{"index": "ex13138", "hypothesis": "The doctors presented in the laboratory .", "premise": "The doctors presented in the laboratory admired the senators .", "label": "non-entailment"}
+{"index": "ex13139", "hypothesis": "The secretary paid in the office .", "premise": "The lawyers encouraged the secretary paid in the office .", "label": "non-entailment"}
+{"index": "ex13140", "hypothesis": "The tourists paid in the museum .", "premise": "The tourists paid in the museum slept .", "label": "non-entailment"}
+{"index": "ex13141", "hypothesis": "The secretary presented in the laboratory .", "premise": "The athletes recognized the secretary presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13142", "hypothesis": "The students presented in the office .", "premise": "The students presented in the office slept .", "label": "non-entailment"}
+{"index": "ex13143", "hypothesis": "The doctors investigated in the library .", "premise": "The doctors investigated in the library thanked the athlete .", "label": "non-entailment"}
+{"index": "ex13144", "hypothesis": "The scientists presented in the museum .", "premise": "The scientists presented in the museum recommended the presidents .", "label": "non-entailment"}
+{"index": "ex13145", "hypothesis": "The banker studied in the museum .", "premise": "The student introduced the banker studied in the museum .", "label": "non-entailment"}
+{"index": "ex13146", "hypothesis": "The doctor studied in the museum .", "premise": "The banker supported the doctor studied in the museum .", "label": "non-entailment"}
+{"index": "ex13147", "hypothesis": "The secretaries paid in the laboratory .", "premise": "The judges recognized the secretaries paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13148", "hypothesis": "The athlete investigated in the laboratory .", "premise": "The athlete investigated in the laboratory resigned .", "label": "non-entailment"}
+{"index": "ex13149", "hypothesis": "The judges studied in the laboratory .", "premise": "The managers recommended the judges studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13150", "hypothesis": "The lawyer presented in the laboratory .", "premise": "The lawyer presented in the laboratory admired the actor .", "label": "non-entailment"}
+{"index": "ex13151", "hypothesis": "The professors studied in the office .", "premise": "The professors studied in the office slept .", "label": "non-entailment"}
+{"index": "ex13152", "hypothesis": "The manager helped in the laboratory .", "premise": "The artist recognized the manager helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13153", "hypothesis": "The lawyers paid in the office .", "premise": "The lawyers paid in the office mentioned the artists .", "label": "non-entailment"}
+{"index": "ex13154", "hypothesis": "The president paid in the library .", "premise": "The managers believed the president paid in the library .", "label": "non-entailment"}
+{"index": "ex13155", "hypothesis": "The secretary investigated in the library .", "premise": "The secretary investigated in the library shouted .", "label": "non-entailment"}
+{"index": "ex13156", "hypothesis": "The lawyer presented in the laboratory .", "premise": "The presidents advised the lawyer presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13157", "hypothesis": "The managers helped in the museum .", "premise": "The managers helped in the museum believed the president .", "label": "non-entailment"}
+{"index": "ex13158", "hypothesis": "The president helped in the museum .", "premise": "The professors supported the president helped in the museum .", "label": "non-entailment"}
+{"index": "ex13159", "hypothesis": "The athlete investigated in the library .", "premise": "The secretaries called the athlete investigated in the library .", "label": "non-entailment"}
+{"index": "ex13160", "hypothesis": "The artists investigated in the office .", "premise": "The athletes called the artists investigated in the office .", "label": "non-entailment"}
+{"index": "ex13161", "hypothesis": "The scientists helped in the library .", "premise": "The tourists advised the scientists helped in the library .", "label": "non-entailment"}
+{"index": "ex13162", "hypothesis": "The student paid in the school .", "premise": "The student paid in the school encouraged the secretaries .", "label": "non-entailment"}
+{"index": "ex13163", "hypothesis": "The doctor helped in the museum .", "premise": "The students avoided the doctor helped in the museum .", "label": "non-entailment"}
+{"index": "ex13164", "hypothesis": "The doctor paid in the museum .", "premise": "The doctor paid in the museum danced .", "label": "non-entailment"}
+{"index": "ex13165", "hypothesis": "The actor investigated in the school .", "premise": "The actor investigated in the school supported the student .", "label": "non-entailment"}
+{"index": "ex13166", "hypothesis": "The tourist investigated in the laboratory .", "premise": "The tourist investigated in the laboratory mentioned the author .", "label": "non-entailment"}
+{"index": "ex13167", "hypothesis": "The judge studied in the library .", "premise": "The managers admired the judge studied in the library .", "label": "non-entailment"}
+{"index": "ex13168", "hypothesis": "The lawyers paid in the museum .", "premise": "The scientists saw the lawyers paid in the museum .", "label": "non-entailment"}
+{"index": "ex13169", "hypothesis": "The artists studied in the museum .", "premise": "The artists studied in the museum slept .", "label": "non-entailment"}
+{"index": "ex13170", "hypothesis": "The authors paid in the office .", "premise": "The artists advised the authors paid in the office .", "label": "non-entailment"}
+{"index": "ex13171", "hypothesis": "The professor investigated in the laboratory .", "premise": "The professor investigated in the laboratory avoided the athletes .", "label": "non-entailment"}
+{"index": "ex13172", "hypothesis": "The actor investigated in the museum .", "premise": "The actor investigated in the museum advised the senator .", "label": "non-entailment"}
+{"index": "ex13173", "hypothesis": "The manager presented in the library .", "premise": "The tourist stopped the manager presented in the library .", "label": "non-entailment"}
+{"index": "ex13174", "hypothesis": "The athletes investigated in the library .", "premise": "The athletes investigated in the library ran .", "label": "non-entailment"}
+{"index": "ex13175", "hypothesis": "The lawyer paid in the school .", "premise": "The student believed the lawyer paid in the school .", "label": "non-entailment"}
+{"index": "ex13176", "hypothesis": "The president investigated in the school .", "premise": "The president investigated in the school contacted the managers .", "label": "non-entailment"}
+{"index": "ex13177", "hypothesis": "The presidents helped in the school .", "premise": "The presidents helped in the school performed .", "label": "non-entailment"}
+{"index": "ex13178", "hypothesis": "The athletes helped in the laboratory .", "premise": "The athletes helped in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13179", "hypothesis": "The athletes presented in the museum .", "premise": "The lawyer believed the athletes presented in the museum .", "label": "non-entailment"}
+{"index": "ex13180", "hypothesis": "The lawyer investigated in the office .", "premise": "The lawyer investigated in the office shouted .", "label": "non-entailment"}
+{"index": "ex13181", "hypothesis": "The banker studied in the school .", "premise": "The banker studied in the school advised the scientists .", "label": "non-entailment"}
+{"index": "ex13182", "hypothesis": "The artist investigated in the office .", "premise": "The tourist supported the artist investigated in the office .", "label": "non-entailment"}
+{"index": "ex13183", "hypothesis": "The senator paid in the school .", "premise": "The senator paid in the school shouted .", "label": "non-entailment"}
+{"index": "ex13185", "hypothesis": "The tourist presented in the laboratory .", "premise": "The tourist presented in the laboratory recognized the judge .", "label": "non-entailment"}
+{"index": "ex13186", "hypothesis": "The authors investigated in the school .", "premise": "The authors investigated in the school resigned .", "label": "non-entailment"}
+{"index": "ex13187", "hypothesis": "The managers presented in the laboratory .", "premise": "The lawyer believed the managers presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13188", "hypothesis": "The tourist helped in the museum .", "premise": "The tourist helped in the museum recognized the banker .", "label": "non-entailment"}
+{"index": "ex13189", "hypothesis": "The banker investigated in the museum .", "premise": "The actor saw the banker investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13190", "hypothesis": "The author helped in the laboratory .", "premise": "The manager admired the author helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13191", "hypothesis": "The judges studied in the school .", "premise": "The judges studied in the school waited .", "label": "non-entailment"}
+{"index": "ex13192", "hypothesis": "The secretaries studied in the school .", "premise": "The doctors saw the secretaries studied in the school .", "label": "non-entailment"}
+{"index": "ex13193", "hypothesis": "The senator presented in the laboratory .", "premise": "The presidents introduced the senator presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13194", "hypothesis": "The lawyers presented in the museum .", "premise": "The managers introduced the lawyers presented in the museum .", "label": "non-entailment"}
+{"index": "ex13195", "hypothesis": "The doctors presented in the office .", "premise": "The secretary encouraged the doctors presented in the office .", "label": "non-entailment"}
+{"index": "ex13196", "hypothesis": "The professors studied in the museum .", "premise": "The professors studied in the museum called the banker .", "label": "non-entailment"}
+{"index": "ex13197", "hypothesis": "The tourists investigated in the library .", "premise": "The president avoided the tourists investigated in the library .", "label": "non-entailment"}
+{"index": "ex13198", "hypothesis": "The students presented in the office .", "premise": "The students presented in the office supported the athlete .", "label": "non-entailment"}
+{"index": "ex13199", "hypothesis": "The senator studied in the laboratory .", "premise": "The senator studied in the laboratory resigned .", "label": "non-entailment"}
+{"index": "ex13201", "hypothesis": "The student studied in the laboratory .", "premise": "The student studied in the laboratory recognized the professors .", "label": "non-entailment"}
+{"index": "ex13202", "hypothesis": "The senators helped in the school .", "premise": "The senators helped in the school contacted the author .", "label": "non-entailment"}
+{"index": "ex13203", "hypothesis": "The judges presented in the library .", "premise": "The judges presented in the library resigned .", "label": "non-entailment"}
+{"index": "ex13204", "hypothesis": "The actors investigated in the museum .", "premise": "The actors investigated in the museum encouraged the senator .", "label": "non-entailment"}
+{"index": "ex13205", "hypothesis": "The author presented in the school .", "premise": "The secretaries encouraged the author presented in the school .", "label": "non-entailment"}
+{"index": "ex13206", "hypothesis": "The students investigated in the library .", "premise": "The author helped the students investigated in the library .", "label": "non-entailment"}
+{"index": "ex13207", "hypothesis": "The doctors studied in the museum .", "premise": "The author thanked the doctors studied in the museum .", "label": "non-entailment"}
+{"index": "ex13208", "hypothesis": "The president paid in the museum .", "premise": "The secretaries avoided the president paid in the museum .", "label": "non-entailment"}
+{"index": "ex13209", "hypothesis": "The scientists paid in the office .", "premise": "The doctors avoided the scientists paid in the office .", "label": "non-entailment"}
+{"index": "ex13210", "hypothesis": "The manager studied in the laboratory .", "premise": "The manager studied in the laboratory recommended the president .", "label": "non-entailment"}
+{"index": "ex13211", "hypothesis": "The professor presented in the museum .", "premise": "The professor presented in the museum waited .", "label": "non-entailment"}
+{"index": "ex13212", "hypothesis": "The secretaries presented in the school .", "premise": "The scientists advised the secretaries presented in the school .", "label": "non-entailment"}
+{"index": "ex13213", "hypothesis": "The presidents paid in the office .", "premise": "The presidents paid in the office stopped the judge .", "label": "non-entailment"}
+{"index": "ex13214", "hypothesis": "The secretary studied in the school .", "premise": "The student encouraged the secretary studied in the school .", "label": "non-entailment"}
+{"index": "ex13215", "hypothesis": "The athletes studied in the laboratory .", "premise": "The senators admired the athletes studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13216", "hypothesis": "The authors investigated in the school .", "premise": "The authors investigated in the school shouted .", "label": "non-entailment"}
+{"index": "ex13217", "hypothesis": "The judge helped in the laboratory .", "premise": "The judge helped in the laboratory believed the doctors .", "label": "non-entailment"}
+{"index": "ex13218", "hypothesis": "The actors presented in the school .", "premise": "The manager avoided the actors presented in the school .", "label": "non-entailment"}
+{"index": "ex13219", "hypothesis": "The judges paid in the school .", "premise": "The judges paid in the school waited .", "label": "non-entailment"}
+{"index": "ex13220", "hypothesis": "The judges paid in the school .", "premise": "The judges paid in the school resigned .", "label": "non-entailment"}
+{"index": "ex13221", "hypothesis": "The lawyer paid in the laboratory .", "premise": "The artists helped the lawyer paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13222", "hypothesis": "The students investigated in the museum .", "premise": "The students investigated in the museum ran .", "label": "non-entailment"}
+{"index": "ex13223", "hypothesis": "The tourists paid in the school .", "premise": "The tourists paid in the school performed .", "label": "non-entailment"}
+{"index": "ex13224", "hypothesis": "The author studied in the library .", "premise": "The author studied in the library ran .", "label": "non-entailment"}
+{"index": "ex13225", "hypothesis": "The judge paid in the library .", "premise": "The senators saw the judge paid in the library .", "label": "non-entailment"}
+{"index": "ex13226", "hypothesis": "The managers presented in the office .", "premise": "The author contacted the managers presented in the office .", "label": "non-entailment"}
+{"index": "ex13227", "hypothesis": "The athlete investigated in the museum .", "premise": "The athlete investigated in the museum supported the actor .", "label": "non-entailment"}
+{"index": "ex13228", "hypothesis": "The athletes studied in the laboratory .", "premise": "The student mentioned the athletes studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13229", "hypothesis": "The actor helped in the library .", "premise": "The actor helped in the library slept .", "label": "non-entailment"}
+{"index": "ex13230", "hypothesis": "The scientists paid in the laboratory .", "premise": "The lawyer contacted the scientists paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13231", "hypothesis": "The student studied in the museum .", "premise": "The authors stopped the student studied in the museum .", "label": "non-entailment"}
+{"index": "ex13232", "hypothesis": "The scientist paid in the school .", "premise": "The scientist paid in the school danced .", "label": "non-entailment"}
+{"index": "ex13233", "hypothesis": "The president studied in the school .", "premise": "The president studied in the school performed .", "label": "non-entailment"}
+{"index": "ex13234", "hypothesis": "The artist presented in the museum .", "premise": "The artist presented in the museum admired the tourist .", "label": "non-entailment"}
+{"index": "ex13235", "hypothesis": "The banker paid in the museum .", "premise": "The banker paid in the museum ran .", "label": "non-entailment"}
+{"index": "ex13236", "hypothesis": "The athletes presented in the school .", "premise": "The athletes presented in the school performed .", "label": "non-entailment"}
+{"index": "ex13237", "hypothesis": "The actor investigated in the school .", "premise": "The actor investigated in the school ran .", "label": "non-entailment"}
+{"index": "ex13238", "hypothesis": "The judges paid in the office .", "premise": "The athletes avoided the judges paid in the office .", "label": "non-entailment"}
+{"index": "ex13239", "hypothesis": "The student helped in the museum .", "premise": "The doctors encouraged the student helped in the museum .", "label": "non-entailment"}
+{"index": "ex13240", "hypothesis": "The artists investigated in the office .", "premise": "The artists investigated in the office performed .", "label": "non-entailment"}
+{"index": "ex13241", "hypothesis": "The manager paid in the office .", "premise": "The manager paid in the office stopped the judge .", "label": "non-entailment"}
+{"index": "ex13242", "hypothesis": "The tourist helped in the library .", "premise": "The tourist helped in the library advised the banker .", "label": "non-entailment"}
+{"index": "ex13243", "hypothesis": "The author investigated in the office .", "premise": "The author investigated in the office supported the athlete .", "label": "non-entailment"}
+{"index": "ex13244", "hypothesis": "The tourists presented in the office .", "premise": "The tourists presented in the office arrived .", "label": "non-entailment"}
+{"index": "ex13245", "hypothesis": "The banker studied in the school .", "premise": "The judges stopped the banker studied in the school .", "label": "non-entailment"}
+{"index": "ex13246", "hypothesis": "The senator presented in the library .", "premise": "The senator presented in the library arrived .", "label": "non-entailment"}
+{"index": "ex13247", "hypothesis": "The judge investigated in the office .", "premise": "The judge investigated in the office helped the secretaries .", "label": "non-entailment"}
+{"index": "ex13248", "hypothesis": "The authors helped in the library .", "premise": "The professor avoided the authors helped in the library .", "label": "non-entailment"}
+{"index": "ex13249", "hypothesis": "The banker investigated in the laboratory .", "premise": "The banker investigated in the laboratory admired the actors .", "label": "non-entailment"}
+{"index": "ex13250", "hypothesis": "The bankers studied in the library .", "premise": "The bankers studied in the library contacted the doctors .", "label": "non-entailment"}
+{"index": "ex13251", "hypothesis": "The tourists helped in the laboratory .", "premise": "The professor thanked the tourists helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13252", "hypothesis": "The secretary studied in the museum .", "premise": "The secretary studied in the museum thanked the lawyers .", "label": "non-entailment"}
+{"index": "ex13253", "hypothesis": "The judge helped in the library .", "premise": "The judge helped in the library stopped the banker .", "label": "non-entailment"}
+{"index": "ex13254", "hypothesis": "The manager studied in the laboratory .", "premise": "The manager studied in the laboratory saw the students .", "label": "non-entailment"}
+{"index": "ex13255", "hypothesis": "The students studied in the museum .", "premise": "The students studied in the museum danced .", "label": "non-entailment"}
+{"index": "ex13256", "hypothesis": "The professor presented in the laboratory .", "premise": "The professor presented in the laboratory helped the athletes .", "label": "non-entailment"}
+{"index": "ex13257", "hypothesis": "The lawyer paid in the office .", "premise": "The lawyer paid in the office supported the doctor .", "label": "non-entailment"}
+{"index": "ex13258", "hypothesis": "The students studied in the museum .", "premise": "The students studied in the museum thanked the actors .", "label": "non-entailment"}
+{"index": "ex13259", "hypothesis": "The authors studied in the library .", "premise": "The artist believed the authors studied in the library .", "label": "non-entailment"}
+{"index": "ex13260", "hypothesis": "The doctors presented in the laboratory .", "premise": "The scientists recognized the doctors presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13261", "hypothesis": "The banker presented in the museum .", "premise": "The banker presented in the museum thanked the judges .", "label": "non-entailment"}
+{"index": "ex13262", "hypothesis": "The athletes presented in the laboratory .", "premise": "The athletes presented in the laboratory danced .", "label": "non-entailment"}
+{"index": "ex13263", "hypothesis": "The scientists studied in the library .", "premise": "The scientists studied in the library performed .", "label": "non-entailment"}
+{"index": "ex13264", "hypothesis": "The lawyer paid in the library .", "premise": "The lawyer paid in the library thanked the authors .", "label": "non-entailment"}
+{"index": "ex13265", "hypothesis": "The secretaries helped in the library .", "premise": "The senator avoided the secretaries helped in the library .", "label": "non-entailment"}
+{"index": "ex13266", "hypothesis": "The actor presented in the library .", "premise": "The author mentioned the actor presented in the library .", "label": "non-entailment"}
+{"index": "ex13267", "hypothesis": "The students paid in the laboratory .", "premise": "The students paid in the laboratory waited .", "label": "non-entailment"}
+{"index": "ex13268", "hypothesis": "The athlete studied in the library .", "premise": "The athlete studied in the library thanked the scientist .", "label": "non-entailment"}
+{"index": "ex13269", "hypothesis": "The scientists studied in the laboratory .", "premise": "The scientists studied in the laboratory supported the senators .", "label": "non-entailment"}
+{"index": "ex13270", "hypothesis": "The managers presented in the laboratory .", "premise": "The managers presented in the laboratory encouraged the actor .", "label": "non-entailment"}
+{"index": "ex13271", "hypothesis": "The student helped in the school .", "premise": "The judges encouraged the student helped in the school .", "label": "non-entailment"}
+{"index": "ex13272", "hypothesis": "The artists helped in the museum .", "premise": "The actor thanked the artists helped in the museum .", "label": "non-entailment"}
+{"index": "ex13273", "hypothesis": "The president investigated in the school .", "premise": "The president investigated in the school ran .", "label": "non-entailment"}
+{"index": "ex13274", "hypothesis": "The senator presented in the laboratory .", "premise": "The actors mentioned the senator presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13275", "hypothesis": "The secretaries helped in the laboratory .", "premise": "The secretaries helped in the laboratory recognized the lawyers .", "label": "non-entailment"}
+{"index": "ex13276", "hypothesis": "The scientist helped in the laboratory .", "premise": "The artists recognized the scientist helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13277", "hypothesis": "The professors helped in the school .", "premise": "The professors helped in the school contacted the athletes .", "label": "non-entailment"}
+{"index": "ex13278", "hypothesis": "The actors helped in the library .", "premise": "The actors helped in the library performed .", "label": "non-entailment"}
+{"index": "ex13279", "hypothesis": "The actors investigated in the museum .", "premise": "The actors investigated in the museum waited .", "label": "non-entailment"}
+{"index": "ex13280", "hypothesis": "The banker investigated in the school .", "premise": "The president thanked the banker investigated in the school .", "label": "non-entailment"}
+{"index": "ex13281", "hypothesis": "The students investigated in the office .", "premise": "The students investigated in the office thanked the judges .", "label": "non-entailment"}
+{"index": "ex13283", "hypothesis": "The authors presented in the school .", "premise": "The authors presented in the school arrived .", "label": "non-entailment"}
+{"index": "ex13284", "hypothesis": "The judge paid in the library .", "premise": "The judge paid in the library recognized the scientists .", "label": "non-entailment"}
+{"index": "ex13286", "hypothesis": "The managers investigated in the laboratory .", "premise": "The judges introduced the managers investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13287", "hypothesis": "The lawyers presented in the office .", "premise": "The professors mentioned the lawyers presented in the office .", "label": "non-entailment"}
+{"index": "ex13288", "hypothesis": "The banker paid in the museum .", "premise": "The actors supported the banker paid in the museum .", "label": "non-entailment"}
+{"index": "ex13289", "hypothesis": "The lawyer helped in the school .", "premise": "The student believed the lawyer helped in the school .", "label": "non-entailment"}
+{"index": "ex13290", "hypothesis": "The senators helped in the library .", "premise": "The senators helped in the library supported the athletes .", "label": "non-entailment"}
+{"index": "ex13291", "hypothesis": "The authors studied in the laboratory .", "premise": "The managers helped the authors studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13292", "hypothesis": "The judges helped in the school .", "premise": "The judges helped in the school recognized the doctor .", "label": "non-entailment"}
+{"index": "ex13293", "hypothesis": "The scientist investigated in the museum .", "premise": "The scientist investigated in the museum encouraged the secretaries .", "label": "non-entailment"}
+{"index": "ex13294", "hypothesis": "The doctor presented in the library .", "premise": "The doctor presented in the library encouraged the student .", "label": "non-entailment"}
+{"index": "ex13295", "hypothesis": "The student studied in the school .", "premise": "The student studied in the school contacted the artist .", "label": "non-entailment"}
+{"index": "ex13296", "hypothesis": "The scientists helped in the office .", "premise": "The artist avoided the scientists helped in the office .", "label": "non-entailment"}
+{"index": "ex13297", "hypothesis": "The president investigated in the laboratory .", "premise": "The president investigated in the laboratory arrived .", "label": "non-entailment"}
+{"index": "ex13299", "hypothesis": "The doctor investigated in the school .", "premise": "The manager called the doctor investigated in the school .", "label": "non-entailment"}
+{"index": "ex13300", "hypothesis": "The athlete helped in the laboratory .", "premise": "The student admired the athlete helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13301", "hypothesis": "The judge investigated in the museum .", "premise": "The tourist mentioned the judge investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13302", "hypothesis": "The secretaries studied in the school .", "premise": "The secretaries studied in the school encouraged the tourist .", "label": "non-entailment"}
+{"index": "ex13303", "hypothesis": "The presidents presented in the museum .", "premise": "The presidents presented in the museum resigned .", "label": "non-entailment"}
+{"index": "ex13304", "hypothesis": "The tourist paid in the school .", "premise": "The scientists supported the tourist paid in the school .", "label": "non-entailment"}
+{"index": "ex13305", "hypothesis": "The lawyer investigated in the school .", "premise": "The athlete recommended the lawyer investigated in the school .", "label": "non-entailment"}
+{"index": "ex13306", "hypothesis": "The secretaries presented in the library .", "premise": "The secretaries presented in the library recognized the artist .", "label": "non-entailment"}
+{"index": "ex13307", "hypothesis": "The lawyer paid in the school .", "premise": "The lawyer paid in the school advised the artist .", "label": "non-entailment"}
+{"index": "ex13308", "hypothesis": "The banker investigated in the office .", "premise": "The banker investigated in the office danced .", "label": "non-entailment"}
+{"index": "ex13309", "hypothesis": "The lawyer studied in the library .", "premise": "The lawyer studied in the library supported the secretary .", "label": "non-entailment"}
+{"index": "ex13310", "hypothesis": "The senator investigated in the office .", "premise": "The senator investigated in the office helped the doctor .", "label": "non-entailment"}
+{"index": "ex13311", "hypothesis": "The presidents presented in the laboratory .", "premise": "The tourist introduced the presidents presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13312", "hypothesis": "The authors studied in the office .", "premise": "The authors studied in the office introduced the tourist .", "label": "non-entailment"}
+{"index": "ex13313", "hypothesis": "The artist presented in the office .", "premise": "The artist presented in the office stopped the presidents .", "label": "non-entailment"}
+{"index": "ex13314", "hypothesis": "The bankers paid in the office .", "premise": "The bankers paid in the office resigned .", "label": "non-entailment"}
+{"index": "ex13315", "hypothesis": "The bankers presented in the museum .", "premise": "The bankers presented in the museum admired the tourists .", "label": "non-entailment"}
+{"index": "ex13316", "hypothesis": "The author presented in the museum .", "premise": "The author presented in the museum waited .", "label": "non-entailment"}
+{"index": "ex13317", "hypothesis": "The professor helped in the museum .", "premise": "The professor helped in the museum called the judges .", "label": "non-entailment"}
+{"index": "ex13318", "hypothesis": "The president investigated in the laboratory .", "premise": "The bankers recommended the president investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13319", "hypothesis": "The lawyers studied in the library .", "premise": "The lawyers studied in the library called the secretary .", "label": "non-entailment"}
+{"index": "ex13320", "hypothesis": "The actor studied in the museum .", "premise": "The actor studied in the museum avoided the author .", "label": "non-entailment"}
+{"index": "ex13321", "hypothesis": "The artist studied in the school .", "premise": "The artist studied in the school mentioned the secretaries .", "label": "non-entailment"}
+{"index": "ex13322", "hypothesis": "The student presented in the museum .", "premise": "The athlete introduced the student presented in the museum .", "label": "non-entailment"}
+{"index": "ex13323", "hypothesis": "The tourists studied in the library .", "premise": "The tourists studied in the library performed .", "label": "non-entailment"}
+{"index": "ex13324", "hypothesis": "The artists presented in the office .", "premise": "The artists presented in the office waited .", "label": "non-entailment"}
+{"index": "ex13325", "hypothesis": "The senators investigated in the school .", "premise": "The professor saw the senators investigated in the school .", "label": "non-entailment"}
+{"index": "ex13326", "hypothesis": "The managers studied in the library .", "premise": "The managers studied in the library stopped the doctor .", "label": "non-entailment"}
+{"index": "ex13327", "hypothesis": "The scientists investigated in the school .", "premise": "The scientists investigated in the school encouraged the judges .", "label": "non-entailment"}
+{"index": "ex13328", "hypothesis": "The artists studied in the library .", "premise": "The artists studied in the library introduced the banker .", "label": "non-entailment"}
+{"index": "ex13329", "hypothesis": "The student helped in the library .", "premise": "The student helped in the library thanked the judges .", "label": "non-entailment"}
+{"index": "ex13330", "hypothesis": "The artist paid in the office .", "premise": "The professor helped the artist paid in the office .", "label": "non-entailment"}
+{"index": "ex13331", "hypothesis": "The actor presented in the office .", "premise": "The authors avoided the actor presented in the office .", "label": "non-entailment"}
+{"index": "ex13332", "hypothesis": "The tourists paid in the office .", "premise": "The tourists paid in the office recommended the judges .", "label": "non-entailment"}
+{"index": "ex13333", "hypothesis": "The judge helped in the museum .", "premise": "The judge helped in the museum shouted .", "label": "non-entailment"}
+{"index": "ex13334", "hypothesis": "The artists studied in the laboratory .", "premise": "The artists studied in the laboratory slept .", "label": "non-entailment"}
+{"index": "ex13335", "hypothesis": "The authors presented in the school .", "premise": "The authors presented in the school supported the lawyer .", "label": "non-entailment"}
+{"index": "ex13336", "hypothesis": "The judges studied in the school .", "premise": "The athletes avoided the judges studied in the school .", "label": "non-entailment"}
+{"index": "ex13337", "hypothesis": "The judges helped in the library .", "premise": "The judges helped in the library performed .", "label": "non-entailment"}
+{"index": "ex13338", "hypothesis": "The athletes investigated in the school .", "premise": "The athletes investigated in the school danced .", "label": "non-entailment"}
+{"index": "ex13339", "hypothesis": "The senator studied in the laboratory .", "premise": "The senator studied in the laboratory contacted the lawyer .", "label": "non-entailment"}
+{"index": "ex13340", "hypothesis": "The senator paid in the school .", "premise": "The senator paid in the school arrived .", "label": "non-entailment"}
+{"index": "ex13341", "hypothesis": "The tourist helped in the school .", "premise": "The tourist helped in the school slept .", "label": "non-entailment"}
+{"index": "ex13342", "hypothesis": "The scientist helped in the museum .", "premise": "The professor supported the scientist helped in the museum .", "label": "non-entailment"}
+{"index": "ex13343", "hypothesis": "The professor investigated in the office .", "premise": "The professor investigated in the office supported the scientist .", "label": "non-entailment"}
+{"index": "ex13344", "hypothesis": "The scientist helped in the school .", "premise": "The authors avoided the scientist helped in the school .", "label": "non-entailment"}
+{"index": "ex13345", "hypothesis": "The secretaries presented in the museum .", "premise": "The secretaries presented in the museum danced .", "label": "non-entailment"}
+{"index": "ex13346", "hypothesis": "The judge investigated in the library .", "premise": "The judge investigated in the library arrived .", "label": "non-entailment"}
+{"index": "ex13347", "hypothesis": "The artist presented in the library .", "premise": "The doctors called the artist presented in the library .", "label": "non-entailment"}
+{"index": "ex13348", "hypothesis": "The lawyers investigated in the office .", "premise": "The manager introduced the lawyers investigated in the office .", "label": "non-entailment"}
+{"index": "ex13349", "hypothesis": "The tourist investigated in the office .", "premise": "The tourist investigated in the office helped the banker .", "label": "non-entailment"}
+{"index": "ex13350", "hypothesis": "The secretaries helped in the museum .", "premise": "The secretaries helped in the museum danced .", "label": "non-entailment"}
+{"index": "ex13351", "hypothesis": "The doctor paid in the museum .", "premise": "The lawyer encouraged the doctor paid in the museum .", "label": "non-entailment"}
+{"index": "ex13352", "hypothesis": "The scientists investigated in the laboratory .", "premise": "The scientists investigated in the laboratory performed .", "label": "non-entailment"}
+{"index": "ex13353", "hypothesis": "The doctors studied in the office .", "premise": "The athlete advised the doctors studied in the office .", "label": "non-entailment"}
+{"index": "ex13354", "hypothesis": "The actor paid in the school .", "premise": "The actor paid in the school waited .", "label": "non-entailment"}
+{"index": "ex13355", "hypothesis": "The judges studied in the laboratory .", "premise": "The manager admired the judges studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13356", "hypothesis": "The professor paid in the museum .", "premise": "The professor paid in the museum ran .", "label": "non-entailment"}
+{"index": "ex13357", "hypothesis": "The banker investigated in the museum .", "premise": "The managers stopped the banker investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13358", "hypothesis": "The doctor presented in the laboratory .", "premise": "The artists recommended the doctor presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13359", "hypothesis": "The artist paid in the laboratory .", "premise": "The lawyers encouraged the artist paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13360", "hypothesis": "The managers presented in the office .", "premise": "The managers presented in the office contacted the artists .", "label": "non-entailment"}
+{"index": "ex13361", "hypothesis": "The athletes presented in the laboratory .", "premise": "The athletes presented in the laboratory contacted the banker .", "label": "non-entailment"}
+{"index": "ex13362", "hypothesis": "The presidents studied in the library .", "premise": "The presidents studied in the library resigned .", "label": "non-entailment"}
+{"index": "ex13363", "hypothesis": "The judge presented in the museum .", "premise": "The judge presented in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13364", "hypothesis": "The judges presented in the school .", "premise": "The actors supported the judges presented in the school .", "label": "non-entailment"}
+{"index": "ex13365", "hypothesis": "The tourists paid in the museum .", "premise": "The tourists paid in the museum performed .", "label": "non-entailment"}
+{"index": "ex13366", "hypothesis": "The banker presented in the laboratory .", "premise": "The banker presented in the laboratory avoided the manager .", "label": "non-entailment"}
+{"index": "ex13367", "hypothesis": "The professor helped in the school .", "premise": "The professor helped in the school saw the author .", "label": "non-entailment"}
+{"index": "ex13368", "hypothesis": "The manager presented in the laboratory .", "premise": "The manager presented in the laboratory introduced the banker .", "label": "non-entailment"}
+{"index": "ex13369", "hypothesis": "The tourist presented in the library .", "premise": "The tourist presented in the library contacted the professors .", "label": "non-entailment"}
+{"index": "ex13370", "hypothesis": "The tourist helped in the laboratory .", "premise": "The tourist helped in the laboratory shouted .", "label": "non-entailment"}
+{"index": "ex13371", "hypothesis": "The artist investigated in the museum .", "premise": "The professor recommended the artist investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13372", "hypothesis": "The athletes presented in the laboratory .", "premise": "The athletes presented in the laboratory avoided the banker .", "label": "non-entailment"}
+{"index": "ex13373", "hypothesis": "The secretary helped in the office .", "premise": "The scientist encouraged the secretary helped in the office .", "label": "non-entailment"}
+{"index": "ex13374", "hypothesis": "The bankers helped in the school .", "premise": "The bankers helped in the school slept .", "label": "non-entailment"}
+{"index": "ex13375", "hypothesis": "The judge investigated in the school .", "premise": "The judge investigated in the school admired the student .", "label": "non-entailment"}
+{"index": "ex13376", "hypothesis": "The senator helped in the museum .", "premise": "The actor recommended the senator helped in the museum .", "label": "non-entailment"}
+{"index": "ex13377", "hypothesis": "The secretaries investigated in the laboratory .", "premise": "The artist mentioned the secretaries investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13378", "hypothesis": "The tourist studied in the library .", "premise": "The tourist studied in the library mentioned the bankers .", "label": "non-entailment"}
+{"index": "ex13379", "hypothesis": "The professor studied in the library .", "premise": "The professor studied in the library recognized the judge .", "label": "non-entailment"}
+{"index": "ex13380", "hypothesis": "The senator helped in the museum .", "premise": "The senator helped in the museum waited .", "label": "non-entailment"}
+{"index": "ex13381", "hypothesis": "The managers presented in the laboratory .", "premise": "The presidents believed the managers presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13382", "hypothesis": "The banker studied in the office .", "premise": "The banker studied in the office advised the doctor .", "label": "non-entailment"}
+{"index": "ex13383", "hypothesis": "The artists paid in the museum .", "premise": "The artists paid in the museum ran .", "label": "non-entailment"}
+{"index": "ex13384", "hypothesis": "The actor presented in the school .", "premise": "The actor presented in the school called the athlete .", "label": "non-entailment"}
+{"index": "ex13385", "hypothesis": "The senators presented in the school .", "premise": "The lawyer advised the senators presented in the school .", "label": "non-entailment"}
+{"index": "ex13386", "hypothesis": "The senator helped in the laboratory .", "premise": "The students encouraged the senator helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13387", "hypothesis": "The artists helped in the laboratory .", "premise": "The artists helped in the laboratory stopped the student .", "label": "non-entailment"}
+{"index": "ex13388", "hypothesis": "The presidents presented in the museum .", "premise": "The banker mentioned the presidents presented in the museum .", "label": "non-entailment"}
+{"index": "ex13389", "hypothesis": "The author investigated in the museum .", "premise": "The author investigated in the museum advised the artists .", "label": "non-entailment"}
+{"index": "ex13390", "hypothesis": "The author presented in the museum .", "premise": "The doctors stopped the author presented in the museum .", "label": "non-entailment"}
+{"index": "ex13391", "hypothesis": "The students paid in the laboratory .", "premise": "The students paid in the laboratory introduced the lawyer .", "label": "non-entailment"}
+{"index": "ex13392", "hypothesis": "The scientist studied in the school .", "premise": "The scientist studied in the school slept .", "label": "non-entailment"}
+{"index": "ex13393", "hypothesis": "The judges studied in the office .", "premise": "The judges studied in the office danced .", "label": "non-entailment"}
+{"index": "ex13394", "hypothesis": "The authors helped in the laboratory .", "premise": "The artists advised the authors helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13395", "hypothesis": "The lawyers presented in the office .", "premise": "The lawyers presented in the office resigned .", "label": "non-entailment"}
+{"index": "ex13396", "hypothesis": "The student helped in the office .", "premise": "The professors saw the student helped in the office .", "label": "non-entailment"}
+{"index": "ex13397", "hypothesis": "The bankers investigated in the laboratory .", "premise": "The students saw the bankers investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13398", "hypothesis": "The lawyers presented in the museum .", "premise": "The lawyers presented in the museum recommended the judge .", "label": "non-entailment"}
+{"index": "ex13399", "hypothesis": "The professors paid in the office .", "premise": "The professors paid in the office thanked the actor .", "label": "non-entailment"}
+{"index": "ex13400", "hypothesis": "The senator presented in the laboratory .", "premise": "The senator presented in the laboratory stopped the doctor .", "label": "non-entailment"}
+{"index": "ex13401", "hypothesis": "The scientists presented in the school .", "premise": "The bankers saw the scientists presented in the school .", "label": "non-entailment"}
+{"index": "ex13402", "hypothesis": "The scientists presented in the laboratory .", "premise": "The scientists presented in the laboratory stopped the authors .", "label": "non-entailment"}
+{"index": "ex13403", "hypothesis": "The tourist investigated in the library .", "premise": "The tourist investigated in the library waited .", "label": "non-entailment"}
+{"index": "ex13404", "hypothesis": "The senators studied in the laboratory .", "premise": "The senators studied in the laboratory arrived .", "label": "non-entailment"}
+{"index": "ex13405", "hypothesis": "The banker paid in the office .", "premise": "The tourists thanked the banker paid in the office .", "label": "non-entailment"}
+{"index": "ex13406", "hypothesis": "The professors presented in the museum .", "premise": "The professors presented in the museum shouted .", "label": "non-entailment"}
+{"index": "ex13407", "hypothesis": "The secretary studied in the laboratory .", "premise": "The secretary studied in the laboratory called the artist .", "label": "non-entailment"}
+{"index": "ex13408", "hypothesis": "The doctor investigated in the museum .", "premise": "The doctor investigated in the museum recommended the secretaries .", "label": "non-entailment"}
+{"index": "ex13409", "hypothesis": "The bankers paid in the office .", "premise": "The actor mentioned the bankers paid in the office .", "label": "non-entailment"}
+{"index": "ex13410", "hypothesis": "The artists investigated in the office .", "premise": "The artists investigated in the office danced .", "label": "non-entailment"}
+{"index": "ex13411", "hypothesis": "The manager studied in the school .", "premise": "The manager studied in the school danced .", "label": "non-entailment"}
+{"index": "ex13412", "hypothesis": "The bankers studied in the school .", "premise": "The bankers studied in the school avoided the doctors .", "label": "non-entailment"}
+{"index": "ex13413", "hypothesis": "The doctors presented in the library .", "premise": "The artists thanked the doctors presented in the library .", "label": "non-entailment"}
+{"index": "ex13415", "hypothesis": "The scientist presented in the office .", "premise": "The scientist presented in the office helped the senators .", "label": "non-entailment"}
+{"index": "ex13416", "hypothesis": "The artists studied in the office .", "premise": "The scientist admired the artists studied in the office .", "label": "non-entailment"}
+{"index": "ex13417", "hypothesis": "The student investigated in the museum .", "premise": "The student investigated in the museum thanked the managers .", "label": "non-entailment"}
+{"index": "ex13418", "hypothesis": "The bankers paid in the museum .", "premise": "The bankers paid in the museum slept .", "label": "non-entailment"}
+{"index": "ex13419", "hypothesis": "The secretary presented in the museum .", "premise": "The actor encouraged the secretary presented in the museum .", "label": "non-entailment"}
+{"index": "ex13420", "hypothesis": "The judge studied in the library .", "premise": "The judge studied in the library slept .", "label": "non-entailment"}
+{"index": "ex13421", "hypothesis": "The president paid in the museum .", "premise": "The president paid in the museum saw the author .", "label": "non-entailment"}
+{"index": "ex13422", "hypothesis": "The secretary presented in the school .", "premise": "The secretary presented in the school mentioned the students .", "label": "non-entailment"}
+{"index": "ex13423", "hypothesis": "The judge paid in the laboratory .", "premise": "The professors recommended the judge paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13424", "hypothesis": "The artist studied in the museum .", "premise": "The artist studied in the museum believed the secretary .", "label": "non-entailment"}
+{"index": "ex13425", "hypothesis": "The student presented in the office .", "premise": "The manager saw the student presented in the office .", "label": "non-entailment"}
+{"index": "ex13426", "hypothesis": "The senator helped in the school .", "premise": "The senator helped in the school danced .", "label": "non-entailment"}
+{"index": "ex13427", "hypothesis": "The doctor helped in the office .", "premise": "The doctor helped in the office believed the secretaries .", "label": "non-entailment"}
+{"index": "ex13428", "hypothesis": "The professor investigated in the museum .", "premise": "The manager recommended the professor investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13429", "hypothesis": "The doctors helped in the library .", "premise": "The doctors helped in the library called the students .", "label": "non-entailment"}
+{"index": "ex13430", "hypothesis": "The lawyer studied in the library .", "premise": "The athlete believed the lawyer studied in the library .", "label": "non-entailment"}
+{"index": "ex13431", "hypothesis": "The actor investigated in the office .", "premise": "The doctor admired the actor investigated in the office .", "label": "non-entailment"}
+{"index": "ex13432", "hypothesis": "The tourists helped in the school .", "premise": "The tourists helped in the school danced .", "label": "non-entailment"}
+{"index": "ex13433", "hypothesis": "The banker presented in the laboratory .", "premise": "The banker presented in the laboratory shouted .", "label": "non-entailment"}
+{"index": "ex13434", "hypothesis": "The professors investigated in the museum .", "premise": "The professors investigated in the museum slept .", "label": "non-entailment"}
+{"index": "ex13435", "hypothesis": "The artists presented in the office .", "premise": "The artists presented in the office arrived .", "label": "non-entailment"}
+{"index": "ex13436", "hypothesis": "The scientist investigated in the laboratory .", "premise": "The scientist investigated in the laboratory introduced the author .", "label": "non-entailment"}
+{"index": "ex13437", "hypothesis": "The president helped in the office .", "premise": "The president helped in the office danced .", "label": "non-entailment"}
+{"index": "ex13438", "hypothesis": "The senators helped in the school .", "premise": "The senators helped in the school believed the student .", "label": "non-entailment"}
+{"index": "ex13439", "hypothesis": "The students presented in the museum .", "premise": "The authors avoided the students presented in the museum .", "label": "non-entailment"}
+{"index": "ex13440", "hypothesis": "The artists helped in the school .", "premise": "The artists helped in the school introduced the professors .", "label": "non-entailment"}
+{"index": "ex13441", "hypothesis": "The tourist helped in the school .", "premise": "The tourist helped in the school stopped the actors .", "label": "non-entailment"}
+{"index": "ex13442", "hypothesis": "The president helped in the library .", "premise": "The president helped in the library ran .", "label": "non-entailment"}
+{"index": "ex13443", "hypothesis": "The judge presented in the laboratory .", "premise": "The author saw the judge presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13444", "hypothesis": "The actor presented in the museum .", "premise": "The actor presented in the museum thanked the author .", "label": "non-entailment"}
+{"index": "ex13445", "hypothesis": "The professors investigated in the museum .", "premise": "The professors investigated in the museum helped the actor .", "label": "non-entailment"}
+{"index": "ex13446", "hypothesis": "The lawyers studied in the library .", "premise": "The presidents stopped the lawyers studied in the library .", "label": "non-entailment"}
+{"index": "ex13447", "hypothesis": "The doctors presented in the museum .", "premise": "The doctors presented in the museum recognized the artists .", "label": "non-entailment"}
+{"index": "ex13449", "hypothesis": "The actors presented in the museum .", "premise": "The artists avoided the actors presented in the museum .", "label": "non-entailment"}
+{"index": "ex13450", "hypothesis": "The president presented in the laboratory .", "premise": "The president presented in the laboratory slept .", "label": "non-entailment"}
+{"index": "ex13451", "hypothesis": "The artist presented in the laboratory .", "premise": "The professors admired the artist presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13452", "hypothesis": "The athlete investigated in the laboratory .", "premise": "The student avoided the athlete investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13453", "hypothesis": "The professors paid in the office .", "premise": "The professors paid in the office performed .", "label": "non-entailment"}
+{"index": "ex13454", "hypothesis": "The tourists studied in the laboratory .", "premise": "The tourists studied in the laboratory recognized the senator .", "label": "non-entailment"}
+{"index": "ex13455", "hypothesis": "The lawyer investigated in the museum .", "premise": "The actors thanked the lawyer investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13456", "hypothesis": "The senator studied in the library .", "premise": "The athlete admired the senator studied in the library .", "label": "non-entailment"}
+{"index": "ex13457", "hypothesis": "The artists helped in the school .", "premise": "The actors advised the artists helped in the school .", "label": "non-entailment"}
+{"index": "ex13458", "hypothesis": "The secretary studied in the school .", "premise": "The secretary studied in the school admired the artist .", "label": "non-entailment"}
+{"index": "ex13459", "hypothesis": "The actors paid in the office .", "premise": "The actors paid in the office contacted the bankers .", "label": "non-entailment"}
+{"index": "ex13460", "hypothesis": "The author paid in the library .", "premise": "The banker stopped the author paid in the library .", "label": "non-entailment"}
+{"index": "ex13461", "hypothesis": "The student investigated in the laboratory .", "premise": "The student investigated in the laboratory thanked the managers .", "label": "non-entailment"}
+{"index": "ex13462", "hypothesis": "The student studied in the library .", "premise": "The student studied in the library performed .", "label": "non-entailment"}
+{"index": "ex13463", "hypothesis": "The actors paid in the library .", "premise": "The artist avoided the actors paid in the library .", "label": "non-entailment"}
+{"index": "ex13464", "hypothesis": "The judges investigated in the laboratory .", "premise": "The judges investigated in the laboratory arrived .", "label": "non-entailment"}
+{"index": "ex13465", "hypothesis": "The professors presented in the office .", "premise": "The professors presented in the office recognized the author .", "label": "non-entailment"}
+{"index": "ex13466", "hypothesis": "The doctor investigated in the museum .", "premise": "The doctor investigated in the museum stopped the secretary .", "label": "non-entailment"}
+{"index": "ex13467", "hypothesis": "The bankers presented in the office .", "premise": "The scientists advised the bankers presented in the office .", "label": "non-entailment"}
+{"index": "ex13468", "hypothesis": "The president investigated in the school .", "premise": "The president investigated in the school admired the athletes .", "label": "non-entailment"}
+{"index": "ex13469", "hypothesis": "The senators investigated in the library .", "premise": "The managers mentioned the senators investigated in the library .", "label": "non-entailment"}
+{"index": "ex13470", "hypothesis": "The actor investigated in the museum .", "premise": "The judge contacted the actor investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13471", "hypothesis": "The lawyer presented in the museum .", "premise": "The lawyer presented in the museum recognized the senators .", "label": "non-entailment"}
+{"index": "ex13472", "hypothesis": "The actor studied in the school .", "premise": "The bankers avoided the actor studied in the school .", "label": "non-entailment"}
+{"index": "ex13473", "hypothesis": "The tourist paid in the library .", "premise": "The author saw the tourist paid in the library .", "label": "non-entailment"}
+{"index": "ex13474", "hypothesis": "The professor investigated in the school .", "premise": "The artists helped the professor investigated in the school .", "label": "non-entailment"}
+{"index": "ex13475", "hypothesis": "The presidents helped in the school .", "premise": "The students saw the presidents helped in the school .", "label": "non-entailment"}
+{"index": "ex13476", "hypothesis": "The athletes presented in the museum .", "premise": "The athletes presented in the museum encouraged the scientists .", "label": "non-entailment"}
+{"index": "ex13477", "hypothesis": "The authors paid in the library .", "premise": "The authors paid in the library advised the student .", "label": "non-entailment"}
+{"index": "ex13478", "hypothesis": "The lawyer helped in the office .", "premise": "The author saw the lawyer helped in the office .", "label": "non-entailment"}
+{"index": "ex13479", "hypothesis": "The lawyers helped in the school .", "premise": "The lawyers helped in the school arrived .", "label": "non-entailment"}
+{"index": "ex13480", "hypothesis": "The tourist studied in the laboratory .", "premise": "The tourist studied in the laboratory contacted the judge .", "label": "non-entailment"}
+{"index": "ex13481", "hypothesis": "The artist studied in the office .", "premise": "The athletes contacted the artist studied in the office .", "label": "non-entailment"}
+{"index": "ex13482", "hypothesis": "The secretary investigated in the laboratory .", "premise": "The judge introduced the secretary investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13483", "hypothesis": "The student investigated in the laboratory .", "premise": "The student investigated in the laboratory advised the banker .", "label": "non-entailment"}
+{"index": "ex13484", "hypothesis": "The banker presented in the laboratory .", "premise": "The managers encouraged the banker presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13485", "hypothesis": "The artist investigated in the office .", "premise": "The president admired the artist investigated in the office .", "label": "non-entailment"}
+{"index": "ex13486", "hypothesis": "The senator paid in the library .", "premise": "The senator paid in the library resigned .", "label": "non-entailment"}
+{"index": "ex13487", "hypothesis": "The artist studied in the office .", "premise": "The artist studied in the office helped the senators .", "label": "non-entailment"}
+{"index": "ex13488", "hypothesis": "The professors presented in the laboratory .", "premise": "The lawyers helped the professors presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13489", "hypothesis": "The bankers studied in the library .", "premise": "The secretaries supported the bankers studied in the library .", "label": "non-entailment"}
+{"index": "ex13490", "hypothesis": "The author studied in the school .", "premise": "The author studied in the school danced .", "label": "non-entailment"}
+{"index": "ex13491", "hypothesis": "The lawyers presented in the laboratory .", "premise": "The president stopped the lawyers presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13492", "hypothesis": "The author helped in the museum .", "premise": "The presidents recognized the author helped in the museum .", "label": "non-entailment"}
+{"index": "ex13493", "hypothesis": "The professor paid in the museum .", "premise": "The professor paid in the museum admired the judges .", "label": "non-entailment"}
+{"index": "ex13494", "hypothesis": "The president studied in the school .", "premise": "The president studied in the school slept .", "label": "non-entailment"}
+{"index": "ex13495", "hypothesis": "The scientist presented in the museum .", "premise": "The scientist presented in the museum admired the athletes .", "label": "non-entailment"}
+{"index": "ex13496", "hypothesis": "The artist studied in the school .", "premise": "The artist studied in the school supported the professors .", "label": "non-entailment"}
+{"index": "ex13497", "hypothesis": "The tourist presented in the library .", "premise": "The managers admired the tourist presented in the library .", "label": "non-entailment"}
+{"index": "ex13498", "hypothesis": "The managers presented in the laboratory .", "premise": "The presidents advised the managers presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13499", "hypothesis": "The doctors helped in the school .", "premise": "The doctors helped in the school introduced the authors .", "label": "non-entailment"}
+{"index": "ex13500", "hypothesis": "The author paid in the laboratory .", "premise": "The banker saw the author paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13501", "hypothesis": "The tourist paid in the office .", "premise": "The tourist paid in the office ran .", "label": "non-entailment"}
+{"index": "ex13502", "hypothesis": "The lawyer helped in the library .", "premise": "The lawyer helped in the library supported the scientists .", "label": "non-entailment"}
+{"index": "ex13503", "hypothesis": "The author investigated in the office .", "premise": "The author investigated in the office arrived .", "label": "non-entailment"}
+{"index": "ex13504", "hypothesis": "The scientist presented in the museum .", "premise": "The scientist presented in the museum advised the tourists .", "label": "non-entailment"}
+{"index": "ex13505", "hypothesis": "The actors paid in the laboratory .", "premise": "The actors paid in the laboratory stopped the judge .", "label": "non-entailment"}
+{"index": "ex13506", "hypothesis": "The athlete investigated in the library .", "premise": "The secretaries thanked the athlete investigated in the library .", "label": "non-entailment"}
+{"index": "ex13507", "hypothesis": "The banker studied in the school .", "premise": "The athletes supported the banker studied in the school .", "label": "non-entailment"}
+{"index": "ex13508", "hypothesis": "The lawyers presented in the office .", "premise": "The secretary admired the lawyers presented in the office .", "label": "non-entailment"}
+{"index": "ex13509", "hypothesis": "The president investigated in the laboratory .", "premise": "The banker saw the president investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13510", "hypothesis": "The athletes investigated in the school .", "premise": "The managers supported the athletes investigated in the school .", "label": "non-entailment"}
+{"index": "ex13511", "hypothesis": "The judges studied in the library .", "premise": "The doctor advised the judges studied in the library .", "label": "non-entailment"}
+{"index": "ex13512", "hypothesis": "The secretaries studied in the office .", "premise": "The secretaries studied in the office advised the student .", "label": "non-entailment"}
+{"index": "ex13513", "hypothesis": "The artists helped in the museum .", "premise": "The artists helped in the museum believed the president .", "label": "non-entailment"}
+{"index": "ex13514", "hypothesis": "The artist paid in the laboratory .", "premise": "The professors helped the artist paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13515", "hypothesis": "The lawyers paid in the school .", "premise": "The author supported the lawyers paid in the school .", "label": "non-entailment"}
+{"index": "ex13516", "hypothesis": "The student studied in the school .", "premise": "The student studied in the school performed .", "label": "non-entailment"}
+{"index": "ex13517", "hypothesis": "The president helped in the school .", "premise": "The senators mentioned the president helped in the school .", "label": "non-entailment"}
+{"index": "ex13518", "hypothesis": "The doctor paid in the school .", "premise": "The doctor paid in the school believed the professors .", "label": "non-entailment"}
+{"index": "ex13519", "hypothesis": "The bankers paid in the laboratory .", "premise": "The bankers paid in the laboratory saw the secretaries .", "label": "non-entailment"}
+{"index": "ex13520", "hypothesis": "The managers helped in the office .", "premise": "The managers helped in the office recognized the senator .", "label": "non-entailment"}
+{"index": "ex13521", "hypothesis": "The lawyer investigated in the library .", "premise": "The lawyer investigated in the library helped the student .", "label": "non-entailment"}
+{"index": "ex13522", "hypothesis": "The president paid in the museum .", "premise": "The president paid in the museum helped the actor .", "label": "non-entailment"}
+{"index": "ex13523", "hypothesis": "The professors studied in the museum .", "premise": "The professors studied in the museum danced .", "label": "non-entailment"}
+{"index": "ex13524", "hypothesis": "The presidents studied in the museum .", "premise": "The bankers stopped the presidents studied in the museum .", "label": "non-entailment"}
+{"index": "ex13525", "hypothesis": "The tourists presented in the laboratory .", "premise": "The actors saw the tourists presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13526", "hypothesis": "The actors presented in the library .", "premise": "The actors presented in the library saw the scientists .", "label": "non-entailment"}
+{"index": "ex13527", "hypothesis": "The tourists studied in the school .", "premise": "The president encouraged the tourists studied in the school .", "label": "non-entailment"}
+{"index": "ex13528", "hypothesis": "The presidents paid in the office .", "premise": "The professors advised the presidents paid in the office .", "label": "non-entailment"}
+{"index": "ex13529", "hypothesis": "The manager investigated in the laboratory .", "premise": "The judge encouraged the manager investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13530", "hypothesis": "The author investigated in the library .", "premise": "The scientists helped the author investigated in the library .", "label": "non-entailment"}
+{"index": "ex13531", "hypothesis": "The secretaries presented in the laboratory .", "premise": "The secretaries presented in the laboratory believed the judge .", "label": "non-entailment"}
+{"index": "ex13532", "hypothesis": "The manager presented in the office .", "premise": "The secretary avoided the manager presented in the office .", "label": "non-entailment"}
+{"index": "ex13533", "hypothesis": "The lawyer studied in the school .", "premise": "The professors supported the lawyer studied in the school .", "label": "non-entailment"}
+{"index": "ex13534", "hypothesis": "The banker studied in the library .", "premise": "The banker studied in the library encouraged the scientists .", "label": "non-entailment"}
+{"index": "ex13535", "hypothesis": "The senators presented in the school .", "premise": "The senators presented in the school recommended the professor .", "label": "non-entailment"}
+{"index": "ex13536", "hypothesis": "The athletes studied in the library .", "premise": "The athletes studied in the library performed .", "label": "non-entailment"}
+{"index": "ex13537", "hypothesis": "The lawyer helped in the museum .", "premise": "The secretaries advised the lawyer helped in the museum .", "label": "non-entailment"}
+{"index": "ex13538", "hypothesis": "The lawyers paid in the museum .", "premise": "The secretary encouraged the lawyers paid in the museum .", "label": "non-entailment"}
+{"index": "ex13539", "hypothesis": "The lawyer studied in the library .", "premise": "The senator recommended the lawyer studied in the library .", "label": "non-entailment"}
+{"index": "ex13540", "hypothesis": "The secretary paid in the laboratory .", "premise": "The secretary paid in the laboratory introduced the students .", "label": "non-entailment"}
+{"index": "ex13541", "hypothesis": "The lawyer studied in the office .", "premise": "The lawyer studied in the office stopped the doctors .", "label": "non-entailment"}
+{"index": "ex13542", "hypothesis": "The artist paid in the laboratory .", "premise": "The president supported the artist paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13543", "hypothesis": "The athletes paid in the school .", "premise": "The athletes paid in the school contacted the authors .", "label": "non-entailment"}
+{"index": "ex13544", "hypothesis": "The scientists investigated in the laboratory .", "premise": "The artist encouraged the scientists investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13545", "hypothesis": "The president paid in the school .", "premise": "The scientists believed the president paid in the school .", "label": "non-entailment"}
+{"index": "ex13546", "hypothesis": "The students studied in the school .", "premise": "The tourist thanked the students studied in the school .", "label": "non-entailment"}
+{"index": "ex13547", "hypothesis": "The secretary paid in the office .", "premise": "The secretary paid in the office waited .", "label": "non-entailment"}
+{"index": "ex13548", "hypothesis": "The scientists investigated in the school .", "premise": "The scientists investigated in the school admired the judge .", "label": "non-entailment"}
+{"index": "ex13549", "hypothesis": "The banker investigated in the office .", "premise": "The lawyers advised the banker investigated in the office .", "label": "non-entailment"}
+{"index": "ex13550", "hypothesis": "The actors presented in the library .", "premise": "The student contacted the actors presented in the library .", "label": "non-entailment"}
+{"index": "ex13551", "hypothesis": "The scientists helped in the school .", "premise": "The students supported the scientists helped in the school .", "label": "non-entailment"}
+{"index": "ex13552", "hypothesis": "The scientist studied in the laboratory .", "premise": "The scientist studied in the laboratory called the students .", "label": "non-entailment"}
+{"index": "ex13553", "hypothesis": "The author helped in the laboratory .", "premise": "The author helped in the laboratory shouted .", "label": "non-entailment"}
+{"index": "ex13555", "hypothesis": "The judge studied in the school .", "premise": "The judge studied in the school supported the actors .", "label": "non-entailment"}
+{"index": "ex13556", "hypothesis": "The secretaries studied in the museum .", "premise": "The secretaries studied in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13557", "hypothesis": "The authors paid in the school .", "premise": "The tourist supported the authors paid in the school .", "label": "non-entailment"}
+{"index": "ex13558", "hypothesis": "The tourists paid in the school .", "premise": "The lawyer stopped the tourists paid in the school .", "label": "non-entailment"}
+{"index": "ex13559", "hypothesis": "The lawyer paid in the school .", "premise": "The lawyer paid in the school helped the president .", "label": "non-entailment"}
+{"index": "ex13560", "hypothesis": "The students helped in the museum .", "premise": "The students helped in the museum believed the senators .", "label": "non-entailment"}
+{"index": "ex13561", "hypothesis": "The senators paid in the museum .", "premise": "The senators paid in the museum contacted the secretaries .", "label": "non-entailment"}
+{"index": "ex13562", "hypothesis": "The actor paid in the laboratory .", "premise": "The lawyer contacted the actor paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13563", "hypothesis": "The actor helped in the museum .", "premise": "The actor helped in the museum advised the presidents .", "label": "non-entailment"}
+{"index": "ex13564", "hypothesis": "The secretaries investigated in the library .", "premise": "The secretaries investigated in the library believed the scientists .", "label": "non-entailment"}
+{"index": "ex13565", "hypothesis": "The authors studied in the laboratory .", "premise": "The authors studied in the laboratory believed the presidents .", "label": "non-entailment"}
+{"index": "ex13566", "hypothesis": "The managers investigated in the museum .", "premise": "The tourists mentioned the managers investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13567", "hypothesis": "The tourists presented in the library .", "premise": "The tourists presented in the library performed .", "label": "non-entailment"}
+{"index": "ex13568", "hypothesis": "The tourist studied in the school .", "premise": "The students advised the tourist studied in the school .", "label": "non-entailment"}
+{"index": "ex13569", "hypothesis": "The athlete helped in the laboratory .", "premise": "The athlete helped in the laboratory supported the professor .", "label": "non-entailment"}
+{"index": "ex13570", "hypothesis": "The artist investigated in the library .", "premise": "The artist investigated in the library slept .", "label": "non-entailment"}
+{"index": "ex13571", "hypothesis": "The student paid in the museum .", "premise": "The student paid in the museum admired the artists .", "label": "non-entailment"}
+{"index": "ex13572", "hypothesis": "The lawyer investigated in the school .", "premise": "The lawyer investigated in the school resigned .", "label": "non-entailment"}
+{"index": "ex13573", "hypothesis": "The actors studied in the school .", "premise": "The scientists encouraged the actors studied in the school .", "label": "non-entailment"}
+{"index": "ex13574", "hypothesis": "The artists helped in the school .", "premise": "The artists helped in the school contacted the managers .", "label": "non-entailment"}
+{"index": "ex13575", "hypothesis": "The students paid in the office .", "premise": "The students paid in the office stopped the senators .", "label": "non-entailment"}
+{"index": "ex13576", "hypothesis": "The doctors helped in the museum .", "premise": "The professors admired the doctors helped in the museum .", "label": "non-entailment"}
+{"index": "ex13577", "hypothesis": "The tourists helped in the museum .", "premise": "The tourists helped in the museum thanked the scientist .", "label": "non-entailment"}
+{"index": "ex13578", "hypothesis": "The authors helped in the library .", "premise": "The authors helped in the library encouraged the student .", "label": "non-entailment"}
+{"index": "ex13579", "hypothesis": "The lawyer presented in the laboratory .", "premise": "The lawyer presented in the laboratory encouraged the senators .", "label": "non-entailment"}
+{"index": "ex13580", "hypothesis": "The secretaries presented in the library .", "premise": "The secretaries presented in the library encouraged the manager .", "label": "non-entailment"}
+{"index": "ex13581", "hypothesis": "The professors paid in the library .", "premise": "The professors paid in the library resigned .", "label": "non-entailment"}
+{"index": "ex13582", "hypothesis": "The lawyer helped in the laboratory .", "premise": "The banker advised the lawyer helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13583", "hypothesis": "The athlete helped in the library .", "premise": "The athlete helped in the library contacted the scientists .", "label": "non-entailment"}
+{"index": "ex13584", "hypothesis": "The actor paid in the office .", "premise": "The author thanked the actor paid in the office .", "label": "non-entailment"}
+{"index": "ex13585", "hypothesis": "The doctors investigated in the office .", "premise": "The doctors investigated in the office mentioned the lawyers .", "label": "non-entailment"}
+{"index": "ex13586", "hypothesis": "The secretary paid in the museum .", "premise": "The secretary paid in the museum avoided the actors .", "label": "non-entailment"}
+{"index": "ex13587", "hypothesis": "The athlete investigated in the library .", "premise": "The artists recognized the athlete investigated in the library .", "label": "non-entailment"}
+{"index": "ex13588", "hypothesis": "The artists investigated in the office .", "premise": "The banker admired the artists investigated in the office .", "label": "non-entailment"}
+{"index": "ex13589", "hypothesis": "The bankers helped in the museum .", "premise": "The bankers helped in the museum danced .", "label": "non-entailment"}
+{"index": "ex13590", "hypothesis": "The senators paid in the library .", "premise": "The senators paid in the library recommended the doctor .", "label": "non-entailment"}
+{"index": "ex13591", "hypothesis": "The artists helped in the library .", "premise": "The artists helped in the library slept .", "label": "non-entailment"}
+{"index": "ex13592", "hypothesis": "The scientist presented in the museum .", "premise": "The athletes mentioned the scientist presented in the museum .", "label": "non-entailment"}
+{"index": "ex13593", "hypothesis": "The presidents studied in the office .", "premise": "The professors stopped the presidents studied in the office .", "label": "non-entailment"}
+{"index": "ex13594", "hypothesis": "The senators helped in the laboratory .", "premise": "The doctors contacted the senators helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13595", "hypothesis": "The lawyer helped in the museum .", "premise": "The lawyer helped in the museum avoided the managers .", "label": "non-entailment"}
+{"index": "ex13596", "hypothesis": "The manager presented in the museum .", "premise": "The manager presented in the museum recommended the authors .", "label": "non-entailment"}
+{"index": "ex13597", "hypothesis": "The professor investigated in the museum .", "premise": "The professor investigated in the museum introduced the senators .", "label": "non-entailment"}
+{"index": "ex13598", "hypothesis": "The banker studied in the office .", "premise": "The banker studied in the office advised the authors .", "label": "non-entailment"}
+{"index": "ex13599", "hypothesis": "The artist studied in the school .", "premise": "The artist studied in the school advised the actor .", "label": "non-entailment"}
+{"index": "ex13600", "hypothesis": "The lawyer investigated in the museum .", "premise": "The lawyer investigated in the museum recognized the athletes .", "label": "non-entailment"}
+{"index": "ex13601", "hypothesis": "The actors studied in the school .", "premise": "The actors studied in the school introduced the lawyer .", "label": "non-entailment"}
+{"index": "ex13602", "hypothesis": "The bankers presented in the office .", "premise": "The senator contacted the bankers presented in the office .", "label": "non-entailment"}
+{"index": "ex13603", "hypothesis": "The managers helped in the library .", "premise": "The managers helped in the library avoided the judge .", "label": "non-entailment"}
+{"index": "ex13604", "hypothesis": "The senators paid in the office .", "premise": "The senators paid in the office called the tourists .", "label": "non-entailment"}
+{"index": "ex13605", "hypothesis": "The banker studied in the office .", "premise": "The student helped the banker studied in the office .", "label": "non-entailment"}
+{"index": "ex13606", "hypothesis": "The senator paid in the library .", "premise": "The actor saw the senator paid in the library .", "label": "non-entailment"}
+{"index": "ex13607", "hypothesis": "The doctor studied in the office .", "premise": "The doctor studied in the office recommended the students .", "label": "non-entailment"}
+{"index": "ex13608", "hypothesis": "The students presented in the office .", "premise": "The scientist stopped the students presented in the office .", "label": "non-entailment"}
+{"index": "ex13609", "hypothesis": "The athlete paid in the library .", "premise": "The banker mentioned the athlete paid in the library .", "label": "non-entailment"}
+{"index": "ex13610", "hypothesis": "The author studied in the office .", "premise": "The scientists mentioned the author studied in the office .", "label": "non-entailment"}
+{"index": "ex13611", "hypothesis": "The senator studied in the laboratory .", "premise": "The senator studied in the laboratory supported the doctor .", "label": "non-entailment"}
+{"index": "ex13612", "hypothesis": "The doctor helped in the library .", "premise": "The actor recommended the doctor helped in the library .", "label": "non-entailment"}
+{"index": "ex13613", "hypothesis": "The judges helped in the library .", "premise": "The judges helped in the library admired the author .", "label": "non-entailment"}
+{"index": "ex13614", "hypothesis": "The students investigated in the laboratory .", "premise": "The athlete introduced the students investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13615", "hypothesis": "The scientist studied in the school .", "premise": "The scientist studied in the school stopped the actor .", "label": "non-entailment"}
+{"index": "ex13616", "hypothesis": "The athletes presented in the school .", "premise": "The actor introduced the athletes presented in the school .", "label": "non-entailment"}
+{"index": "ex13617", "hypothesis": "The secretaries helped in the school .", "premise": "The secretaries helped in the school resigned .", "label": "non-entailment"}
+{"index": "ex13618", "hypothesis": "The artist presented in the library .", "premise": "The artist presented in the library advised the bankers .", "label": "non-entailment"}
+{"index": "ex13619", "hypothesis": "The actors helped in the school .", "premise": "The actors helped in the school recommended the scientists .", "label": "non-entailment"}
+{"index": "ex13620", "hypothesis": "The authors helped in the library .", "premise": "The secretaries believed the authors helped in the library .", "label": "non-entailment"}
+{"index": "ex13621", "hypothesis": "The actor studied in the office .", "premise": "The doctors admired the actor studied in the office .", "label": "non-entailment"}
+{"index": "ex13622", "hypothesis": "The senator helped in the library .", "premise": "The author introduced the senator helped in the library .", "label": "non-entailment"}
+{"index": "ex13623", "hypothesis": "The professors paid in the laboratory .", "premise": "The professors paid in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13624", "hypothesis": "The lawyer paid in the laboratory .", "premise": "The lawyer paid in the laboratory mentioned the secretary .", "label": "non-entailment"}
+{"index": "ex13625", "hypothesis": "The artists studied in the museum .", "premise": "The artists studied in the museum danced .", "label": "non-entailment"}
+{"index": "ex13626", "hypothesis": "The presidents studied in the library .", "premise": "The tourist advised the presidents studied in the library .", "label": "non-entailment"}
+{"index": "ex13627", "hypothesis": "The managers presented in the school .", "premise": "The artist encouraged the managers presented in the school .", "label": "non-entailment"}
+{"index": "ex13628", "hypothesis": "The secretary studied in the museum .", "premise": "The secretary studied in the museum danced .", "label": "non-entailment"}
+{"index": "ex13629", "hypothesis": "The presidents paid in the school .", "premise": "The presidents paid in the school performed .", "label": "non-entailment"}
+{"index": "ex13630", "hypothesis": "The professors investigated in the school .", "premise": "The senators encouraged the professors investigated in the school .", "label": "non-entailment"}
+{"index": "ex13631", "hypothesis": "The banker paid in the school .", "premise": "The students stopped the banker paid in the school .", "label": "non-entailment"}
+{"index": "ex13632", "hypothesis": "The artist investigated in the school .", "premise": "The artist investigated in the school shouted .", "label": "non-entailment"}
+{"index": "ex13633", "hypothesis": "The author paid in the library .", "premise": "The artists supported the author paid in the library .", "label": "non-entailment"}
+{"index": "ex13635", "hypothesis": "The professors presented in the museum .", "premise": "The professors presented in the museum mentioned the scientists .", "label": "non-entailment"}
+{"index": "ex13636", "hypothesis": "The student presented in the office .", "premise": "The secretary contacted the student presented in the office .", "label": "non-entailment"}
+{"index": "ex13637", "hypothesis": "The secretary presented in the museum .", "premise": "The secretary presented in the museum saw the scientists .", "label": "non-entailment"}
+{"index": "ex13638", "hypothesis": "The students paid in the library .", "premise": "The managers contacted the students paid in the library .", "label": "non-entailment"}
+{"index": "ex13639", "hypothesis": "The managers paid in the museum .", "premise": "The managers paid in the museum helped the artists .", "label": "non-entailment"}
+{"index": "ex13640", "hypothesis": "The judge helped in the laboratory .", "premise": "The athletes believed the judge helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13641", "hypothesis": "The actor studied in the office .", "premise": "The senator believed the actor studied in the office .", "label": "non-entailment"}
+{"index": "ex13642", "hypothesis": "The secretary paid in the museum .", "premise": "The secretary paid in the museum waited .", "label": "non-entailment"}
+{"index": "ex13643", "hypothesis": "The professors investigated in the laboratory .", "premise": "The professors investigated in the laboratory avoided the senators .", "label": "non-entailment"}
+{"index": "ex13644", "hypothesis": "The presidents helped in the museum .", "premise": "The secretaries encouraged the presidents helped in the museum .", "label": "non-entailment"}
+{"index": "ex13645", "hypothesis": "The actor studied in the museum .", "premise": "The professors admired the actor studied in the museum .", "label": "non-entailment"}
+{"index": "ex13646", "hypothesis": "The senators studied in the office .", "premise": "The senators studied in the office waited .", "label": "non-entailment"}
+{"index": "ex13647", "hypothesis": "The actors presented in the office .", "premise": "The actors presented in the office thanked the senator .", "label": "non-entailment"}
+{"index": "ex13648", "hypothesis": "The doctor studied in the library .", "premise": "The doctor studied in the library introduced the secretary .", "label": "non-entailment"}
+{"index": "ex13649", "hypothesis": "The judges investigated in the laboratory .", "premise": "The judges investigated in the laboratory helped the managers .", "label": "non-entailment"}
+{"index": "ex13650", "hypothesis": "The secretary investigated in the library .", "premise": "The secretary investigated in the library stopped the students .", "label": "non-entailment"}
+{"index": "ex13651", "hypothesis": "The artists presented in the office .", "premise": "The authors advised the artists presented in the office .", "label": "non-entailment"}
+{"index": "ex13652", "hypothesis": "The scientist paid in the library .", "premise": "The athletes believed the scientist paid in the library .", "label": "non-entailment"}
+{"index": "ex13653", "hypothesis": "The lawyer helped in the office .", "premise": "The lawyer helped in the office saw the tourists .", "label": "non-entailment"}
+{"index": "ex13654", "hypothesis": "The lawyers presented in the office .", "premise": "The lawyers presented in the office supported the manager .", "label": "non-entailment"}
+{"index": "ex13655", "hypothesis": "The presidents studied in the library .", "premise": "The secretary helped the presidents studied in the library .", "label": "non-entailment"}
+{"index": "ex13656", "hypothesis": "The judges studied in the office .", "premise": "The secretaries avoided the judges studied in the office .", "label": "non-entailment"}
+{"index": "ex13657", "hypothesis": "The author investigated in the museum .", "premise": "The author investigated in the museum admired the artists .", "label": "non-entailment"}
+{"index": "ex13658", "hypothesis": "The authors helped in the office .", "premise": "The authors helped in the office mentioned the bankers .", "label": "non-entailment"}
+{"index": "ex13659", "hypothesis": "The actors paid in the laboratory .", "premise": "The judges encouraged the actors paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13660", "hypothesis": "The tourists presented in the school .", "premise": "The tourists presented in the school helped the actor .", "label": "non-entailment"}
+{"index": "ex13661", "hypothesis": "The scientist investigated in the school .", "premise": "The tourist contacted the scientist investigated in the school .", "label": "non-entailment"}
+{"index": "ex13662", "hypothesis": "The judge studied in the office .", "premise": "The judge studied in the office danced .", "label": "non-entailment"}
+{"index": "ex13663", "hypothesis": "The actors helped in the museum .", "premise": "The artists contacted the actors helped in the museum .", "label": "non-entailment"}
+{"index": "ex13664", "hypothesis": "The artist helped in the library .", "premise": "The artist helped in the library resigned .", "label": "non-entailment"}
+{"index": "ex13665", "hypothesis": "The athletes presented in the school .", "premise": "The athletes presented in the school encouraged the artist .", "label": "non-entailment"}
+{"index": "ex13666", "hypothesis": "The author investigated in the school .", "premise": "The author investigated in the school arrived .", "label": "non-entailment"}
+{"index": "ex13667", "hypothesis": "The managers helped in the school .", "premise": "The presidents introduced the managers helped in the school .", "label": "non-entailment"}
+{"index": "ex13668", "hypothesis": "The artist helped in the library .", "premise": "The artist helped in the library waited .", "label": "non-entailment"}
+{"index": "ex13669", "hypothesis": "The doctors paid in the museum .", "premise": "The doctors paid in the museum shouted .", "label": "non-entailment"}
+{"index": "ex13670", "hypothesis": "The senator presented in the laboratory .", "premise": "The senator presented in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13671", "hypothesis": "The actors studied in the library .", "premise": "The actors studied in the library stopped the secretary .", "label": "non-entailment"}
+{"index": "ex13672", "hypothesis": "The lawyer presented in the laboratory .", "premise": "The lawyer presented in the laboratory helped the actors .", "label": "non-entailment"}
+{"index": "ex13673", "hypothesis": "The judge investigated in the school .", "premise": "The artist stopped the judge investigated in the school .", "label": "non-entailment"}
+{"index": "ex13674", "hypothesis": "The senators investigated in the school .", "premise": "The athletes contacted the senators investigated in the school .", "label": "non-entailment"}
+{"index": "ex13675", "hypothesis": "The lawyer paid in the office .", "premise": "The senator stopped the lawyer paid in the office .", "label": "non-entailment"}
+{"index": "ex13676", "hypothesis": "The tourists paid in the office .", "premise": "The secretary helped the tourists paid in the office .", "label": "non-entailment"}
+{"index": "ex13677", "hypothesis": "The professor presented in the museum .", "premise": "The tourist saw the professor presented in the museum .", "label": "non-entailment"}
+{"index": "ex13678", "hypothesis": "The authors investigated in the school .", "premise": "The student avoided the authors investigated in the school .", "label": "non-entailment"}
+{"index": "ex13679", "hypothesis": "The artists studied in the office .", "premise": "The artists studied in the office thanked the scientist .", "label": "non-entailment"}
+{"index": "ex13680", "hypothesis": "The students investigated in the museum .", "premise": "The students investigated in the museum stopped the tourist .", "label": "non-entailment"}
+{"index": "ex13681", "hypothesis": "The manager investigated in the school .", "premise": "The actor believed the manager investigated in the school .", "label": "non-entailment"}
+{"index": "ex13682", "hypothesis": "The bankers presented in the museum .", "premise": "The judge admired the bankers presented in the museum .", "label": "non-entailment"}
+{"index": "ex13683", "hypothesis": "The professor studied in the office .", "premise": "The professor studied in the office recognized the tourists .", "label": "non-entailment"}
+{"index": "ex13684", "hypothesis": "The judge helped in the office .", "premise": "The author thanked the judge helped in the office .", "label": "non-entailment"}
+{"index": "ex13685", "hypothesis": "The doctor presented in the school .", "premise": "The doctor presented in the school avoided the professors .", "label": "non-entailment"}
+{"index": "ex13686", "hypothesis": "The scientist presented in the office .", "premise": "The scientist presented in the office contacted the doctor .", "label": "non-entailment"}
+{"index": "ex13687", "hypothesis": "The banker paid in the office .", "premise": "The student stopped the banker paid in the office .", "label": "non-entailment"}
+{"index": "ex13688", "hypothesis": "The student helped in the school .", "premise": "The student helped in the school admired the athlete .", "label": "non-entailment"}
+{"index": "ex13689", "hypothesis": "The athletes presented in the museum .", "premise": "The professor admired the athletes presented in the museum .", "label": "non-entailment"}
+{"index": "ex13690", "hypothesis": "The authors investigated in the school .", "premise": "The authors investigated in the school contacted the scientist .", "label": "non-entailment"}
+{"index": "ex13691", "hypothesis": "The doctor investigated in the library .", "premise": "The lawyers mentioned the doctor investigated in the library .", "label": "non-entailment"}
+{"index": "ex13692", "hypothesis": "The doctors helped in the office .", "premise": "The doctors helped in the office shouted .", "label": "non-entailment"}
+{"index": "ex13693", "hypothesis": "The banker investigated in the museum .", "premise": "The banker investigated in the museum danced .", "label": "non-entailment"}
+{"index": "ex13694", "hypothesis": "The bankers paid in the office .", "premise": "The bankers paid in the office arrived .", "label": "non-entailment"}
+{"index": "ex13695", "hypothesis": "The banker helped in the school .", "premise": "The banker helped in the school admired the students .", "label": "non-entailment"}
+{"index": "ex13696", "hypothesis": "The tourists studied in the office .", "premise": "The tourists studied in the office recognized the professor .", "label": "non-entailment"}
+{"index": "ex13697", "hypothesis": "The lawyers helped in the office .", "premise": "The artists thanked the lawyers helped in the office .", "label": "non-entailment"}
+{"index": "ex13698", "hypothesis": "The doctors helped in the office .", "premise": "The president recognized the doctors helped in the office .", "label": "non-entailment"}
+{"index": "ex13699", "hypothesis": "The secretary investigated in the office .", "premise": "The secretary investigated in the office ran .", "label": "non-entailment"}
+{"index": "ex13700", "hypothesis": "The tourist helped in the library .", "premise": "The banker recommended the tourist helped in the library .", "label": "non-entailment"}
+{"index": "ex13701", "hypothesis": "The author studied in the school .", "premise": "The author studied in the school ran .", "label": "non-entailment"}
+{"index": "ex13702", "hypothesis": "The bankers studied in the school .", "premise": "The bankers studied in the school recognized the professor .", "label": "non-entailment"}
+{"index": "ex13703", "hypothesis": "The senator paid in the museum .", "premise": "The senator paid in the museum helped the tourist .", "label": "non-entailment"}
+{"index": "ex13704", "hypothesis": "The tourist investigated in the laboratory .", "premise": "The tourist investigated in the laboratory recommended the manager .", "label": "non-entailment"}
+{"index": "ex13705", "hypothesis": "The professors paid in the museum .", "premise": "The professors paid in the museum saw the judge .", "label": "non-entailment"}
+{"index": "ex13706", "hypothesis": "The senators investigated in the laboratory .", "premise": "The senators investigated in the laboratory arrived .", "label": "non-entailment"}
+{"index": "ex13707", "hypothesis": "The manager paid in the office .", "premise": "The lawyer recognized the manager paid in the office .", "label": "non-entailment"}
+{"index": "ex13708", "hypothesis": "The secretaries presented in the library .", "premise": "The artists saw the secretaries presented in the library .", "label": "non-entailment"}
+{"index": "ex13709", "hypothesis": "The scientist paid in the library .", "premise": "The scientist paid in the library slept .", "label": "non-entailment"}
+{"index": "ex13710", "hypothesis": "The bankers presented in the museum .", "premise": "The actors recognized the bankers presented in the museum .", "label": "non-entailment"}
+{"index": "ex13712", "hypothesis": "The banker paid in the office .", "premise": "The banker paid in the office thanked the presidents .", "label": "non-entailment"}
+{"index": "ex13713", "hypothesis": "The judge helped in the school .", "premise": "The judge helped in the school waited .", "label": "non-entailment"}
+{"index": "ex13714", "hypothesis": "The scientist investigated in the museum .", "premise": "The scientist investigated in the museum avoided the secretaries .", "label": "non-entailment"}
+{"index": "ex13715", "hypothesis": "The presidents investigated in the library .", "premise": "The tourist called the presidents investigated in the library .", "label": "non-entailment"}
+{"index": "ex13716", "hypothesis": "The president investigated in the school .", "premise": "The president investigated in the school danced .", "label": "non-entailment"}
+{"index": "ex13717", "hypothesis": "The judge studied in the school .", "premise": "The judge studied in the school waited .", "label": "non-entailment"}
+{"index": "ex13718", "hypothesis": "The manager investigated in the school .", "premise": "The professors contacted the manager investigated in the school .", "label": "non-entailment"}
+{"index": "ex13719", "hypothesis": "The senator investigated in the laboratory .", "premise": "The senator investigated in the laboratory introduced the athletes .", "label": "non-entailment"}
+{"index": "ex13720", "hypothesis": "The bankers investigated in the library .", "premise": "The scientists admired the bankers investigated in the library .", "label": "non-entailment"}
+{"index": "ex13721", "hypothesis": "The tourists presented in the museum .", "premise": "The tourists presented in the museum stopped the professor .", "label": "non-entailment"}
+{"index": "ex13722", "hypothesis": "The senators paid in the museum .", "premise": "The senators paid in the museum mentioned the professor .", "label": "non-entailment"}
+{"index": "ex13723", "hypothesis": "The secretary paid in the school .", "premise": "The secretary paid in the school avoided the authors .", "label": "non-entailment"}
+{"index": "ex13724", "hypothesis": "The judge investigated in the office .", "premise": "The artist encouraged the judge investigated in the office .", "label": "non-entailment"}
+{"index": "ex13725", "hypothesis": "The author paid in the office .", "premise": "The author paid in the office advised the artists .", "label": "non-entailment"}
+{"index": "ex13726", "hypothesis": "The actor helped in the museum .", "premise": "The actor helped in the museum danced .", "label": "non-entailment"}
+{"index": "ex13727", "hypothesis": "The tourist presented in the museum .", "premise": "The artists saw the tourist presented in the museum .", "label": "non-entailment"}
+{"index": "ex13728", "hypothesis": "The artist investigated in the laboratory .", "premise": "The artist investigated in the laboratory shouted .", "label": "non-entailment"}
+{"index": "ex13729", "hypothesis": "The authors presented in the museum .", "premise": "The authors presented in the museum helped the artists .", "label": "non-entailment"}
+{"index": "ex13730", "hypothesis": "The judges investigated in the museum .", "premise": "The manager admired the judges investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13731", "hypothesis": "The athlete paid in the school .", "premise": "The athlete paid in the school resigned .", "label": "non-entailment"}
+{"index": "ex13732", "hypothesis": "The doctors presented in the office .", "premise": "The doctors presented in the office avoided the athlete .", "label": "non-entailment"}
+{"index": "ex13733", "hypothesis": "The managers paid in the museum .", "premise": "The managers paid in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13734", "hypothesis": "The tourists paid in the museum .", "premise": "The author recommended the tourists paid in the museum .", "label": "non-entailment"}
+{"index": "ex13735", "hypothesis": "The students paid in the school .", "premise": "The students paid in the school advised the authors .", "label": "non-entailment"}
+{"index": "ex13736", "hypothesis": "The presidents studied in the school .", "premise": "The presidents studied in the school resigned .", "label": "non-entailment"}
+{"index": "ex13737", "hypothesis": "The athlete studied in the library .", "premise": "The professor admired the athlete studied in the library .", "label": "non-entailment"}
+{"index": "ex13738", "hypothesis": "The actor paid in the library .", "premise": "The actor paid in the library stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex13739", "hypothesis": "The judges investigated in the school .", "premise": "The judges investigated in the school ran .", "label": "non-entailment"}
+{"index": "ex13740", "hypothesis": "The senators presented in the school .", "premise": "The senators presented in the school mentioned the scientists .", "label": "non-entailment"}
+{"index": "ex13741", "hypothesis": "The secretaries presented in the library .", "premise": "The secretaries presented in the library performed .", "label": "non-entailment"}
+{"index": "ex13742", "hypothesis": "The managers helped in the library .", "premise": "The actors avoided the managers helped in the library .", "label": "non-entailment"}
+{"index": "ex13743", "hypothesis": "The lawyer presented in the office .", "premise": "The lawyer presented in the office encouraged the professors .", "label": "non-entailment"}
+{"index": "ex13744", "hypothesis": "The senator paid in the laboratory .", "premise": "The artist stopped the senator paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13745", "hypothesis": "The professors presented in the library .", "premise": "The professors presented in the library called the president .", "label": "non-entailment"}
+{"index": "ex13746", "hypothesis": "The authors helped in the library .", "premise": "The authors helped in the library stopped the actors .", "label": "non-entailment"}
+{"index": "ex13747", "hypothesis": "The actors helped in the school .", "premise": "The actors helped in the school introduced the professors .", "label": "non-entailment"}
+{"index": "ex13748", "hypothesis": "The banker investigated in the school .", "premise": "The judges contacted the banker investigated in the school .", "label": "non-entailment"}
+{"index": "ex13749", "hypothesis": "The artist investigated in the school .", "premise": "The bankers advised the artist investigated in the school .", "label": "non-entailment"}
+{"index": "ex13750", "hypothesis": "The judges paid in the office .", "premise": "The judges paid in the office introduced the senators .", "label": "non-entailment"}
+{"index": "ex13751", "hypothesis": "The lawyers presented in the library .", "premise": "The tourist contacted the lawyers presented in the library .", "label": "non-entailment"}
+{"index": "ex13752", "hypothesis": "The judge paid in the laboratory .", "premise": "The judge paid in the laboratory supported the lawyer .", "label": "non-entailment"}
+{"index": "ex13753", "hypothesis": "The judge paid in the museum .", "premise": "The judge paid in the museum called the lawyers .", "label": "non-entailment"}
+{"index": "ex13754", "hypothesis": "The professors studied in the office .", "premise": "The professors studied in the office danced .", "label": "non-entailment"}
+{"index": "ex13755", "hypothesis": "The doctors paid in the library .", "premise": "The doctors paid in the library performed .", "label": "non-entailment"}
+{"index": "ex13756", "hypothesis": "The presidents presented in the laboratory .", "premise": "The managers recognized the presidents presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13757", "hypothesis": "The bankers investigated in the library .", "premise": "The bankers investigated in the library performed .", "label": "non-entailment"}
+{"index": "ex13758", "hypothesis": "The secretaries investigated in the office .", "premise": "The secretaries investigated in the office supported the doctor .", "label": "non-entailment"}
+{"index": "ex13759", "hypothesis": "The professor paid in the museum .", "premise": "The scientist avoided the professor paid in the museum .", "label": "non-entailment"}
+{"index": "ex13760", "hypothesis": "The lawyers studied in the library .", "premise": "The lawyers studied in the library danced .", "label": "non-entailment"}
+{"index": "ex13761", "hypothesis": "The banker presented in the library .", "premise": "The banker presented in the library arrived .", "label": "non-entailment"}
+{"index": "ex13762", "hypothesis": "The presidents paid in the library .", "premise": "The athletes helped the presidents paid in the library .", "label": "non-entailment"}
+{"index": "ex13763", "hypothesis": "The doctor presented in the office .", "premise": "The bankers called the doctor presented in the office .", "label": "non-entailment"}
+{"index": "ex13764", "hypothesis": "The manager presented in the museum .", "premise": "The manager presented in the museum helped the students .", "label": "non-entailment"}
+{"index": "ex13765", "hypothesis": "The senators paid in the laboratory .", "premise": "The lawyers stopped the senators paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13766", "hypothesis": "The student investigated in the office .", "premise": "The doctor encouraged the student investigated in the office .", "label": "non-entailment"}
+{"index": "ex13767", "hypothesis": "The lawyer presented in the museum .", "premise": "The lawyer presented in the museum helped the athlete .", "label": "non-entailment"}
+{"index": "ex13768", "hypothesis": "The artist studied in the library .", "premise": "The artist studied in the library advised the actor .", "label": "non-entailment"}
+{"index": "ex13769", "hypothesis": "The doctors presented in the museum .", "premise": "The doctors presented in the museum ran .", "label": "non-entailment"}
+{"index": "ex13770", "hypothesis": "The presidents studied in the laboratory .", "premise": "The presidents studied in the laboratory performed .", "label": "non-entailment"}
+{"index": "ex13771", "hypothesis": "The presidents studied in the laboratory .", "premise": "The presidents studied in the laboratory introduced the author .", "label": "non-entailment"}
+{"index": "ex13772", "hypothesis": "The actor studied in the school .", "premise": "The scientists introduced the actor studied in the school .", "label": "non-entailment"}
+{"index": "ex13773", "hypothesis": "The student investigated in the museum .", "premise": "The student investigated in the museum stopped the bankers .", "label": "non-entailment"}
+{"index": "ex13774", "hypothesis": "The actors studied in the laboratory .", "premise": "The actors studied in the laboratory mentioned the athlete .", "label": "non-entailment"}
+{"index": "ex13775", "hypothesis": "The tourist paid in the laboratory .", "premise": "The tourist paid in the laboratory slept .", "label": "non-entailment"}
+{"index": "ex13776", "hypothesis": "The lawyers investigated in the library .", "premise": "The scientists encouraged the lawyers investigated in the library .", "label": "non-entailment"}
+{"index": "ex13777", "hypothesis": "The secretary paid in the museum .", "premise": "The secretary paid in the museum thanked the professor .", "label": "non-entailment"}
+{"index": "ex13778", "hypothesis": "The scientist helped in the library .", "premise": "The scientist helped in the library avoided the senators .", "label": "non-entailment"}
+{"index": "ex13779", "hypothesis": "The manager studied in the museum .", "premise": "The manager studied in the museum recommended the lawyer .", "label": "non-entailment"}
+{"index": "ex13780", "hypothesis": "The students helped in the museum .", "premise": "The doctors mentioned the students helped in the museum .", "label": "non-entailment"}
+{"index": "ex13781", "hypothesis": "The doctor presented in the school .", "premise": "The judge recognized the doctor presented in the school .", "label": "non-entailment"}
+{"index": "ex13782", "hypothesis": "The doctor presented in the school .", "premise": "The doctor presented in the school advised the president .", "label": "non-entailment"}
+{"index": "ex13783", "hypothesis": "The athlete studied in the laboratory .", "premise": "The athlete studied in the laboratory waited .", "label": "non-entailment"}
+{"index": "ex13784", "hypothesis": "The doctors investigated in the museum .", "premise": "The doctors investigated in the museum performed .", "label": "non-entailment"}
+{"index": "ex13785", "hypothesis": "The bankers paid in the library .", "premise": "The bankers paid in the library advised the senator .", "label": "non-entailment"}
+{"index": "ex13786", "hypothesis": "The lawyers presented in the laboratory .", "premise": "The lawyers presented in the laboratory admired the doctors .", "label": "non-entailment"}
+{"index": "ex13787", "hypothesis": "The senator helped in the office .", "premise": "The senator helped in the office encouraged the actors .", "label": "non-entailment"}
+{"index": "ex13788", "hypothesis": "The tourists investigated in the museum .", "premise": "The tourists investigated in the museum thanked the artists .", "label": "non-entailment"}
+{"index": "ex13789", "hypothesis": "The managers paid in the school .", "premise": "The actors contacted the managers paid in the school .", "label": "non-entailment"}
+{"index": "ex13790", "hypothesis": "The actors helped in the laboratory .", "premise": "The actors helped in the laboratory mentioned the professor .", "label": "non-entailment"}
+{"index": "ex13791", "hypothesis": "The athlete presented in the museum .", "premise": "The athlete presented in the museum recommended the doctor .", "label": "non-entailment"}
+{"index": "ex13792", "hypothesis": "The tourists investigated in the museum .", "premise": "The secretary thanked the tourists investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13793", "hypothesis": "The student paid in the library .", "premise": "The secretaries called the student paid in the library .", "label": "non-entailment"}
+{"index": "ex13794", "hypothesis": "The banker investigated in the library .", "premise": "The scientists supported the banker investigated in the library .", "label": "non-entailment"}
+{"index": "ex13795", "hypothesis": "The senators studied in the museum .", "premise": "The senators studied in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13796", "hypothesis": "The senator helped in the laboratory .", "premise": "The senator helped in the laboratory contacted the presidents .", "label": "non-entailment"}
+{"index": "ex13797", "hypothesis": "The athlete paid in the office .", "premise": "The manager mentioned the athlete paid in the office .", "label": "non-entailment"}
+{"index": "ex13798", "hypothesis": "The athlete investigated in the school .", "premise": "The athlete investigated in the school recommended the lawyer .", "label": "non-entailment"}
+{"index": "ex13799", "hypothesis": "The president paid in the library .", "premise": "The banker advised the president paid in the library .", "label": "non-entailment"}
+{"index": "ex13800", "hypothesis": "The managers paid in the library .", "premise": "The managers paid in the library thanked the secretaries .", "label": "non-entailment"}
+{"index": "ex13801", "hypothesis": "The doctor helped in the office .", "premise": "The doctor helped in the office recommended the secretaries .", "label": "non-entailment"}
+{"index": "ex13802", "hypothesis": "The doctors studied in the laboratory .", "premise": "The doctors studied in the laboratory helped the tourist .", "label": "non-entailment"}
+{"index": "ex13803", "hypothesis": "The judge helped in the office .", "premise": "The lawyer contacted the judge helped in the office .", "label": "non-entailment"}
+{"index": "ex13804", "hypothesis": "The student presented in the office .", "premise": "The student presented in the office avoided the professors .", "label": "non-entailment"}
+{"index": "ex13805", "hypothesis": "The artists studied in the school .", "premise": "The artists studied in the school stopped the doctors .", "label": "non-entailment"}
+{"index": "ex13806", "hypothesis": "The scientists investigated in the laboratory .", "premise": "The managers believed the scientists investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13807", "hypothesis": "The athlete studied in the library .", "premise": "The artist supported the athlete studied in the library .", "label": "non-entailment"}
+{"index": "ex13808", "hypothesis": "The doctors paid in the office .", "premise": "The doctors paid in the office recognized the judge .", "label": "non-entailment"}
+{"index": "ex13809", "hypothesis": "The athlete investigated in the school .", "premise": "The athlete investigated in the school stopped the manager .", "label": "non-entailment"}
+{"index": "ex13810", "hypothesis": "The artists helped in the office .", "premise": "The tourist advised the artists helped in the office .", "label": "non-entailment"}
+{"index": "ex13811", "hypothesis": "The actor presented in the school .", "premise": "The actor presented in the school believed the scientists .", "label": "non-entailment"}
+{"index": "ex13812", "hypothesis": "The managers helped in the library .", "premise": "The bankers mentioned the managers helped in the library .", "label": "non-entailment"}
+{"index": "ex13813", "hypothesis": "The secretaries studied in the laboratory .", "premise": "The secretaries studied in the laboratory thanked the students .", "label": "non-entailment"}
+{"index": "ex13814", "hypothesis": "The senator presented in the laboratory .", "premise": "The senator presented in the laboratory introduced the banker .", "label": "non-entailment"}
+{"index": "ex13815", "hypothesis": "The athletes presented in the museum .", "premise": "The athletes presented in the museum resigned .", "label": "non-entailment"}
+{"index": "ex13816", "hypothesis": "The manager paid in the library .", "premise": "The manager paid in the library introduced the doctors .", "label": "non-entailment"}
+{"index": "ex13817", "hypothesis": "The scientist helped in the office .", "premise": "The judges mentioned the scientist helped in the office .", "label": "non-entailment"}
+{"index": "ex13818", "hypothesis": "The managers helped in the museum .", "premise": "The lawyer encouraged the managers helped in the museum .", "label": "non-entailment"}
+{"index": "ex13819", "hypothesis": "The senators paid in the library .", "premise": "The senators paid in the library avoided the professors .", "label": "non-entailment"}
+{"index": "ex13820", "hypothesis": "The athletes paid in the office .", "premise": "The athletes paid in the office stopped the president .", "label": "non-entailment"}
+{"index": "ex13821", "hypothesis": "The judges studied in the school .", "premise": "The student saw the judges studied in the school .", "label": "non-entailment"}
+{"index": "ex13822", "hypothesis": "The student helped in the laboratory .", "premise": "The judges admired the student helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13823", "hypothesis": "The lawyers presented in the office .", "premise": "The authors introduced the lawyers presented in the office .", "label": "non-entailment"}
+{"index": "ex13824", "hypothesis": "The actors paid in the museum .", "premise": "The actors paid in the museum recognized the athletes .", "label": "non-entailment"}
+{"index": "ex13825", "hypothesis": "The student investigated in the school .", "premise": "The student investigated in the school performed .", "label": "non-entailment"}
+{"index": "ex13826", "hypothesis": "The actor investigated in the office .", "premise": "The doctor recognized the actor investigated in the office .", "label": "non-entailment"}
+{"index": "ex13827", "hypothesis": "The actor paid in the office .", "premise": "The actor paid in the office shouted .", "label": "non-entailment"}
+{"index": "ex13828", "hypothesis": "The senator presented in the laboratory .", "premise": "The actor admired the senator presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13829", "hypothesis": "The tourist studied in the laboratory .", "premise": "The tourist studied in the laboratory thanked the doctor .", "label": "non-entailment"}
+{"index": "ex13830", "hypothesis": "The presidents studied in the library .", "premise": "The artists supported the presidents studied in the library .", "label": "non-entailment"}
+{"index": "ex13831", "hypothesis": "The judges helped in the museum .", "premise": "The judges helped in the museum saw the presidents .", "label": "non-entailment"}
+{"index": "ex13832", "hypothesis": "The professor helped in the museum .", "premise": "The senator advised the professor helped in the museum .", "label": "non-entailment"}
+{"index": "ex13833", "hypothesis": "The banker studied in the laboratory .", "premise": "The banker studied in the laboratory performed .", "label": "non-entailment"}
+{"index": "ex13834", "hypothesis": "The artists presented in the museum .", "premise": "The artists presented in the museum helped the actor .", "label": "non-entailment"}
+{"index": "ex13835", "hypothesis": "The students helped in the museum .", "premise": "The students helped in the museum thanked the authors .", "label": "non-entailment"}
+{"index": "ex13836", "hypothesis": "The professor studied in the school .", "premise": "The banker introduced the professor studied in the school .", "label": "non-entailment"}
+{"index": "ex13837", "hypothesis": "The tourist paid in the school .", "premise": "The tourist paid in the school performed .", "label": "non-entailment"}
+{"index": "ex13838", "hypothesis": "The doctors paid in the library .", "premise": "The doctors paid in the library recognized the scientists .", "label": "non-entailment"}
+{"index": "ex13839", "hypothesis": "The scientists helped in the school .", "premise": "The scientists helped in the school mentioned the actor .", "label": "non-entailment"}
+{"index": "ex13840", "hypothesis": "The professor paid in the office .", "premise": "The professor paid in the office danced .", "label": "non-entailment"}
+{"index": "ex13841", "hypothesis": "The secretary paid in the museum .", "premise": "The secretary paid in the museum thanked the scientists .", "label": "non-entailment"}
+{"index": "ex13842", "hypothesis": "The managers studied in the library .", "premise": "The bankers contacted the managers studied in the library .", "label": "non-entailment"}
+{"index": "ex13843", "hypothesis": "The president presented in the museum .", "premise": "The secretaries supported the president presented in the museum .", "label": "non-entailment"}
+{"index": "ex13844", "hypothesis": "The athletes presented in the office .", "premise": "The scientists stopped the athletes presented in the office .", "label": "non-entailment"}
+{"index": "ex13845", "hypothesis": "The scientists helped in the office .", "premise": "The scientists helped in the office slept .", "label": "non-entailment"}
+{"index": "ex13846", "hypothesis": "The professor studied in the library .", "premise": "The professor studied in the library introduced the artist .", "label": "non-entailment"}
+{"index": "ex13847", "hypothesis": "The doctor presented in the library .", "premise": "The doctor presented in the library mentioned the professors .", "label": "non-entailment"}
+{"index": "ex13848", "hypothesis": "The athletes helped in the museum .", "premise": "The secretaries encouraged the athletes helped in the museum .", "label": "non-entailment"}
+{"index": "ex13849", "hypothesis": "The doctors paid in the library .", "premise": "The doctors paid in the library believed the author .", "label": "non-entailment"}
+{"index": "ex13850", "hypothesis": "The secretaries investigated in the library .", "premise": "The secretaries investigated in the library helped the author .", "label": "non-entailment"}
+{"index": "ex13851", "hypothesis": "The judges helped in the laboratory .", "premise": "The judges helped in the laboratory avoided the bankers .", "label": "non-entailment"}
+{"index": "ex13852", "hypothesis": "The artist helped in the library .", "premise": "The lawyer thanked the artist helped in the library .", "label": "non-entailment"}
+{"index": "ex13853", "hypothesis": "The professor presented in the school .", "premise": "The secretaries contacted the professor presented in the school .", "label": "non-entailment"}
+{"index": "ex13854", "hypothesis": "The artist studied in the museum .", "premise": "The athlete thanked the artist studied in the museum .", "label": "non-entailment"}
+{"index": "ex13855", "hypothesis": "The bankers presented in the laboratory .", "premise": "The doctors mentioned the bankers presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13856", "hypothesis": "The tourist studied in the school .", "premise": "The managers stopped the tourist studied in the school .", "label": "non-entailment"}
+{"index": "ex13857", "hypothesis": "The secretary presented in the office .", "premise": "The secretary presented in the office recommended the banker .", "label": "non-entailment"}
+{"index": "ex13858", "hypothesis": "The artist helped in the laboratory .", "premise": "The secretary thanked the artist helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13859", "hypothesis": "The author paid in the school .", "premise": "The actor supported the author paid in the school .", "label": "non-entailment"}
+{"index": "ex13860", "hypothesis": "The doctors presented in the office .", "premise": "The doctors presented in the office advised the judge .", "label": "non-entailment"}
+{"index": "ex13861", "hypothesis": "The tourists helped in the school .", "premise": "The secretaries mentioned the tourists helped in the school .", "label": "non-entailment"}
+{"index": "ex13862", "hypothesis": "The judges paid in the school .", "premise": "The managers stopped the judges paid in the school .", "label": "non-entailment"}
+{"index": "ex13863", "hypothesis": "The lawyer studied in the school .", "premise": "The secretaries admired the lawyer studied in the school .", "label": "non-entailment"}
+{"index": "ex13864", "hypothesis": "The professors presented in the office .", "premise": "The lawyers saw the professors presented in the office .", "label": "non-entailment"}
+{"index": "ex13865", "hypothesis": "The doctor paid in the school .", "premise": "The doctor paid in the school encouraged the bankers .", "label": "non-entailment"}
+{"index": "ex13866", "hypothesis": "The doctors helped in the library .", "premise": "The student stopped the doctors helped in the library .", "label": "non-entailment"}
+{"index": "ex13867", "hypothesis": "The athlete investigated in the office .", "premise": "The athlete investigated in the office resigned .", "label": "non-entailment"}
+{"index": "ex13868", "hypothesis": "The athlete paid in the school .", "premise": "The athlete paid in the school introduced the students .", "label": "non-entailment"}
+{"index": "ex13869", "hypothesis": "The senators presented in the library .", "premise": "The artist avoided the senators presented in the library .", "label": "non-entailment"}
+{"index": "ex13870", "hypothesis": "The secretary paid in the school .", "premise": "The athlete introduced the secretary paid in the school .", "label": "non-entailment"}
+{"index": "ex13871", "hypothesis": "The actor helped in the office .", "premise": "The actor helped in the office avoided the secretary .", "label": "non-entailment"}
+{"index": "ex13872", "hypothesis": "The author studied in the school .", "premise": "The author studied in the school encouraged the doctors .", "label": "non-entailment"}
+{"index": "ex13873", "hypothesis": "The managers paid in the office .", "premise": "The managers paid in the office mentioned the student .", "label": "non-entailment"}
+{"index": "ex13874", "hypothesis": "The artist investigated in the laboratory .", "premise": "The authors supported the artist investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13875", "hypothesis": "The bankers presented in the school .", "premise": "The bankers presented in the school shouted .", "label": "non-entailment"}
+{"index": "ex13876", "hypothesis": "The lawyer investigated in the museum .", "premise": "The lawyer investigated in the museum introduced the actors .", "label": "non-entailment"}
+{"index": "ex13877", "hypothesis": "The managers studied in the office .", "premise": "The managers studied in the office ran .", "label": "non-entailment"}
+{"index": "ex13878", "hypothesis": "The secretaries paid in the library .", "premise": "The secretaries paid in the library encouraged the presidents .", "label": "non-entailment"}
+{"index": "ex13879", "hypothesis": "The judge paid in the school .", "premise": "The judge paid in the school recognized the tourist .", "label": "non-entailment"}
+{"index": "ex13880", "hypothesis": "The managers investigated in the laboratory .", "premise": "The scientist saw the managers investigated in the laboratory .", "label": "non-entailment"}
+{"index": "ex13881", "hypothesis": "The authors studied in the laboratory .", "premise": "The authors studied in the laboratory slept .", "label": "non-entailment"}
+{"index": "ex13882", "hypothesis": "The scientists investigated in the museum .", "premise": "The scientists investigated in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13883", "hypothesis": "The lawyers paid in the library .", "premise": "The president admired the lawyers paid in the library .", "label": "non-entailment"}
+{"index": "ex13884", "hypothesis": "The doctor studied in the library .", "premise": "The doctor studied in the library recognized the scientists .", "label": "non-entailment"}
+{"index": "ex13885", "hypothesis": "The bankers paid in the office .", "premise": "The judges helped the bankers paid in the office .", "label": "non-entailment"}
+{"index": "ex13886", "hypothesis": "The author studied in the laboratory .", "premise": "The doctor stopped the author studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13887", "hypothesis": "The lawyers helped in the museum .", "premise": "The actors supported the lawyers helped in the museum .", "label": "non-entailment"}
+{"index": "ex13888", "hypothesis": "The artists helped in the laboratory .", "premise": "The artists helped in the laboratory waited .", "label": "non-entailment"}
+{"index": "ex13889", "hypothesis": "The managers studied in the office .", "premise": "The artists stopped the managers studied in the office .", "label": "non-entailment"}
+{"index": "ex13890", "hypothesis": "The presidents investigated in the museum .", "premise": "The presidents investigated in the museum saw the manager .", "label": "non-entailment"}
+{"index": "ex13891", "hypothesis": "The presidents investigated in the office .", "premise": "The presidents investigated in the office stopped the professor .", "label": "non-entailment"}
+{"index": "ex13892", "hypothesis": "The senators helped in the office .", "premise": "The senators helped in the office called the artists .", "label": "non-entailment"}
+{"index": "ex13893", "hypothesis": "The managers studied in the laboratory .", "premise": "The student advised the managers studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13894", "hypothesis": "The actor investigated in the library .", "premise": "The actor investigated in the library avoided the judges .", "label": "non-entailment"}
+{"index": "ex13895", "hypothesis": "The actor investigated in the school .", "premise": "The actor investigated in the school arrived .", "label": "non-entailment"}
+{"index": "ex13896", "hypothesis": "The lawyer presented in the museum .", "premise": "The student stopped the lawyer presented in the museum .", "label": "non-entailment"}
+{"index": "ex13897", "hypothesis": "The author studied in the library .", "premise": "The tourists recognized the author studied in the library .", "label": "non-entailment"}
+{"index": "ex13898", "hypothesis": "The president paid in the laboratory .", "premise": "The president paid in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13899", "hypothesis": "The secretary helped in the laboratory .", "premise": "The secretary helped in the laboratory resigned .", "label": "non-entailment"}
+{"index": "ex13900", "hypothesis": "The presidents investigated in the laboratory .", "premise": "The presidents investigated in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13901", "hypothesis": "The athlete paid in the office .", "premise": "The athlete paid in the office recognized the senators .", "label": "non-entailment"}
+{"index": "ex13902", "hypothesis": "The secretaries helped in the library .", "premise": "The secretaries helped in the library stopped the scientists .", "label": "non-entailment"}
+{"index": "ex13903", "hypothesis": "The doctors investigated in the office .", "premise": "The doctors investigated in the office shouted .", "label": "non-entailment"}
+{"index": "ex13904", "hypothesis": "The presidents paid in the museum .", "premise": "The presidents paid in the museum stopped the tourists .", "label": "non-entailment"}
+{"index": "ex13905", "hypothesis": "The professor presented in the library .", "premise": "The professor presented in the library recommended the tourists .", "label": "non-entailment"}
+{"index": "ex13906", "hypothesis": "The president studied in the museum .", "premise": "The secretaries mentioned the president studied in the museum .", "label": "non-entailment"}
+{"index": "ex13907", "hypothesis": "The artists investigated in the school .", "premise": "The artists investigated in the school avoided the students .", "label": "non-entailment"}
+{"index": "ex13908", "hypothesis": "The author paid in the school .", "premise": "The author paid in the school shouted .", "label": "non-entailment"}
+{"index": "ex13909", "hypothesis": "The secretary paid in the museum .", "premise": "The secretary paid in the museum danced .", "label": "non-entailment"}
+{"index": "ex13910", "hypothesis": "The senator presented in the school .", "premise": "The senator presented in the school mentioned the doctor .", "label": "non-entailment"}
+{"index": "ex13911", "hypothesis": "The actor presented in the museum .", "premise": "The professor called the actor presented in the museum .", "label": "non-entailment"}
+{"index": "ex13912", "hypothesis": "The artists presented in the library .", "premise": "The artists presented in the library shouted .", "label": "non-entailment"}
+{"index": "ex13913", "hypothesis": "The doctor paid in the laboratory .", "premise": "The athletes stopped the doctor paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13914", "hypothesis": "The student presented in the library .", "premise": "The student presented in the library helped the secretary .", "label": "non-entailment"}
+{"index": "ex13915", "hypothesis": "The senators presented in the laboratory .", "premise": "The doctors avoided the senators presented in the laboratory .", "label": "non-entailment"}
+{"index": "ex13916", "hypothesis": "The senator studied in the library .", "premise": "The senator studied in the library shouted .", "label": "non-entailment"}
+{"index": "ex13917", "hypothesis": "The senator presented in the library .", "premise": "The senator presented in the library believed the actor .", "label": "non-entailment"}
+{"index": "ex13918", "hypothesis": "The senators paid in the laboratory .", "premise": "The senators paid in the laboratory recognized the student .", "label": "non-entailment"}
+{"index": "ex13919", "hypothesis": "The doctors paid in the school .", "premise": "The doctors paid in the school mentioned the senator .", "label": "non-entailment"}
+{"index": "ex13920", "hypothesis": "The tourist paid in the museum .", "premise": "The artists recommended the tourist paid in the museum .", "label": "non-entailment"}
+{"index": "ex13921", "hypothesis": "The managers presented in the laboratory .", "premise": "The managers presented in the laboratory ran .", "label": "non-entailment"}
+{"index": "ex13922", "hypothesis": "The senator presented in the laboratory .", "premise": "The senator presented in the laboratory encouraged the artists .", "label": "non-entailment"}
+{"index": "ex13923", "hypothesis": "The senators presented in the museum .", "premise": "The doctors introduced the senators presented in the museum .", "label": "non-entailment"}
+{"index": "ex13924", "hypothesis": "The senators studied in the laboratory .", "premise": "The actors introduced the senators studied in the laboratory .", "label": "non-entailment"}
+{"index": "ex13925", "hypothesis": "The lawyer paid in the library .", "premise": "The lawyer paid in the library avoided the judges .", "label": "non-entailment"}
+{"index": "ex13926", "hypothesis": "The president helped in the school .", "premise": "The student thanked the president helped in the school .", "label": "non-entailment"}
+{"index": "ex13927", "hypothesis": "The secretary helped in the museum .", "premise": "The secretary helped in the museum danced .", "label": "non-entailment"}
+{"index": "ex13928", "hypothesis": "The secretaries presented in the museum .", "premise": "The scientist recommended the secretaries presented in the museum .", "label": "non-entailment"}
+{"index": "ex13929", "hypothesis": "The manager investigated in the school .", "premise": "The manager investigated in the school helped the athlete .", "label": "non-entailment"}
+{"index": "ex13930", "hypothesis": "The athlete investigated in the office .", "premise": "The athlete investigated in the office danced .", "label": "non-entailment"}
+{"index": "ex13931", "hypothesis": "The athlete investigated in the office .", "premise": "The student recommended the athlete investigated in the office .", "label": "non-entailment"}
+{"index": "ex13932", "hypothesis": "The bankers presented in the library .", "premise": "The bankers presented in the library resigned .", "label": "non-entailment"}
+{"index": "ex13933", "hypothesis": "The judges paid in the laboratory .", "premise": "The judges paid in the laboratory resigned .", "label": "non-entailment"}
+{"index": "ex13934", "hypothesis": "The bankers helped in the school .", "premise": "The bankers helped in the school recommended the student .", "label": "non-entailment"}
+{"index": "ex13935", "hypothesis": "The managers presented in the laboratory .", "premise": "The managers presented in the laboratory saw the doctors .", "label": "non-entailment"}
+{"index": "ex13936", "hypothesis": "The presidents paid in the laboratory .", "premise": "The presidents paid in the laboratory waited .", "label": "non-entailment"}
+{"index": "ex13937", "hypothesis": "The actors paid in the museum .", "premise": "The actors paid in the museum introduced the artists .", "label": "non-entailment"}
+{"index": "ex13938", "hypothesis": "The student paid in the library .", "premise": "The tourists admired the student paid in the library .", "label": "non-entailment"}
+{"index": "ex13939", "hypothesis": "The tourist investigated in the museum .", "premise": "The tourist investigated in the museum helped the judges .", "label": "non-entailment"}
+{"index": "ex13940", "hypothesis": "The athlete helped in the laboratory .", "premise": "The judges recognized the athlete helped in the laboratory .", "label": "non-entailment"}
+{"index": "ex13941", "hypothesis": "The senator studied in the library .", "premise": "The judge admired the senator studied in the library .", "label": "non-entailment"}
+{"index": "ex13942", "hypothesis": "The lawyers investigated in the school .", "premise": "The professors encouraged the lawyers investigated in the school .", "label": "non-entailment"}
+{"index": "ex13943", "hypothesis": "The doctor presented in the museum .", "premise": "The bankers called the doctor presented in the museum .", "label": "non-entailment"}
+{"index": "ex13944", "hypothesis": "The tourist investigated in the school .", "premise": "The tourist investigated in the school contacted the athlete .", "label": "non-entailment"}
+{"index": "ex13945", "hypothesis": "The manager investigated in the school .", "premise": "The manager investigated in the school performed .", "label": "non-entailment"}
+{"index": "ex13946", "hypothesis": "The manager paid in the office .", "premise": "The manager paid in the office believed the authors .", "label": "non-entailment"}
+{"index": "ex13947", "hypothesis": "The managers studied in the museum .", "premise": "The managers studied in the museum helped the artists .", "label": "non-entailment"}
+{"index": "ex13948", "hypothesis": "The actors helped in the museum .", "premise": "The actors helped in the museum arrived .", "label": "non-entailment"}
+{"index": "ex13949", "hypothesis": "The athlete paid in the office .", "premise": "The athlete paid in the office contacted the presidents .", "label": "non-entailment"}
+{"index": "ex13950", "hypothesis": "The student investigated in the school .", "premise": "The student investigated in the school avoided the artists .", "label": "non-entailment"}
+{"index": "ex13951", "hypothesis": "The professor investigated in the laboratory .", "premise": "The professor investigated in the laboratory recognized the banker .", "label": "non-entailment"}
+{"index": "ex13952", "hypothesis": "The senators investigated in the library .", "premise": "The artist mentioned the senators investigated in the library .", "label": "non-entailment"}
+{"index": "ex13953", "hypothesis": "The secretaries investigated in the school .", "premise": "The students recommended the secretaries investigated in the school .", "label": "non-entailment"}
+{"index": "ex13954", "hypothesis": "The actors investigated in the library .", "premise": "The actors investigated in the library recommended the professors .", "label": "non-entailment"}
+{"index": "ex13955", "hypothesis": "The lawyers helped in the library .", "premise": "The scientist admired the lawyers helped in the library .", "label": "non-entailment"}
+{"index": "ex13956", "hypothesis": "The professors paid in the laboratory .", "premise": "The professors paid in the laboratory recommended the senator .", "label": "non-entailment"}
+{"index": "ex13957", "hypothesis": "The lawyers presented in the library .", "premise": "The judges supported the lawyers presented in the library .", "label": "non-entailment"}
+{"index": "ex13958", "hypothesis": "The secretaries investigated in the school .", "premise": "The managers thanked the secretaries investigated in the school .", "label": "non-entailment"}
+{"index": "ex13959", "hypothesis": "The scientist studied in the school .", "premise": "The professors stopped the scientist studied in the school .", "label": "non-entailment"}
+{"index": "ex13960", "hypothesis": "The lawyer studied in the office .", "premise": "The lawyer studied in the office advised the tourists .", "label": "non-entailment"}
+{"index": "ex13961", "hypothesis": "The managers studied in the library .", "premise": "The artists admired the managers studied in the library .", "label": "non-entailment"}
+{"index": "ex13962", "hypothesis": "The judge investigated in the office .", "premise": "The manager admired the judge investigated in the office .", "label": "non-entailment"}
+{"index": "ex13963", "hypothesis": "The secretary helped in the museum .", "premise": "The secretary helped in the museum ran .", "label": "non-entailment"}
+{"index": "ex13964", "hypothesis": "The authors investigated in the office .", "premise": "The authors investigated in the office arrived .", "label": "non-entailment"}
+{"index": "ex13965", "hypothesis": "The scientists paid in the library .", "premise": "The senators called the scientists paid in the library .", "label": "non-entailment"}
+{"index": "ex13966", "hypothesis": "The banker investigated in the library .", "premise": "The lawyers believed the banker investigated in the library .", "label": "non-entailment"}
+{"index": "ex13967", "hypothesis": "The scientists paid in the museum .", "premise": "The scientists paid in the museum shouted .", "label": "non-entailment"}
+{"index": "ex13968", "hypothesis": "The secretaries investigated in the school .", "premise": "The secretaries investigated in the school waited .", "label": "non-entailment"}
+{"index": "ex13969", "hypothesis": "The bankers paid in the library .", "premise": "The bankers paid in the library waited .", "label": "non-entailment"}
+{"index": "ex13970", "hypothesis": "The students paid in the library .", "premise": "The students paid in the library mentioned the author .", "label": "non-entailment"}
+{"index": "ex13971", "hypothesis": "The bankers paid in the school .", "premise": "The students recommended the bankers paid in the school .", "label": "non-entailment"}
+{"index": "ex13972", "hypothesis": "The managers helped in the office .", "premise": "The managers helped in the office resigned .", "label": "non-entailment"}
+{"index": "ex13973", "hypothesis": "The tourist helped in the office .", "premise": "The tourist helped in the office saw the actors .", "label": "non-entailment"}
+{"index": "ex13974", "hypothesis": "The judge presented in the office .", "premise": "The judge presented in the office encouraged the bankers .", "label": "non-entailment"}
+{"index": "ex13975", "hypothesis": "The lawyer investigated in the office .", "premise": "The judge thanked the lawyer investigated in the office .", "label": "non-entailment"}
+{"index": "ex13976", "hypothesis": "The athlete studied in the museum .", "premise": "The athlete studied in the museum supported the author .", "label": "non-entailment"}
+{"index": "ex13977", "hypothesis": "The doctors paid in the museum .", "premise": "The doctors paid in the museum waited .", "label": "non-entailment"}
+{"index": "ex13978", "hypothesis": "The professor investigated in the museum .", "premise": "The tourist encouraged the professor investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13979", "hypothesis": "The student paid in the school .", "premise": "The judges thanked the student paid in the school .", "label": "non-entailment"}
+{"index": "ex13980", "hypothesis": "The scientists investigated in the school .", "premise": "The scientists investigated in the school performed .", "label": "non-entailment"}
+{"index": "ex13981", "hypothesis": "The judge paid in the library .", "premise": "The judge paid in the library encouraged the secretaries .", "label": "non-entailment"}
+{"index": "ex13982", "hypothesis": "The judges studied in the museum .", "premise": "The judges studied in the museum waited .", "label": "non-entailment"}
+{"index": "ex13983", "hypothesis": "The judge helped in the school .", "premise": "The presidents believed the judge helped in the school .", "label": "non-entailment"}
+{"index": "ex13984", "hypothesis": "The bankers presented in the library .", "premise": "The senator admired the bankers presented in the library .", "label": "non-entailment"}
+{"index": "ex13985", "hypothesis": "The authors helped in the office .", "premise": "The professor contacted the authors helped in the office .", "label": "non-entailment"}
+{"index": "ex13986", "hypothesis": "The presidents presented in the office .", "premise": "The presidents presented in the office slept .", "label": "non-entailment"}
+{"index": "ex13987", "hypothesis": "The presidents presented in the library .", "premise": "The presidents presented in the library advised the tourists .", "label": "non-entailment"}
+{"index": "ex13988", "hypothesis": "The president paid in the laboratory .", "premise": "The actors mentioned the president paid in the laboratory .", "label": "non-entailment"}
+{"index": "ex13989", "hypothesis": "The bankers paid in the library .", "premise": "The manager thanked the bankers paid in the library .", "label": "non-entailment"}
+{"index": "ex13990", "hypothesis": "The tourist investigated in the library .", "premise": "The professor recognized the tourist investigated in the library .", "label": "non-entailment"}
+{"index": "ex13991", "hypothesis": "The authors investigated in the office .", "premise": "The bankers avoided the authors investigated in the office .", "label": "non-entailment"}
+{"index": "ex13992", "hypothesis": "The presidents presented in the school .", "premise": "The actors mentioned the presidents presented in the school .", "label": "non-entailment"}
+{"index": "ex13993", "hypothesis": "The students investigated in the library .", "premise": "The banker supported the students investigated in the library .", "label": "non-entailment"}
+{"index": "ex13994", "hypothesis": "The president investigated in the office .", "premise": "The president investigated in the office waited .", "label": "non-entailment"}
+{"index": "ex13995", "hypothesis": "The presidents investigated in the museum .", "premise": "The judge encouraged the presidents investigated in the museum .", "label": "non-entailment"}
+{"index": "ex13996", "hypothesis": "The secretaries investigated in the library .", "premise": "The author saw the secretaries investigated in the library .", "label": "non-entailment"}
+{"index": "ex13997", "hypothesis": "The tourist studied in the school .", "premise": "The doctor stopped the tourist studied in the school .", "label": "non-entailment"}
+{"index": "ex13998", "hypothesis": "The managers paid in the library .", "premise": "The managers paid in the library recognized the lawyer .", "label": "non-entailment"}
+{"index": "ex13999", "hypothesis": "The athletes paid in the office .", "premise": "The athletes paid in the office slept .", "label": "non-entailment"}

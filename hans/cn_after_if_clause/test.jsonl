@@ -1,0 +1,990 @@
+{"index": "ex21000", "hypothesis": "The bankers saw the senator .", "premise": "If the secretaries mentioned the actors , the bankers saw the senator .", "label": "non-entailment"}
+{"index": "ex21001", "hypothesis": "The doctor supported the presidents .", "premise": "If the student introduced the lawyers , the doctor supported the presidents .", "label": "non-entailment"}
+{"index": "ex21002", "hypothesis": "The doctor danced .", "premise": "Unless the student slept , the doctor danced .", "label": "non-entailment"}
+{"index": "ex21003", "hypothesis": "The senators encouraged the managers .", "premise": "If the student advised the artists , the senators encouraged the managers .", "label": "non-entailment"}
+{"index": "ex21004", "hypothesis": "The scientist shouted .", "premise": "If the tourists arrived , the scientist shouted .", "label": "non-entailment"}
+{"index": "ex21005", "hypothesis": "The athlete mentioned the president .", "premise": "If the senators resigned , the athlete mentioned the president .", "label": "non-entailment"}
+{"index": "ex21006", "hypothesis": "The students stopped the secretary .", "premise": "Unless the lawyer shouted , the students stopped the secretary .", "label": "non-entailment"}
+{"index": "ex21007", "hypothesis": "The scientists waited .", "premise": "Unless the secretary called the judges , the scientists waited .", "label": "non-entailment"}
+{"index": "ex21008", "hypothesis": "The lawyers slept .", "premise": "If the artist advised the managers , the lawyers slept .", "label": "non-entailment"}
+{"index": "ex21009", "hypothesis": "The president helped the professors .", "premise": "Unless the judge introduced the manager , the president helped the professors .", "label": "non-entailment"}
+{"index": "ex21010", "hypothesis": "The actor recognized the secretary .", "premise": "If the senators shouted , the actor recognized the secretary .", "label": "non-entailment"}
+{"index": "ex21011", "hypothesis": "The tourists ran .", "premise": "If the professor supported the senators , the tourists ran .", "label": "non-entailment"}
+{"index": "ex21012", "hypothesis": "The secretaries arrived .", "premise": "If the athletes ran , the secretaries arrived .", "label": "non-entailment"}
+{"index": "ex21013", "hypothesis": "The secretaries called the lawyer .", "premise": "Unless the scientists recommended the artists , the secretaries called the lawyer .", "label": "non-entailment"}
+{"index": "ex21014", "hypothesis": "The professors called the lawyers .", "premise": "If the scientists shouted , the professors called the lawyers .", "label": "non-entailment"}
+{"index": "ex21015", "hypothesis": "The actors supported the lawyers .", "premise": "If the senators resigned , the actors supported the lawyers .", "label": "non-entailment"}
+{"index": "ex21016", "hypothesis": "The senators avoided the tourist .", "premise": "If the athlete danced , the senators avoided the tourist .", "label": "non-entailment"}
+{"index": "ex21017", "hypothesis": "The secretary stopped the student .", "premise": "If the lawyers recognized the presidents , the secretary stopped the student .", "label": "non-entailment"}
+{"index": "ex21018", "hypothesis": "The banker arrived .", "premise": "If the athlete saw the lawyers , the banker arrived .", "label": "non-entailment"}
+{"index": "ex21019", "hypothesis": "The president slept .", "premise": "Unless the artists introduced the manager , the president slept .", "label": "non-entailment"}
+{"index": "ex21020", "hypothesis": "The senators thanked the judges .", "premise": "Unless the scientists supported the artists , the senators thanked the judges .", "label": "non-entailment"}
+{"index": "ex21021", "hypothesis": "The judge called the professor .", "premise": "If the secretaries admired the bankers , the judge called the professor .", "label": "non-entailment"}
+{"index": "ex21022", "hypothesis": "The professor resigned .", "premise": "Unless the president believed the bankers , the professor resigned .", "label": "non-entailment"}
+{"index": "ex21023", "hypothesis": "The tourist called the presidents .", "premise": "If the scientists performed , the tourist called the presidents .", "label": "non-entailment"}
+{"index": "ex21024", "hypothesis": "The professors danced .", "premise": "Unless the author recommended the scientist , the professors danced .", "label": "non-entailment"}
+{"index": "ex21025", "hypothesis": "The senator waited .", "premise": "If the bankers mentioned the author , the senator waited .", "label": "non-entailment"}
+{"index": "ex21026", "hypothesis": "The tourists encouraged the authors .", "premise": "Unless the artists advised the judges , the tourists encouraged the authors .", "label": "non-entailment"}
+{"index": "ex21028", "hypothesis": "The artist arrived .", "premise": "If the actor mentioned the students , the artist arrived .", "label": "non-entailment"}
+{"index": "ex21029", "hypothesis": "The professors believed the tourists .", "premise": "If the lawyer thanked the athletes , the professors believed the tourists .", "label": "non-entailment"}
+{"index": "ex21030", "hypothesis": "The doctors admired the presidents .", "premise": "Unless the senators helped the actors , the doctors admired the presidents .", "label": "non-entailment"}
+{"index": "ex21031", "hypothesis": "The senators contacted the tourists .", "premise": "Unless the lawyer waited , the senators contacted the tourists .", "label": "non-entailment"}
+{"index": "ex21032", "hypothesis": "The manager saw the secretary .", "premise": "Unless the judge danced , the manager saw the secretary .", "label": "non-entailment"}
+{"index": "ex21033", "hypothesis": "The professors saw the presidents .", "premise": "Unless the senator avoided the tourist , the professors saw the presidents .", "label": "non-entailment"}
+{"index": "ex21034", "hypothesis": "The authors recognized the actor .", "premise": "Unless the lawyer waited , the authors recognized the actor .", "label": "non-entailment"}
+{"index": "ex21035", "hypothesis": "The president ran .", "premise": "Unless the author danced , the president ran .", "label": "non-entailment"}
+{"index": "ex21036", "hypothesis": "The artist recognized the banker .", "premise": "If the athlete slept , the artist recognized the banker .", "label": "non-entailment"}
+{"index": "ex21037", "hypothesis": "The student contacted the managers .", "premise": "Unless the athlete thanked the actors , the student contacted the managers .", "label": "non-entailment"}
+{"index": "ex21038", "hypothesis": "The doctor introduced the presidents .", "premise": "If the athlete ran , the doctor introduced the presidents .", "label": "non-entailment"}
+{"index": "ex21039", "hypothesis": "The presidents resigned .", "premise": "If the tourists shouted , the presidents resigned .", "label": "non-entailment"}
+{"index": "ex21040", "hypothesis": "The author stopped the managers .", "premise": "If the actors helped the banker , the author stopped the managers .", "label": "non-entailment"}
+{"index": "ex21041", "hypothesis": "The student introduced the doctors .", "premise": "Unless the presidents stopped the professors , the student introduced the doctors .", "label": "non-entailment"}
+{"index": "ex21042", "hypothesis": "The professors stopped the banker .", "premise": "If the secretaries danced , the professors stopped the banker .", "label": "non-entailment"}
+{"index": "ex21043", "hypothesis": "The secretaries ran .", "premise": "If the artists resigned , the secretaries ran .", "label": "non-entailment"}
+{"index": "ex21044", "hypothesis": "The bankers introduced the judge .", "premise": "Unless the doctors mentioned the presidents , the bankers introduced the judge .", "label": "non-entailment"}
+{"index": "ex21045", "hypothesis": "The professors waited .", "premise": "Unless the senators shouted , the professors waited .", "label": "non-entailment"}
+{"index": "ex21046", "hypothesis": "The managers avoided the banker .", "premise": "If the professor ran , the managers avoided the banker .", "label": "non-entailment"}
+{"index": "ex21047", "hypothesis": "The presidents waited .", "premise": "If the senators performed , the presidents waited .", "label": "non-entailment"}
+{"index": "ex21048", "hypothesis": "The artist stopped the bankers .", "premise": "If the student helped the judges , the artist stopped the bankers .", "label": "non-entailment"}
+{"index": "ex21049", "hypothesis": "The judges encouraged the actor .", "premise": "Unless the tourists danced , the judges encouraged the actor .", "label": "non-entailment"}
+{"index": "ex21050", "hypothesis": "The doctors thanked the student .", "premise": "Unless the presidents advised the athlete , the doctors thanked the student .", "label": "non-entailment"}
+{"index": "ex21051", "hypothesis": "The bankers performed .", "premise": "If the professors resigned , the bankers performed .", "label": "non-entailment"}
+{"index": "ex21052", "hypothesis": "The athlete admired the senators .", "premise": "Unless the actors saw the manager , the athlete admired the senators .", "label": "non-entailment"}
+{"index": "ex21053", "hypothesis": "The lawyers shouted .", "premise": "If the senators stopped the tourists , the lawyers shouted .", "label": "non-entailment"}
+{"index": "ex21054", "hypothesis": "The student performed .", "premise": "If the athletes recommended the professor , the student performed .", "label": "non-entailment"}
+{"index": "ex21055", "hypothesis": "The professor supported the banker .", "premise": "Unless the authors recommended the president , the professor supported the banker .", "label": "non-entailment"}
+{"index": "ex21056", "hypothesis": "The managers mentioned the doctors .", "premise": "Unless the artist recognized the bankers , the managers mentioned the doctors .", "label": "non-entailment"}
+{"index": "ex21057", "hypothesis": "The athlete thanked the manager .", "premise": "Unless the senators called the secretaries , the athlete thanked the manager .", "label": "non-entailment"}
+{"index": "ex21058", "hypothesis": "The judge recognized the presidents .", "premise": "If the doctor performed , the judge recognized the presidents .", "label": "non-entailment"}
+{"index": "ex21059", "hypothesis": "The banker introduced the scientists .", "premise": "If the artist thanked the secretary , the banker introduced the scientists .", "label": "non-entailment"}
+{"index": "ex21060", "hypothesis": "The judges admired the athlete .", "premise": "Unless the students supported the secretary , the judges admired the athlete .", "label": "non-entailment"}
+{"index": "ex21061", "hypothesis": "The bankers believed the doctor .", "premise": "If the manager called the student , the bankers believed the doctor .", "label": "non-entailment"}
+{"index": "ex21062", "hypothesis": "The bankers mentioned the judges .", "premise": "Unless the authors contacted the presidents , the bankers mentioned the judges .", "label": "non-entailment"}
+{"index": "ex21063", "hypothesis": "The senators helped the students .", "premise": "If the secretaries thanked the actors , the senators helped the students .", "label": "non-entailment"}
+{"index": "ex21064", "hypothesis": "The artist resigned .", "premise": "Unless the authors recognized the judge , the artist resigned .", "label": "non-entailment"}
+{"index": "ex21065", "hypothesis": "The manager ran .", "premise": "Unless the professor performed , the manager ran .", "label": "non-entailment"}
+{"index": "ex21066", "hypothesis": "The doctors encouraged the manager .", "premise": "Unless the athletes performed , the doctors encouraged the manager .", "label": "non-entailment"}
+{"index": "ex21067", "hypothesis": "The judges mentioned the senators .", "premise": "If the professors called the author , the judges mentioned the senators .", "label": "non-entailment"}
+{"index": "ex21068", "hypothesis": "The athletes supported the students .", "premise": "If the authors thanked the actor , the athletes supported the students .", "label": "non-entailment"}
+{"index": "ex21069", "hypothesis": "The actor supported the presidents .", "premise": "Unless the bankers resigned , the actor supported the presidents .", "label": "non-entailment"}
+{"index": "ex21070", "hypothesis": "The doctors supported the students .", "premise": "If the senator avoided the manager , the doctors supported the students .", "label": "non-entailment"}
+{"index": "ex21071", "hypothesis": "The managers called the scientist .", "premise": "Unless the athlete admired the actors , the managers called the scientist .", "label": "non-entailment"}
+{"index": "ex21072", "hypothesis": "The presidents helped the senators .", "premise": "Unless the doctors slept , the presidents helped the senators .", "label": "non-entailment"}
+{"index": "ex21073", "hypothesis": "The author slept .", "premise": "If the athletes mentioned the student , the author slept .", "label": "non-entailment"}
+{"index": "ex21074", "hypothesis": "The bankers recommended the actors .", "premise": "Unless the students performed , the bankers recommended the actors .", "label": "non-entailment"}
+{"index": "ex21075", "hypothesis": "The actors helped the president .", "premise": "Unless the professor recognized the student , the actors helped the president .", "label": "non-entailment"}
+{"index": "ex21076", "hypothesis": "The doctors stopped the judge .", "premise": "If the actors shouted , the doctors stopped the judge .", "label": "non-entailment"}
+{"index": "ex21077", "hypothesis": "The professor performed .", "premise": "Unless the bankers ran , the professor performed .", "label": "non-entailment"}
+{"index": "ex21078", "hypothesis": "The banker ran .", "premise": "If the scientists admired the judge , the banker ran .", "label": "non-entailment"}
+{"index": "ex21079", "hypothesis": "The author shouted .", "premise": "If the tourist performed , the author shouted .", "label": "non-entailment"}
+{"index": "ex21080", "hypothesis": "The senators arrived .", "premise": "If the secretary shouted , the senators arrived .", "label": "non-entailment"}
+{"index": "ex21081", "hypothesis": "The athlete danced .", "premise": "If the artists recognized the banker , the athlete danced .", "label": "non-entailment"}
+{"index": "ex21082", "hypothesis": "The lawyers encouraged the athletes .", "premise": "Unless the artists advised the senators , the lawyers encouraged the athletes .", "label": "non-entailment"}
+{"index": "ex21083", "hypothesis": "The secretary danced .", "premise": "Unless the professors recommended the senator , the secretary danced .", "label": "non-entailment"}
+{"index": "ex21084", "hypothesis": "The scientist called the doctors .", "premise": "If the professor contacted the presidents , the scientist called the doctors .", "label": "non-entailment"}
+{"index": "ex21085", "hypothesis": "The tourists ran .", "premise": "If the lawyers recommended the secretaries , the tourists ran .", "label": "non-entailment"}
+{"index": "ex21086", "hypothesis": "The lawyers thanked the banker .", "premise": "If the student ran , the lawyers thanked the banker .", "label": "non-entailment"}
+{"index": "ex21087", "hypothesis": "The artists resigned .", "premise": "Unless the author supported the presidents , the artists resigned .", "label": "non-entailment"}
+{"index": "ex21088", "hypothesis": "The athletes admired the presidents .", "premise": "If the doctors helped the secretaries , the athletes admired the presidents .", "label": "non-entailment"}
+{"index": "ex21089", "hypothesis": "The manager thanked the bankers .", "premise": "Unless the tourist contacted the secretaries , the manager thanked the bankers .", "label": "non-entailment"}
+{"index": "ex21090", "hypothesis": "The scientists resigned .", "premise": "Unless the banker saw the tourist , the scientists resigned .", "label": "non-entailment"}
+{"index": "ex21091", "hypothesis": "The tourists stopped the professor .", "premise": "If the managers slept , the tourists stopped the professor .", "label": "non-entailment"}
+{"index": "ex21092", "hypothesis": "The students ran .", "premise": "If the tourists avoided the banker , the students ran .", "label": "non-entailment"}
+{"index": "ex21093", "hypothesis": "The lawyers arrived .", "premise": "If the author slept , the lawyers arrived .", "label": "non-entailment"}
+{"index": "ex21094", "hypothesis": "The scientist believed the banker .", "premise": "If the artists introduced the lawyer , the scientist believed the banker .", "label": "non-entailment"}
+{"index": "ex21095", "hypothesis": "The scientists helped the students .", "premise": "Unless the author admired the senators , the scientists helped the students .", "label": "non-entailment"}
+{"index": "ex21096", "hypothesis": "The banker called the actors .", "premise": "Unless the artists admired the senators , the banker called the actors .", "label": "non-entailment"}
+{"index": "ex21097", "hypothesis": "The judges danced .", "premise": "Unless the athlete believed the presidents , the judges danced .", "label": "non-entailment"}
+{"index": "ex21098", "hypothesis": "The president introduced the judge .", "premise": "Unless the senators supported the athletes , the president introduced the judge .", "label": "non-entailment"}
+{"index": "ex21099", "hypothesis": "The senator recommended the authors .", "premise": "If the presidents mentioned the actor , the senator recommended the authors .", "label": "non-entailment"}
+{"index": "ex21100", "hypothesis": "The bankers saw the manager .", "premise": "Unless the actors advised the presidents , the bankers saw the manager .", "label": "non-entailment"}
+{"index": "ex21101", "hypothesis": "The scientist slept .", "premise": "Unless the senator avoided the bankers , the scientist slept .", "label": "non-entailment"}
+{"index": "ex21102", "hypothesis": "The tourists arrived .", "premise": "If the secretaries waited , the tourists arrived .", "label": "non-entailment"}
+{"index": "ex21103", "hypothesis": "The secretaries slept .", "premise": "If the tourists avoided the doctors , the secretaries slept .", "label": "non-entailment"}
+{"index": "ex21104", "hypothesis": "The senator waited .", "premise": "Unless the student contacted the actor , the senator waited .", "label": "non-entailment"}
+{"index": "ex21105", "hypothesis": "The presidents slept .", "premise": "Unless the lawyer recognized the manager , the presidents slept .", "label": "non-entailment"}
+{"index": "ex21106", "hypothesis": "The lawyers stopped the bankers .", "premise": "Unless the professors thanked the secretaries , the lawyers stopped the bankers .", "label": "non-entailment"}
+{"index": "ex21107", "hypothesis": "The secretaries called the student .", "premise": "If the lawyer encouraged the artists , the secretaries called the student .", "label": "non-entailment"}
+{"index": "ex21108", "hypothesis": "The judges introduced the secretary .", "premise": "Unless the student arrived , the judges introduced the secretary .", "label": "non-entailment"}
+{"index": "ex21109", "hypothesis": "The student supported the president .", "premise": "Unless the senators called the athletes , the student supported the president .", "label": "non-entailment"}
+{"index": "ex21110", "hypothesis": "The bankers encouraged the managers .", "premise": "Unless the secretary waited , the bankers encouraged the managers .", "label": "non-entailment"}
+{"index": "ex21111", "hypothesis": "The presidents advised the artist .", "premise": "If the secretary recommended the banker , the presidents advised the artist .", "label": "non-entailment"}
+{"index": "ex21112", "hypothesis": "The bankers ran .", "premise": "If the managers admired the judge , the bankers ran .", "label": "non-entailment"}
+{"index": "ex21113", "hypothesis": "The managers avoided the judge .", "premise": "If the senators supported the president , the managers avoided the judge .", "label": "non-entailment"}
+{"index": "ex21114", "hypothesis": "The professors avoided the president .", "premise": "If the athletes shouted , the professors avoided the president .", "label": "non-entailment"}
+{"index": "ex21115", "hypothesis": "The professors mentioned the judge .", "premise": "If the manager recommended the secretary , the professors mentioned the judge .", "label": "non-entailment"}
+{"index": "ex21116", "hypothesis": "The professors supported the secretary .", "premise": "Unless the senators recognized the banker , the professors supported the secretary .", "label": "non-entailment"}
+{"index": "ex21117", "hypothesis": "The actors performed .", "premise": "Unless the president ran , the actors performed .", "label": "non-entailment"}
+{"index": "ex21118", "hypothesis": "The doctors waited .", "premise": "If the judges contacted the scientists , the doctors waited .", "label": "non-entailment"}
+{"index": "ex21119", "hypothesis": "The secretaries admired the president .", "premise": "Unless the lawyer resigned , the secretaries admired the president .", "label": "non-entailment"}
+{"index": "ex21120", "hypothesis": "The banker thanked the president .", "premise": "Unless the lawyers recognized the secretary , the banker thanked the president .", "label": "non-entailment"}
+{"index": "ex21121", "hypothesis": "The judges contacted the actors .", "premise": "If the managers helped the tourist , the judges contacted the actors .", "label": "non-entailment"}
+{"index": "ex21122", "hypothesis": "The actor contacted the student .", "premise": "Unless the manager helped the presidents , the actor contacted the student .", "label": "non-entailment"}
+{"index": "ex21123", "hypothesis": "The doctor waited .", "premise": "If the actors contacted the students , the doctor waited .", "label": "non-entailment"}
+{"index": "ex21124", "hypothesis": "The presidents resigned .", "premise": "Unless the actors danced , the presidents resigned .", "label": "non-entailment"}
+{"index": "ex21125", "hypothesis": "The tourists admired the lawyers .", "premise": "Unless the athletes called the senators , the tourists admired the lawyers .", "label": "non-entailment"}
+{"index": "ex21126", "hypothesis": "The doctor stopped the lawyer .", "premise": "Unless the judge recognized the secretaries , the doctor stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex21127", "hypothesis": "The athlete avoided the professors .", "premise": "If the president recommended the actor , the athlete avoided the professors .", "label": "non-entailment"}
+{"index": "ex21128", "hypothesis": "The senator supported the banker .", "premise": "Unless the artists saw the doctors , the senator supported the banker .", "label": "non-entailment"}
+{"index": "ex21129", "hypothesis": "The secretary recognized the president .", "premise": "Unless the professor ran , the secretary recognized the president .", "label": "non-entailment"}
+{"index": "ex21130", "hypothesis": "The professor danced .", "premise": "If the judges helped the banker , the professor danced .", "label": "non-entailment"}
+{"index": "ex21131", "hypothesis": "The students mentioned the senators .", "premise": "Unless the lawyer arrived , the students mentioned the senators .", "label": "non-entailment"}
+{"index": "ex21132", "hypothesis": "The senators advised the secretaries .", "premise": "If the athletes waited , the senators advised the secretaries .", "label": "non-entailment"}
+{"index": "ex21133", "hypothesis": "The students danced .", "premise": "If the managers mentioned the tourist , the students danced .", "label": "non-entailment"}
+{"index": "ex21134", "hypothesis": "The lawyer performed .", "premise": "If the senator avoided the author , the lawyer performed .", "label": "non-entailment"}
+{"index": "ex21135", "hypothesis": "The presidents introduced the artist .", "premise": "If the author slept , the presidents introduced the artist .", "label": "non-entailment"}
+{"index": "ex21136", "hypothesis": "The athletes stopped the artists .", "premise": "If the lawyer mentioned the authors , the athletes stopped the artists .", "label": "non-entailment"}
+{"index": "ex21137", "hypothesis": "The tourist stopped the athlete .", "premise": "If the judges called the artist , the tourist stopped the athlete .", "label": "non-entailment"}
+{"index": "ex21138", "hypothesis": "The secretary slept .", "premise": "If the actors thanked the manager , the secretary slept .", "label": "non-entailment"}
+{"index": "ex21139", "hypothesis": "The senators contacted the presidents .", "premise": "If the secretaries slept , the senators contacted the presidents .", "label": "non-entailment"}
+{"index": "ex21140", "hypothesis": "The presidents encouraged the manager .", "premise": "If the artist performed , the presidents encouraged the manager .", "label": "non-entailment"}
+{"index": "ex21141", "hypothesis": "The scientists supported the senators .", "premise": "Unless the students contacted the lawyer , the scientists supported the senators .", "label": "non-entailment"}
+{"index": "ex21142", "hypothesis": "The scientists called the author .", "premise": "Unless the doctor mentioned the athlete , the scientists called the author .", "label": "non-entailment"}
+{"index": "ex21143", "hypothesis": "The lawyers waited .", "premise": "Unless the doctors supported the actors , the lawyers waited .", "label": "non-entailment"}
+{"index": "ex21144", "hypothesis": "The judges called the manager .", "premise": "If the athletes danced , the judges called the manager .", "label": "non-entailment"}
+{"index": "ex21145", "hypothesis": "The doctors waited .", "premise": "Unless the actors recognized the scientist , the doctors waited .", "label": "non-entailment"}
+{"index": "ex21146", "hypothesis": "The tourist arrived .", "premise": "If the secretary believed the doctors , the tourist arrived .", "label": "non-entailment"}
+{"index": "ex21147", "hypothesis": "The authors advised the tourists .", "premise": "Unless the judge danced , the authors advised the tourists .", "label": "non-entailment"}
+{"index": "ex21148", "hypothesis": "The lawyers danced .", "premise": "Unless the president recommended the tourist , the lawyers danced .", "label": "non-entailment"}
+{"index": "ex21149", "hypothesis": "The scientists avoided the doctor .", "premise": "If the tourists contacted the professor , the scientists avoided the doctor .", "label": "non-entailment"}
+{"index": "ex21150", "hypothesis": "The secretaries helped the doctors .", "premise": "If the president called the author , the secretaries helped the doctors .", "label": "non-entailment"}
+{"index": "ex21151", "hypothesis": "The judges shouted .", "premise": "If the authors contacted the professor , the judges shouted .", "label": "non-entailment"}
+{"index": "ex21152", "hypothesis": "The judge slept .", "premise": "Unless the manager resigned , the judge slept .", "label": "non-entailment"}
+{"index": "ex21153", "hypothesis": "The athletes contacted the manager .", "premise": "If the authors waited , the athletes contacted the manager .", "label": "non-entailment"}
+{"index": "ex21154", "hypothesis": "The senators advised the student .", "premise": "Unless the professors performed , the senators advised the student .", "label": "non-entailment"}
+{"index": "ex21155", "hypothesis": "The athlete slept .", "premise": "If the artists encouraged the lawyers , the athlete slept .", "label": "non-entailment"}
+{"index": "ex21156", "hypothesis": "The presidents avoided the actors .", "premise": "If the banker arrived , the presidents avoided the actors .", "label": "non-entailment"}
+{"index": "ex21157", "hypothesis": "The actor shouted .", "premise": "If the senators supported the artists , the actor shouted .", "label": "non-entailment"}
+{"index": "ex21158", "hypothesis": "The professors shouted .", "premise": "Unless the actor introduced the author , the professors shouted .", "label": "non-entailment"}
+{"index": "ex21159", "hypothesis": "The professors ran .", "premise": "Unless the authors believed the student , the professors ran .", "label": "non-entailment"}
+{"index": "ex21160", "hypothesis": "The banker shouted .", "premise": "Unless the lawyers resigned , the banker shouted .", "label": "non-entailment"}
+{"index": "ex21161", "hypothesis": "The athletes contacted the professor .", "premise": "If the actors slept , the athletes contacted the professor .", "label": "non-entailment"}
+{"index": "ex21162", "hypothesis": "The artists called the actors .", "premise": "If the professor danced , the artists called the actors .", "label": "non-entailment"}
+{"index": "ex21163", "hypothesis": "The author thanked the professor .", "premise": "Unless the president stopped the doctors , the author thanked the professor .", "label": "non-entailment"}
+{"index": "ex21164", "hypothesis": "The secretaries encouraged the scientists .", "premise": "Unless the tourist helped the professor , the secretaries encouraged the scientists .", "label": "non-entailment"}
+{"index": "ex21166", "hypothesis": "The professors waited .", "premise": "If the lawyer danced , the professors waited .", "label": "non-entailment"}
+{"index": "ex21167", "hypothesis": "The actor stopped the secretary .", "premise": "If the judge shouted , the actor stopped the secretary .", "label": "non-entailment"}
+{"index": "ex21168", "hypothesis": "The judges encouraged the student .", "premise": "Unless the artist resigned , the judges encouraged the student .", "label": "non-entailment"}
+{"index": "ex21169", "hypothesis": "The lawyer helped the secretary .", "premise": "Unless the authors admired the student , the lawyer helped the secretary .", "label": "non-entailment"}
+{"index": "ex21170", "hypothesis": "The authors thanked the bankers .", "premise": "Unless the senator encouraged the professor , the authors thanked the bankers .", "label": "non-entailment"}
+{"index": "ex21171", "hypothesis": "The artists ran .", "premise": "If the student encouraged the secretary , the artists ran .", "label": "non-entailment"}
+{"index": "ex21172", "hypothesis": "The scientists waited .", "premise": "Unless the secretary called the professors , the scientists waited .", "label": "non-entailment"}
+{"index": "ex21173", "hypothesis": "The lawyers admired the tourists .", "premise": "Unless the banker called the actors , the lawyers admired the tourists .", "label": "non-entailment"}
+{"index": "ex21174", "hypothesis": "The actors avoided the artists .", "premise": "Unless the student helped the secretaries , the actors avoided the artists .", "label": "non-entailment"}
+{"index": "ex21175", "hypothesis": "The athlete performed .", "premise": "Unless the lawyers contacted the tourist , the athlete performed .", "label": "non-entailment"}
+{"index": "ex21176", "hypothesis": "The managers stopped the secretary .", "premise": "Unless the lawyer waited , the managers stopped the secretary .", "label": "non-entailment"}
+{"index": "ex21177", "hypothesis": "The students encouraged the manager .", "premise": "Unless the artists saw the judge , the students encouraged the manager .", "label": "non-entailment"}
+{"index": "ex21178", "hypothesis": "The bankers slept .", "premise": "Unless the secretaries admired the managers , the bankers slept .", "label": "non-entailment"}
+{"index": "ex21179", "hypothesis": "The secretary mentioned the actor .", "premise": "If the presidents shouted , the secretary mentioned the actor .", "label": "non-entailment"}
+{"index": "ex21180", "hypothesis": "The tourist advised the student .", "premise": "If the senators shouted , the tourist advised the student .", "label": "non-entailment"}
+{"index": "ex21181", "hypothesis": "The manager helped the artist .", "premise": "If the judges arrived , the manager helped the artist .", "label": "non-entailment"}
+{"index": "ex21182", "hypothesis": "The judge shouted .", "premise": "If the professor encouraged the senators , the judge shouted .", "label": "non-entailment"}
+{"index": "ex21183", "hypothesis": "The scientists stopped the author .", "premise": "Unless the student contacted the lawyer , the scientists stopped the author .", "label": "non-entailment"}
+{"index": "ex21184", "hypothesis": "The secretary waited .", "premise": "If the manager saw the students , the secretary waited .", "label": "non-entailment"}
+{"index": "ex21185", "hypothesis": "The scientist mentioned the secretaries .", "premise": "Unless the lawyer avoided the student , the scientist mentioned the secretaries .", "label": "non-entailment"}
+{"index": "ex21186", "hypothesis": "The judge performed .", "premise": "If the actor introduced the tourist , the judge performed .", "label": "non-entailment"}
+{"index": "ex21187", "hypothesis": "The senator arrived .", "premise": "Unless the presidents thanked the scientist , the senator arrived .", "label": "non-entailment"}
+{"index": "ex21188", "hypothesis": "The actors danced .", "premise": "If the tourists performed , the actors danced .", "label": "non-entailment"}
+{"index": "ex21189", "hypothesis": "The actor contacted the lawyer .", "premise": "If the tourist stopped the scientists , the actor contacted the lawyer .", "label": "non-entailment"}
+{"index": "ex21190", "hypothesis": "The athletes recognized the tourist .", "premise": "Unless the author admired the lawyers , the athletes recognized the tourist .", "label": "non-entailment"}
+{"index": "ex21191", "hypothesis": "The secretary introduced the bankers .", "premise": "If the manager arrived , the secretary introduced the bankers .", "label": "non-entailment"}
+{"index": "ex21192", "hypothesis": "The athlete recommended the artist .", "premise": "If the professor shouted , the athlete recommended the artist .", "label": "non-entailment"}
+{"index": "ex21193", "hypothesis": "The banker waited .", "premise": "Unless the presidents arrived , the banker waited .", "label": "non-entailment"}
+{"index": "ex21194", "hypothesis": "The lawyers mentioned the managers .", "premise": "If the actor waited , the lawyers mentioned the managers .", "label": "non-entailment"}
+{"index": "ex21195", "hypothesis": "The artists thanked the athlete .", "premise": "Unless the president waited , the artists thanked the athlete .", "label": "non-entailment"}
+{"index": "ex21196", "hypothesis": "The student resigned .", "premise": "If the authors shouted , the student resigned .", "label": "non-entailment"}
+{"index": "ex21197", "hypothesis": "The actors supported the athletes .", "premise": "If the professors avoided the judge , the actors supported the athletes .", "label": "non-entailment"}
+{"index": "ex21198", "hypothesis": "The doctor ran .", "premise": "If the author mentioned the judges , the doctor ran .", "label": "non-entailment"}
+{"index": "ex21199", "hypothesis": "The athlete ran .", "premise": "If the manager resigned , the athlete ran .", "label": "non-entailment"}
+{"index": "ex21200", "hypothesis": "The doctor ran .", "premise": "Unless the secretary avoided the banker , the doctor ran .", "label": "non-entailment"}
+{"index": "ex21201", "hypothesis": "The lawyer supported the actor .", "premise": "Unless the athlete stopped the tourist , the lawyer supported the actor .", "label": "non-entailment"}
+{"index": "ex21202", "hypothesis": "The judge performed .", "premise": "If the bankers recommended the doctor , the judge performed .", "label": "non-entailment"}
+{"index": "ex21203", "hypothesis": "The judges waited .", "premise": "If the students performed , the judges waited .", "label": "non-entailment"}
+{"index": "ex21204", "hypothesis": "The professors arrived .", "premise": "If the authors danced , the professors arrived .", "label": "non-entailment"}
+{"index": "ex21205", "hypothesis": "The tourist introduced the actors .", "premise": "Unless the senators believed the athletes , the tourist introduced the actors .", "label": "non-entailment"}
+{"index": "ex21206", "hypothesis": "The senator ran .", "premise": "Unless the lawyer called the authors , the senator ran .", "label": "non-entailment"}
+{"index": "ex21207", "hypothesis": "The bankers recognized the judges .", "premise": "Unless the secretaries waited , the bankers recognized the judges .", "label": "non-entailment"}
+{"index": "ex21208", "hypothesis": "The professors helped the students .", "premise": "If the president avoided the scientists , the professors helped the students .", "label": "non-entailment"}
+{"index": "ex21209", "hypothesis": "The students avoided the tourists .", "premise": "If the secretary saw the athletes , the students avoided the tourists .", "label": "non-entailment"}
+{"index": "ex21210", "hypothesis": "The judges encouraged the secretaries .", "premise": "If the bankers mentioned the author , the judges encouraged the secretaries .", "label": "non-entailment"}
+{"index": "ex21211", "hypothesis": "The doctors encouraged the managers .", "premise": "If the professor saw the president , the doctors encouraged the managers .", "label": "non-entailment"}
+{"index": "ex21212", "hypothesis": "The scientist danced .", "premise": "Unless the doctor ran , the scientist danced .", "label": "non-entailment"}
+{"index": "ex21213", "hypothesis": "The president arrived .", "premise": "Unless the athlete danced , the president arrived .", "label": "non-entailment"}
+{"index": "ex21214", "hypothesis": "The president saw the author .", "premise": "Unless the tourist supported the professors , the president saw the author .", "label": "non-entailment"}
+{"index": "ex21215", "hypothesis": "The lawyer saw the tourists .", "premise": "If the doctor avoided the artist , the lawyer saw the tourists .", "label": "non-entailment"}
+{"index": "ex21216", "hypothesis": "The judge ran .", "premise": "If the students supported the managers , the judge ran .", "label": "non-entailment"}
+{"index": "ex21217", "hypothesis": "The judges believed the tourist .", "premise": "Unless the actor avoided the secretary , the judges believed the tourist .", "label": "non-entailment"}
+{"index": "ex21218", "hypothesis": "The judges performed .", "premise": "Unless the professors resigned , the judges performed .", "label": "non-entailment"}
+{"index": "ex21219", "hypothesis": "The judges helped the doctor .", "premise": "If the student admired the presidents , the judges helped the doctor .", "label": "non-entailment"}
+{"index": "ex21220", "hypothesis": "The senators mentioned the doctors .", "premise": "If the athletes danced , the senators mentioned the doctors .", "label": "non-entailment"}
+{"index": "ex21221", "hypothesis": "The secretary helped the banker .", "premise": "If the senator introduced the artists , the secretary helped the banker .", "label": "non-entailment"}
+{"index": "ex21222", "hypothesis": "The lawyers believed the students .", "premise": "Unless the athletes introduced the scientist , the lawyers believed the students .", "label": "non-entailment"}
+{"index": "ex21223", "hypothesis": "The students ran .", "premise": "Unless the scientist saw the professor , the students ran .", "label": "non-entailment"}
+{"index": "ex21224", "hypothesis": "The actors ran .", "premise": "If the banker arrived , the actors ran .", "label": "non-entailment"}
+{"index": "ex21225", "hypothesis": "The student danced .", "premise": "If the presidents saw the actor , the student danced .", "label": "non-entailment"}
+{"index": "ex21226", "hypothesis": "The professor saw the senator .", "premise": "Unless the author ran , the professor saw the senator .", "label": "non-entailment"}
+{"index": "ex21227", "hypothesis": "The scientist saw the author .", "premise": "Unless the actor encouraged the professor , the scientist saw the author .", "label": "non-entailment"}
+{"index": "ex21228", "hypothesis": "The professor performed .", "premise": "Unless the president shouted , the professor performed .", "label": "non-entailment"}
+{"index": "ex21229", "hypothesis": "The senator danced .", "premise": "If the banker mentioned the secretaries , the senator danced .", "label": "non-entailment"}
+{"index": "ex21230", "hypothesis": "The professors danced .", "premise": "Unless the actors believed the tourist , the professors danced .", "label": "non-entailment"}
+{"index": "ex21231", "hypothesis": "The lawyers resigned .", "premise": "Unless the tourist ran , the lawyers resigned .", "label": "non-entailment"}
+{"index": "ex21232", "hypothesis": "The secretaries ran .", "premise": "Unless the author thanked the judge , the secretaries ran .", "label": "non-entailment"}
+{"index": "ex21233", "hypothesis": "The professor stopped the secretary .", "premise": "Unless the scientist danced , the professor stopped the secretary .", "label": "non-entailment"}
+{"index": "ex21234", "hypothesis": "The actors admired the bankers .", "premise": "If the lawyers supported the manager , the actors admired the bankers .", "label": "non-entailment"}
+{"index": "ex21235", "hypothesis": "The managers mentioned the presidents .", "premise": "If the lawyers stopped the senator , the managers mentioned the presidents .", "label": "non-entailment"}
+{"index": "ex21236", "hypothesis": "The senator called the judge .", "premise": "Unless the scientists performed , the senator called the judge .", "label": "non-entailment"}
+{"index": "ex21237", "hypothesis": "The doctor stopped the lawyer .", "premise": "Unless the professor arrived , the doctor stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex21238", "hypothesis": "The actor arrived .", "premise": "If the artist contacted the banker , the actor arrived .", "label": "non-entailment"}
+{"index": "ex21239", "hypothesis": "The scientists recognized the artist .", "premise": "If the judge contacted the lawyers , the scientists recognized the artist .", "label": "non-entailment"}
+{"index": "ex21240", "hypothesis": "The students avoided the manager .", "premise": "If the actors saw the bankers , the students avoided the manager .", "label": "non-entailment"}
+{"index": "ex21241", "hypothesis": "The managers supported the tourist .", "premise": "Unless the professor called the scientists , the managers supported the tourist .", "label": "non-entailment"}
+{"index": "ex21242", "hypothesis": "The doctor contacted the professor .", "premise": "If the actors ran , the doctor contacted the professor .", "label": "non-entailment"}
+{"index": "ex21243", "hypothesis": "The tourist recognized the judges .", "premise": "If the managers performed , the tourist recognized the judges .", "label": "non-entailment"}
+{"index": "ex21244", "hypothesis": "The authors avoided the senator .", "premise": "Unless the artists waited , the authors avoided the senator .", "label": "non-entailment"}
+{"index": "ex21245", "hypothesis": "The student performed .", "premise": "If the authors arrived , the student performed .", "label": "non-entailment"}
+{"index": "ex21246", "hypothesis": "The judge supported the bankers .", "premise": "Unless the tourists shouted , the judge supported the bankers .", "label": "non-entailment"}
+{"index": "ex21247", "hypothesis": "The judges recommended the athletes .", "premise": "Unless the bankers arrived , the judges recommended the athletes .", "label": "non-entailment"}
+{"index": "ex21248", "hypothesis": "The scientist recommended the president .", "premise": "Unless the student saw the lawyer , the scientist recommended the president .", "label": "non-entailment"}
+{"index": "ex21249", "hypothesis": "The bankers arrived .", "premise": "If the artist encouraged the actors , the bankers arrived .", "label": "non-entailment"}
+{"index": "ex21250", "hypothesis": "The senator called the manager .", "premise": "If the doctor avoided the professors , the senator called the manager .", "label": "non-entailment"}
+{"index": "ex21251", "hypothesis": "The judges recommended the banker .", "premise": "If the senators slept , the judges recommended the banker .", "label": "non-entailment"}
+{"index": "ex21252", "hypothesis": "The secretaries danced .", "premise": "Unless the doctor supported the managers , the secretaries danced .", "label": "non-entailment"}
+{"index": "ex21253", "hypothesis": "The athlete advised the artists .", "premise": "If the bankers introduced the judges , the athlete advised the artists .", "label": "non-entailment"}
+{"index": "ex21254", "hypothesis": "The manager performed .", "premise": "Unless the judges saw the secretaries , the manager performed .", "label": "non-entailment"}
+{"index": "ex21255", "hypothesis": "The professors waited .", "premise": "If the managers danced , the professors waited .", "label": "non-entailment"}
+{"index": "ex21256", "hypothesis": "The authors encouraged the scientists .", "premise": "Unless the judges called the tourists , the authors encouraged the scientists .", "label": "non-entailment"}
+{"index": "ex21257", "hypothesis": "The students believed the actors .", "premise": "Unless the doctors supported the scientists , the students believed the actors .", "label": "non-entailment"}
+{"index": "ex21258", "hypothesis": "The scientist ran .", "premise": "Unless the tourist supported the doctors , the scientist ran .", "label": "non-entailment"}
+{"index": "ex21259", "hypothesis": "The lawyer danced .", "premise": "If the athletes slept , the lawyer danced .", "label": "non-entailment"}
+{"index": "ex21260", "hypothesis": "The author resigned .", "premise": "Unless the actor avoided the doctor , the author resigned .", "label": "non-entailment"}
+{"index": "ex21261", "hypothesis": "The managers arrived .", "premise": "If the students contacted the judges , the managers arrived .", "label": "non-entailment"}
+{"index": "ex21262", "hypothesis": "The doctors ran .", "premise": "Unless the senators contacted the athletes , the doctors ran .", "label": "non-entailment"}
+{"index": "ex21263", "hypothesis": "The professors helped the artist .", "premise": "If the author supported the bankers , the professors helped the artist .", "label": "non-entailment"}
+{"index": "ex21264", "hypothesis": "The lawyer encouraged the secretary .", "premise": "Unless the presidents waited , the lawyer encouraged the secretary .", "label": "non-entailment"}
+{"index": "ex21265", "hypothesis": "The lawyers shouted .", "premise": "Unless the professors recognized the bankers , the lawyers shouted .", "label": "non-entailment"}
+{"index": "ex21266", "hypothesis": "The bankers encouraged the manager .", "premise": "Unless the president arrived , the bankers encouraged the manager .", "label": "non-entailment"}
+{"index": "ex21267", "hypothesis": "The students danced .", "premise": "If the senators slept , the students danced .", "label": "non-entailment"}
+{"index": "ex21268", "hypothesis": "The doctor performed .", "premise": "If the athletes recommended the judge , the doctor performed .", "label": "non-entailment"}
+{"index": "ex21269", "hypothesis": "The lawyer admired the presidents .", "premise": "If the manager introduced the professors , the lawyer admired the presidents .", "label": "non-entailment"}
+{"index": "ex21270", "hypothesis": "The athletes ran .", "premise": "Unless the professor believed the author , the athletes ran .", "label": "non-entailment"}
+{"index": "ex21271", "hypothesis": "The banker advised the presidents .", "premise": "If the secretary arrived , the banker advised the presidents .", "label": "non-entailment"}
+{"index": "ex21272", "hypothesis": "The banker helped the manager .", "premise": "Unless the president slept , the banker helped the manager .", "label": "non-entailment"}
+{"index": "ex21273", "hypothesis": "The author recommended the artist .", "premise": "If the athlete performed , the author recommended the artist .", "label": "non-entailment"}
+{"index": "ex21274", "hypothesis": "The presidents stopped the senator .", "premise": "Unless the managers supported the scientist , the presidents stopped the senator .", "label": "non-entailment"}
+{"index": "ex21275", "hypothesis": "The doctors avoided the artists .", "premise": "If the senators believed the secretaries , the doctors avoided the artists .", "label": "non-entailment"}
+{"index": "ex21276", "hypothesis": "The athlete performed .", "premise": "If the banker danced , the athlete performed .", "label": "non-entailment"}
+{"index": "ex21277", "hypothesis": "The tourist performed .", "premise": "If the students saw the artist , the tourist performed .", "label": "non-entailment"}
+{"index": "ex21278", "hypothesis": "The athletes recommended the banker .", "premise": "If the judge contacted the scientist , the athletes recommended the banker .", "label": "non-entailment"}
+{"index": "ex21279", "hypothesis": "The bankers thanked the manager .", "premise": "Unless the actors saw the senators , the bankers thanked the manager .", "label": "non-entailment"}
+{"index": "ex21280", "hypothesis": "The judge recognized the author .", "premise": "Unless the senators avoided the doctor , the judge recognized the author .", "label": "non-entailment"}
+{"index": "ex21281", "hypothesis": "The artists slept .", "premise": "Unless the authors resigned , the artists slept .", "label": "non-entailment"}
+{"index": "ex21282", "hypothesis": "The secretaries advised the senator .", "premise": "If the professor supported the actors , the secretaries advised the senator .", "label": "non-entailment"}
+{"index": "ex21283", "hypothesis": "The athletes advised the artists .", "premise": "If the scientist shouted , the athletes advised the artists .", "label": "non-entailment"}
+{"index": "ex21284", "hypothesis": "The president waited .", "premise": "Unless the authors encouraged the senators , the president waited .", "label": "non-entailment"}
+{"index": "ex21285", "hypothesis": "The judge admired the student .", "premise": "Unless the doctor ran , the judge admired the student .", "label": "non-entailment"}
+{"index": "ex21286", "hypothesis": "The banker introduced the tourist .", "premise": "If the doctors slept , the banker introduced the tourist .", "label": "non-entailment"}
+{"index": "ex21287", "hypothesis": "The lawyers arrived .", "premise": "If the scientists shouted , the lawyers arrived .", "label": "non-entailment"}
+{"index": "ex21288", "hypothesis": "The student thanked the tourist .", "premise": "Unless the managers mentioned the scientists , the student thanked the tourist .", "label": "non-entailment"}
+{"index": "ex21289", "hypothesis": "The banker helped the artist .", "premise": "If the senators called the doctor , the banker helped the artist .", "label": "non-entailment"}
+{"index": "ex21290", "hypothesis": "The students performed .", "premise": "If the scientist introduced the actor , the students performed .", "label": "non-entailment"}
+{"index": "ex21291", "hypothesis": "The senators advised the lawyers .", "premise": "If the authors stopped the doctors , the senators advised the lawyers .", "label": "non-entailment"}
+{"index": "ex21292", "hypothesis": "The actor danced .", "premise": "Unless the judge ran , the actor danced .", "label": "non-entailment"}
+{"index": "ex21293", "hypothesis": "The managers recognized the students .", "premise": "Unless the lawyers danced , the managers recognized the students .", "label": "non-entailment"}
+{"index": "ex21294", "hypothesis": "The actor recognized the artists .", "premise": "Unless the manager called the doctors , the actor recognized the artists .", "label": "non-entailment"}
+{"index": "ex21295", "hypothesis": "The manager arrived .", "premise": "If the tourists contacted the scientists , the manager arrived .", "label": "non-entailment"}
+{"index": "ex21296", "hypothesis": "The athletes waited .", "premise": "Unless the tourists called the lawyers , the athletes waited .", "label": "non-entailment"}
+{"index": "ex21297", "hypothesis": "The lawyer mentioned the students .", "premise": "Unless the judges waited , the lawyer mentioned the students .", "label": "non-entailment"}
+{"index": "ex21298", "hypothesis": "The managers contacted the president .", "premise": "Unless the athlete recognized the tourist , the managers contacted the president .", "label": "non-entailment"}
+{"index": "ex21299", "hypothesis": "The president performed .", "premise": "Unless the professors arrived , the president performed .", "label": "non-entailment"}
+{"index": "ex21300", "hypothesis": "The artists supported the secretary .", "premise": "Unless the senators saw the judges , the artists supported the secretary .", "label": "non-entailment"}
+{"index": "ex21301", "hypothesis": "The judges slept .", "premise": "If the artist recognized the authors , the judges slept .", "label": "non-entailment"}
+{"index": "ex21302", "hypothesis": "The manager believed the bankers .", "premise": "If the judge contacted the secretary , the manager believed the bankers .", "label": "non-entailment"}
+{"index": "ex21303", "hypothesis": "The secretaries supported the president .", "premise": "Unless the professor encouraged the lawyers , the secretaries supported the president .", "label": "non-entailment"}
+{"index": "ex21304", "hypothesis": "The artist contacted the author .", "premise": "Unless the athletes helped the actor , the artist contacted the author .", "label": "non-entailment"}
+{"index": "ex21305", "hypothesis": "The senator recommended the bankers .", "premise": "If the athletes supported the scientist , the senator recommended the bankers .", "label": "non-entailment"}
+{"index": "ex21306", "hypothesis": "The doctor contacted the banker .", "premise": "Unless the scientists danced , the doctor contacted the banker .", "label": "non-entailment"}
+{"index": "ex21307", "hypothesis": "The doctors introduced the bankers .", "premise": "If the athlete mentioned the managers , the doctors introduced the bankers .", "label": "non-entailment"}
+{"index": "ex21308", "hypothesis": "The actor saw the presidents .", "premise": "Unless the tourists encouraged the doctors , the actor saw the presidents .", "label": "non-entailment"}
+{"index": "ex21309", "hypothesis": "The students advised the lawyer .", "premise": "Unless the doctors resigned , the students advised the lawyer .", "label": "non-entailment"}
+{"index": "ex21310", "hypothesis": "The tourist arrived .", "premise": "If the doctors ran , the tourist arrived .", "label": "non-entailment"}
+{"index": "ex21311", "hypothesis": "The banker waited .", "premise": "Unless the students contacted the doctor , the banker waited .", "label": "non-entailment"}
+{"index": "ex21312", "hypothesis": "The professors thanked the athlete .", "premise": "If the banker called the scientist , the professors thanked the athlete .", "label": "non-entailment"}
+{"index": "ex21313", "hypothesis": "The actors arrived .", "premise": "Unless the athletes ran , the actors arrived .", "label": "non-entailment"}
+{"index": "ex21314", "hypothesis": "The student admired the banker .", "premise": "Unless the scientists saw the president , the student admired the banker .", "label": "non-entailment"}
+{"index": "ex21315", "hypothesis": "The athletes shouted .", "premise": "If the senators recognized the actor , the athletes shouted .", "label": "non-entailment"}
+{"index": "ex21316", "hypothesis": "The doctor slept .", "premise": "If the scientist performed , the doctor slept .", "label": "non-entailment"}
+{"index": "ex21317", "hypothesis": "The scientists shouted .", "premise": "If the athlete recognized the professors , the scientists shouted .", "label": "non-entailment"}
+{"index": "ex21318", "hypothesis": "The author ran .", "premise": "If the bankers slept , the author ran .", "label": "non-entailment"}
+{"index": "ex21319", "hypothesis": "The judges shouted .", "premise": "If the student resigned , the judges shouted .", "label": "non-entailment"}
+{"index": "ex21320", "hypothesis": "The actor shouted .", "premise": "If the lawyer advised the secretaries , the actor shouted .", "label": "non-entailment"}
+{"index": "ex21321", "hypothesis": "The student ran .", "premise": "Unless the scientist advised the banker , the student ran .", "label": "non-entailment"}
+{"index": "ex21322", "hypothesis": "The doctor supported the scientists .", "premise": "If the lawyer slept , the doctor supported the scientists .", "label": "non-entailment"}
+{"index": "ex21323", "hypothesis": "The student supported the athlete .", "premise": "If the professors ran , the student supported the athlete .", "label": "non-entailment"}
+{"index": "ex21324", "hypothesis": "The scientists danced .", "premise": "Unless the actors admired the judges , the scientists danced .", "label": "non-entailment"}
+{"index": "ex21325", "hypothesis": "The authors avoided the actors .", "premise": "Unless the athlete recognized the lawyers , the authors avoided the actors .", "label": "non-entailment"}
+{"index": "ex21327", "hypothesis": "The students shouted .", "premise": "Unless the secretary recognized the judges , the students shouted .", "label": "non-entailment"}
+{"index": "ex21328", "hypothesis": "The senators avoided the judge .", "premise": "If the secretaries shouted , the senators avoided the judge .", "label": "non-entailment"}
+{"index": "ex21329", "hypothesis": "The secretary shouted .", "premise": "Unless the banker believed the scientist , the secretary shouted .", "label": "non-entailment"}
+{"index": "ex21330", "hypothesis": "The scientists mentioned the actors .", "premise": "If the athletes avoided the presidents , the scientists mentioned the actors .", "label": "non-entailment"}
+{"index": "ex21331", "hypothesis": "The secretary believed the president .", "premise": "If the bankers slept , the secretary believed the president .", "label": "non-entailment"}
+{"index": "ex21332", "hypothesis": "The secretaries mentioned the presidents .", "premise": "If the banker resigned , the secretaries mentioned the presidents .", "label": "non-entailment"}
+{"index": "ex21333", "hypothesis": "The president avoided the judge .", "premise": "If the student arrived , the president avoided the judge .", "label": "non-entailment"}
+{"index": "ex21334", "hypothesis": "The secretaries admired the authors .", "premise": "Unless the students performed , the secretaries admired the authors .", "label": "non-entailment"}
+{"index": "ex21335", "hypothesis": "The professors encouraged the judges .", "premise": "Unless the banker recognized the artist , the professors encouraged the judges .", "label": "non-entailment"}
+{"index": "ex21336", "hypothesis": "The presidents recognized the student .", "premise": "Unless the actor called the authors , the presidents recognized the student .", "label": "non-entailment"}
+{"index": "ex21337", "hypothesis": "The lawyer slept .", "premise": "If the bankers supported the president , the lawyer slept .", "label": "non-entailment"}
+{"index": "ex21338", "hypothesis": "The bankers resigned .", "premise": "If the senators encouraged the author , the bankers resigned .", "label": "non-entailment"}
+{"index": "ex21339", "hypothesis": "The doctors helped the senators .", "premise": "If the professor admired the athlete , the doctors helped the senators .", "label": "non-entailment"}
+{"index": "ex21340", "hypothesis": "The lawyer resigned .", "premise": "Unless the scientist contacted the student , the lawyer resigned .", "label": "non-entailment"}
+{"index": "ex21341", "hypothesis": "The tourist called the students .", "premise": "Unless the managers avoided the banker , the tourist called the students .", "label": "non-entailment"}
+{"index": "ex21342", "hypothesis": "The secretary performed .", "premise": "Unless the student arrived , the secretary performed .", "label": "non-entailment"}
+{"index": "ex21343", "hypothesis": "The doctor stopped the judge .", "premise": "Unless the authors contacted the student , the doctor stopped the judge .", "label": "non-entailment"}
+{"index": "ex21344", "hypothesis": "The judge slept .", "premise": "Unless the doctors encouraged the author , the judge slept .", "label": "non-entailment"}
+{"index": "ex21345", "hypothesis": "The professor believed the secretary .", "premise": "Unless the lawyers admired the manager , the professor believed the secretary .", "label": "non-entailment"}
+{"index": "ex21346", "hypothesis": "The presidents supported the lawyers .", "premise": "Unless the judge believed the athlete , the presidents supported the lawyers .", "label": "non-entailment"}
+{"index": "ex21347", "hypothesis": "The actors helped the doctor .", "premise": "If the presidents avoided the artist , the actors helped the doctor .", "label": "non-entailment"}
+{"index": "ex21348", "hypothesis": "The author introduced the secretary .", "premise": "If the tourists thanked the actors , the author introduced the secretary .", "label": "non-entailment"}
+{"index": "ex21349", "hypothesis": "The student supported the athlete .", "premise": "If the secretaries performed , the student supported the athlete .", "label": "non-entailment"}
+{"index": "ex21350", "hypothesis": "The tourist shouted .", "premise": "Unless the artist encouraged the judges , the tourist shouted .", "label": "non-entailment"}
+{"index": "ex21351", "hypothesis": "The senator helped the bankers .", "premise": "If the athletes resigned , the senator helped the bankers .", "label": "non-entailment"}
+{"index": "ex21352", "hypothesis": "The scientist shouted .", "premise": "If the athlete called the senators , the scientist shouted .", "label": "non-entailment"}
+{"index": "ex21353", "hypothesis": "The banker saw the manager .", "premise": "If the scientists avoided the judges , the banker saw the manager .", "label": "non-entailment"}
+{"index": "ex21354", "hypothesis": "The senators resigned .", "premise": "If the artist arrived , the senators resigned .", "label": "non-entailment"}
+{"index": "ex21355", "hypothesis": "The lawyer performed .", "premise": "If the artists thanked the athlete , the lawyer performed .", "label": "non-entailment"}
+{"index": "ex21356", "hypothesis": "The managers believed the presidents .", "premise": "If the athlete avoided the artists , the managers believed the presidents .", "label": "non-entailment"}
+{"index": "ex21357", "hypothesis": "The secretaries called the doctors .", "premise": "Unless the artist performed , the secretaries called the doctors .", "label": "non-entailment"}
+{"index": "ex21358", "hypothesis": "The tourist encouraged the athlete .", "premise": "Unless the professor avoided the lawyers , the tourist encouraged the athlete .", "label": "non-entailment"}
+{"index": "ex21360", "hypothesis": "The senators advised the author .", "premise": "Unless the actors arrived , the senators advised the author .", "label": "non-entailment"}
+{"index": "ex21361", "hypothesis": "The actor ran .", "premise": "If the tourist believed the senator , the actor ran .", "label": "non-entailment"}
+{"index": "ex21362", "hypothesis": "The lawyer ran .", "premise": "If the artists helped the athletes , the lawyer ran .", "label": "non-entailment"}
+{"index": "ex21363", "hypothesis": "The doctor advised the actors .", "premise": "If the tourist ran , the doctor advised the actors .", "label": "non-entailment"}
+{"index": "ex21364", "hypothesis": "The artist resigned .", "premise": "If the manager danced , the artist resigned .", "label": "non-entailment"}
+{"index": "ex21365", "hypothesis": "The banker believed the students .", "premise": "Unless the secretary supported the presidents , the banker believed the students .", "label": "non-entailment"}
+{"index": "ex21366", "hypothesis": "The president mentioned the lawyers .", "premise": "If the managers slept , the president mentioned the lawyers .", "label": "non-entailment"}
+{"index": "ex21367", "hypothesis": "The doctors performed .", "premise": "Unless the scientists admired the senators , the doctors performed .", "label": "non-entailment"}
+{"index": "ex21368", "hypothesis": "The judge arrived .", "premise": "If the bankers ran , the judge arrived .", "label": "non-entailment"}
+{"index": "ex21369", "hypothesis": "The scientists recognized the doctor .", "premise": "Unless the artist stopped the actors , the scientists recognized the doctor .", "label": "non-entailment"}
+{"index": "ex21370", "hypothesis": "The author called the actor .", "premise": "Unless the senators shouted , the author called the actor .", "label": "non-entailment"}
+{"index": "ex21371", "hypothesis": "The scientist recommended the managers .", "premise": "If the secretary shouted , the scientist recommended the managers .", "label": "non-entailment"}
+{"index": "ex21372", "hypothesis": "The bankers resigned .", "premise": "If the scientist waited , the bankers resigned .", "label": "non-entailment"}
+{"index": "ex21373", "hypothesis": "The president shouted .", "premise": "Unless the lawyers introduced the students , the president shouted .", "label": "non-entailment"}
+{"index": "ex21374", "hypothesis": "The secretary recommended the doctor .", "premise": "If the presidents performed , the secretary recommended the doctor .", "label": "non-entailment"}
+{"index": "ex21375", "hypothesis": "The secretary introduced the presidents .", "premise": "Unless the athletes called the bankers , the secretary introduced the presidents .", "label": "non-entailment"}
+{"index": "ex21376", "hypothesis": "The authors shouted .", "premise": "Unless the student mentioned the lawyer , the authors shouted .", "label": "non-entailment"}
+{"index": "ex21377", "hypothesis": "The senator encouraged the banker .", "premise": "If the athletes mentioned the tourist , the senator encouraged the banker .", "label": "non-entailment"}
+{"index": "ex21378", "hypothesis": "The banker called the actor .", "premise": "If the secretaries stopped the artist , the banker called the actor .", "label": "non-entailment"}
+{"index": "ex21379", "hypothesis": "The athlete supported the president .", "premise": "Unless the manager avoided the judges , the athlete supported the president .", "label": "non-entailment"}
+{"index": "ex21380", "hypothesis": "The author danced .", "premise": "If the banker supported the presidents , the author danced .", "label": "non-entailment"}
+{"index": "ex21381", "hypothesis": "The president shouted .", "premise": "Unless the lawyer danced , the president shouted .", "label": "non-entailment"}
+{"index": "ex21382", "hypothesis": "The author avoided the president .", "premise": "If the judge helped the artists , the author avoided the president .", "label": "non-entailment"}
+{"index": "ex21383", "hypothesis": "The secretaries helped the lawyer .", "premise": "Unless the student performed , the secretaries helped the lawyer .", "label": "non-entailment"}
+{"index": "ex21384", "hypothesis": "The professors stopped the student .", "premise": "Unless the manager believed the tourists , the professors stopped the student .", "label": "non-entailment"}
+{"index": "ex21385", "hypothesis": "The secretaries recommended the athletes .", "premise": "If the tourist ran , the secretaries recommended the athletes .", "label": "non-entailment"}
+{"index": "ex21386", "hypothesis": "The athletes thanked the secretary .", "premise": "Unless the author introduced the lawyers , the athletes thanked the secretary .", "label": "non-entailment"}
+{"index": "ex21387", "hypothesis": "The bankers mentioned the actors .", "premise": "Unless the lawyer performed , the bankers mentioned the actors .", "label": "non-entailment"}
+{"index": "ex21388", "hypothesis": "The secretaries encouraged the president .", "premise": "Unless the tourists recognized the banker , the secretaries encouraged the president .", "label": "non-entailment"}
+{"index": "ex21389", "hypothesis": "The scientist thanked the student .", "premise": "If the actors called the author , the scientist thanked the student .", "label": "non-entailment"}
+{"index": "ex21390", "hypothesis": "The scientist believed the managers .", "premise": "If the actor waited , the scientist believed the managers .", "label": "non-entailment"}
+{"index": "ex21391", "hypothesis": "The athletes mentioned the artists .", "premise": "Unless the actor saw the student , the athletes mentioned the artists .", "label": "non-entailment"}
+{"index": "ex21392", "hypothesis": "The judges resigned .", "premise": "Unless the senators thanked the scientist , the judges resigned .", "label": "non-entailment"}
+{"index": "ex21393", "hypothesis": "The doctor stopped the president .", "premise": "If the student encouraged the scientist , the doctor stopped the president .", "label": "non-entailment"}
+{"index": "ex21394", "hypothesis": "The professors avoided the doctors .", "premise": "If the managers waited , the professors avoided the doctors .", "label": "non-entailment"}
+{"index": "ex21395", "hypothesis": "The student encouraged the actor .", "premise": "If the artist resigned , the student encouraged the actor .", "label": "non-entailment"}
+{"index": "ex21396", "hypothesis": "The actors believed the tourist .", "premise": "If the author encouraged the presidents , the actors believed the tourist .", "label": "non-entailment"}
+{"index": "ex21397", "hypothesis": "The tourist performed .", "premise": "Unless the managers slept , the tourist performed .", "label": "non-entailment"}
+{"index": "ex21398", "hypothesis": "The lawyer introduced the judges .", "premise": "If the scientists believed the author , the lawyer introduced the judges .", "label": "non-entailment"}
+{"index": "ex21399", "hypothesis": "The tourist ran .", "premise": "Unless the artist shouted , the tourist ran .", "label": "non-entailment"}
+{"index": "ex21400", "hypothesis": "The authors mentioned the judge .", "premise": "Unless the scientists admired the lawyers , the authors mentioned the judge .", "label": "non-entailment"}
+{"index": "ex21401", "hypothesis": "The artists saw the judges .", "premise": "If the scientist waited , the artists saw the judges .", "label": "non-entailment"}
+{"index": "ex21402", "hypothesis": "The professors recognized the actor .", "premise": "If the author resigned , the professors recognized the actor .", "label": "non-entailment"}
+{"index": "ex21403", "hypothesis": "The author performed .", "premise": "Unless the bankers arrived , the author performed .", "label": "non-entailment"}
+{"index": "ex21404", "hypothesis": "The secretary resigned .", "premise": "If the scientists recognized the professors , the secretary resigned .", "label": "non-entailment"}
+{"index": "ex21405", "hypothesis": "The president shouted .", "premise": "If the judge performed , the president shouted .", "label": "non-entailment"}
+{"index": "ex21406", "hypothesis": "The tourist resigned .", "premise": "If the author arrived , the tourist resigned .", "label": "non-entailment"}
+{"index": "ex21407", "hypothesis": "The doctor recognized the lawyer .", "premise": "Unless the tourist contacted the professors , the doctor recognized the lawyer .", "label": "non-entailment"}
+{"index": "ex21408", "hypothesis": "The secretaries supported the manager .", "premise": "Unless the presidents saw the scientists , the secretaries supported the manager .", "label": "non-entailment"}
+{"index": "ex21409", "hypothesis": "The president avoided the artist .", "premise": "Unless the athlete encouraged the scientists , the president avoided the artist .", "label": "non-entailment"}
+{"index": "ex21410", "hypothesis": "The actor danced .", "premise": "Unless the president called the secretaries , the actor danced .", "label": "non-entailment"}
+{"index": "ex21411", "hypothesis": "The scientist believed the tourist .", "premise": "Unless the student arrived , the scientist believed the tourist .", "label": "non-entailment"}
+{"index": "ex21412", "hypothesis": "The bankers stopped the professor .", "premise": "Unless the athletes advised the scientist , the bankers stopped the professor .", "label": "non-entailment"}
+{"index": "ex21413", "hypothesis": "The banker waited .", "premise": "Unless the actor thanked the scientists , the banker waited .", "label": "non-entailment"}
+{"index": "ex21414", "hypothesis": "The students saw the tourists .", "premise": "If the actor slept , the students saw the tourists .", "label": "non-entailment"}
+{"index": "ex21415", "hypothesis": "The banker advised the president .", "premise": "Unless the doctor shouted , the banker advised the president .", "label": "non-entailment"}
+{"index": "ex21416", "hypothesis": "The lawyer waited .", "premise": "Unless the banker mentioned the doctor , the lawyer waited .", "label": "non-entailment"}
+{"index": "ex21417", "hypothesis": "The doctor avoided the manager .", "premise": "If the senator introduced the president , the doctor avoided the manager .", "label": "non-entailment"}
+{"index": "ex21418", "hypothesis": "The lawyers encouraged the athletes .", "premise": "Unless the scientist shouted , the lawyers encouraged the athletes .", "label": "non-entailment"}
+{"index": "ex21419", "hypothesis": "The manager recognized the doctors .", "premise": "Unless the tourists helped the secretaries , the manager recognized the doctors .", "label": "non-entailment"}
+{"index": "ex21420", "hypothesis": "The student ran .", "premise": "Unless the presidents slept , the student ran .", "label": "non-entailment"}
+{"index": "ex21421", "hypothesis": "The lawyers arrived .", "premise": "If the doctors recommended the presidents , the lawyers arrived .", "label": "non-entailment"}
+{"index": "ex21422", "hypothesis": "The lawyers introduced the judges .", "premise": "If the senators danced , the lawyers introduced the judges .", "label": "non-entailment"}
+{"index": "ex21423", "hypothesis": "The lawyer ran .", "premise": "Unless the athletes shouted , the lawyer ran .", "label": "non-entailment"}
+{"index": "ex21424", "hypothesis": "The judges thanked the actor .", "premise": "If the bankers waited , the judges thanked the actor .", "label": "non-entailment"}
+{"index": "ex21425", "hypothesis": "The scientists admired the bankers .", "premise": "If the judge shouted , the scientists admired the bankers .", "label": "non-entailment"}
+{"index": "ex21426", "hypothesis": "The authors contacted the lawyers .", "premise": "Unless the secretaries helped the scientist , the authors contacted the lawyers .", "label": "non-entailment"}
+{"index": "ex21427", "hypothesis": "The senators ran .", "premise": "Unless the athlete helped the tourist , the senators ran .", "label": "non-entailment"}
+{"index": "ex21428", "hypothesis": "The author helped the artist .", "premise": "If the senator ran , the author helped the artist .", "label": "non-entailment"}
+{"index": "ex21429", "hypothesis": "The doctor arrived .", "premise": "Unless the actor contacted the tourist , the doctor arrived .", "label": "non-entailment"}
+{"index": "ex21430", "hypothesis": "The bankers called the senator .", "premise": "Unless the doctors ran , the bankers called the senator .", "label": "non-entailment"}
+{"index": "ex21431", "hypothesis": "The lawyer advised the tourist .", "premise": "If the judges saw the manager , the lawyer advised the tourist .", "label": "non-entailment"}
+{"index": "ex21432", "hypothesis": "The actors helped the manager .", "premise": "Unless the professors mentioned the author , the actors helped the manager .", "label": "non-entailment"}
+{"index": "ex21433", "hypothesis": "The doctor encouraged the lawyer .", "premise": "Unless the athletes believed the senator , the doctor encouraged the lawyer .", "label": "non-entailment"}
+{"index": "ex21434", "hypothesis": "The president ran .", "premise": "If the authors believed the banker , the president ran .", "label": "non-entailment"}
+{"index": "ex21435", "hypothesis": "The authors admired the tourists .", "premise": "If the professors slept , the authors admired the tourists .", "label": "non-entailment"}
+{"index": "ex21436", "hypothesis": "The actor resigned .", "premise": "Unless the lawyers shouted , the actor resigned .", "label": "non-entailment"}
+{"index": "ex21437", "hypothesis": "The secretaries danced .", "premise": "Unless the athlete helped the lawyers , the secretaries danced .", "label": "non-entailment"}
+{"index": "ex21438", "hypothesis": "The lawyer supported the actors .", "premise": "Unless the authors slept , the lawyer supported the actors .", "label": "non-entailment"}
+{"index": "ex21439", "hypothesis": "The senator helped the athlete .", "premise": "If the scientists shouted , the senator helped the athlete .", "label": "non-entailment"}
+{"index": "ex21440", "hypothesis": "The athletes contacted the student .", "premise": "Unless the authors saw the judges , the athletes contacted the student .", "label": "non-entailment"}
+{"index": "ex21441", "hypothesis": "The artists called the authors .", "premise": "Unless the actors stopped the lawyer , the artists called the authors .", "label": "non-entailment"}
+{"index": "ex21442", "hypothesis": "The judges advised the doctor .", "premise": "Unless the artists supported the professor , the judges advised the doctor .", "label": "non-entailment"}
+{"index": "ex21443", "hypothesis": "The senator danced .", "premise": "Unless the judge supported the scientists , the senator danced .", "label": "non-entailment"}
+{"index": "ex21444", "hypothesis": "The lawyer admired the doctor .", "premise": "If the professors recognized the secretaries , the lawyer admired the doctor .", "label": "non-entailment"}
+{"index": "ex21445", "hypothesis": "The athlete believed the secretary .", "premise": "If the banker thanked the managers , the athlete believed the secretary .", "label": "non-entailment"}
+{"index": "ex21446", "hypothesis": "The scientist slept .", "premise": "Unless the students called the actor , the scientist slept .", "label": "non-entailment"}
+{"index": "ex21447", "hypothesis": "The athletes arrived .", "premise": "If the secretary admired the professors , the athletes arrived .", "label": "non-entailment"}
+{"index": "ex21448", "hypothesis": "The author arrived .", "premise": "Unless the students saw the senators , the author arrived .", "label": "non-entailment"}
+{"index": "ex21449", "hypothesis": "The manager admired the scientist .", "premise": "If the presidents slept , the manager admired the scientist .", "label": "non-entailment"}
+{"index": "ex21450", "hypothesis": "The tourist saw the artist .", "premise": "If the presidents thanked the scientists , the tourist saw the artist .", "label": "non-entailment"}
+{"index": "ex21451", "hypothesis": "The manager stopped the lawyers .", "premise": "If the judges recommended the scientists , the manager stopped the lawyers .", "label": "non-entailment"}
+{"index": "ex21452", "hypothesis": "The tourists advised the professor .", "premise": "Unless the scientists admired the secretaries , the tourists advised the professor .", "label": "non-entailment"}
+{"index": "ex21453", "hypothesis": "The doctors performed .", "premise": "Unless the athletes contacted the authors , the doctors performed .", "label": "non-entailment"}
+{"index": "ex21454", "hypothesis": "The judges saw the actor .", "premise": "If the managers introduced the artists , the judges saw the actor .", "label": "non-entailment"}
+{"index": "ex21455", "hypothesis": "The senators slept .", "premise": "If the president ran , the senators slept .", "label": "non-entailment"}
+{"index": "ex21456", "hypothesis": "The lawyers believed the athletes .", "premise": "If the president saw the actors , the lawyers believed the athletes .", "label": "non-entailment"}
+{"index": "ex21457", "hypothesis": "The doctors arrived .", "premise": "If the senator ran , the doctors arrived .", "label": "non-entailment"}
+{"index": "ex21458", "hypothesis": "The scientist shouted .", "premise": "If the artist called the president , the scientist shouted .", "label": "non-entailment"}
+{"index": "ex21459", "hypothesis": "The scientists believed the banker .", "premise": "If the doctor danced , the scientists believed the banker .", "label": "non-entailment"}
+{"index": "ex21460", "hypothesis": "The actor thanked the tourist .", "premise": "If the managers resigned , the actor thanked the tourist .", "label": "non-entailment"}
+{"index": "ex21461", "hypothesis": "The professor supported the tourist .", "premise": "If the scientist called the senators , the professor supported the tourist .", "label": "non-entailment"}
+{"index": "ex21462", "hypothesis": "The professors shouted .", "premise": "Unless the senators resigned , the professors shouted .", "label": "non-entailment"}
+{"index": "ex21463", "hypothesis": "The doctors resigned .", "premise": "If the artists recognized the secretary , the doctors resigned .", "label": "non-entailment"}
+{"index": "ex21464", "hypothesis": "The judges admired the president .", "premise": "If the professor believed the secretaries , the judges admired the president .", "label": "non-entailment"}
+{"index": "ex21465", "hypothesis": "The professors shouted .", "premise": "If the senators contacted the scientist , the professors shouted .", "label": "non-entailment"}
+{"index": "ex21466", "hypothesis": "The athletes recommended the doctor .", "premise": "If the scientists admired the actor , the athletes recommended the doctor .", "label": "non-entailment"}
+{"index": "ex21467", "hypothesis": "The banker supported the secretaries .", "premise": "Unless the managers avoided the students , the banker supported the secretaries .", "label": "non-entailment"}
+{"index": "ex21468", "hypothesis": "The doctors contacted the secretary .", "premise": "Unless the actor helped the lawyer , the doctors contacted the secretary .", "label": "non-entailment"}
+{"index": "ex21469", "hypothesis": "The presidents ran .", "premise": "Unless the secretary called the manager , the presidents ran .", "label": "non-entailment"}
+{"index": "ex21470", "hypothesis": "The judges recommended the secretary .", "premise": "If the doctor danced , the judges recommended the secretary .", "label": "non-entailment"}
+{"index": "ex21471", "hypothesis": "The senator danced .", "premise": "Unless the tourist called the athlete , the senator danced .", "label": "non-entailment"}
+{"index": "ex21472", "hypothesis": "The secretary arrived .", "premise": "If the doctors recognized the lawyers , the secretary arrived .", "label": "non-entailment"}
+{"index": "ex21473", "hypothesis": "The professor avoided the actor .", "premise": "If the doctor thanked the banker , the professor avoided the actor .", "label": "non-entailment"}
+{"index": "ex21474", "hypothesis": "The manager ran .", "premise": "If the secretaries saw the doctors , the manager ran .", "label": "non-entailment"}
+{"index": "ex21475", "hypothesis": "The actor waited .", "premise": "Unless the tourists contacted the doctor , the actor waited .", "label": "non-entailment"}
+{"index": "ex21476", "hypothesis": "The bankers waited .", "premise": "Unless the actor recognized the secretary , the bankers waited .", "label": "non-entailment"}
+{"index": "ex21477", "hypothesis": "The manager admired the lawyers .", "premise": "Unless the students saw the athlete , the manager admired the lawyers .", "label": "non-entailment"}
+{"index": "ex21478", "hypothesis": "The senators ran .", "premise": "If the professors thanked the athlete , the senators ran .", "label": "non-entailment"}
+{"index": "ex21479", "hypothesis": "The artist thanked the actors .", "premise": "Unless the managers called the scientist , the artist thanked the actors .", "label": "non-entailment"}
+{"index": "ex21480", "hypothesis": "The doctor waited .", "premise": "If the athletes called the lawyer , the doctor waited .", "label": "non-entailment"}
+{"index": "ex21481", "hypothesis": "The secretary encouraged the banker .", "premise": "If the senators slept , the secretary encouraged the banker .", "label": "non-entailment"}
+{"index": "ex21482", "hypothesis": "The students introduced the presidents .", "premise": "If the doctor thanked the bankers , the students introduced the presidents .", "label": "non-entailment"}
+{"index": "ex21483", "hypothesis": "The presidents saw the athlete .", "premise": "If the tourist helped the senator , the presidents saw the athlete .", "label": "non-entailment"}
+{"index": "ex21484", "hypothesis": "The artists mentioned the students .", "premise": "Unless the tourists avoided the senators , the artists mentioned the students .", "label": "non-entailment"}
+{"index": "ex21485", "hypothesis": "The athletes avoided the author .", "premise": "If the managers believed the actors , the athletes avoided the author .", "label": "non-entailment"}
+{"index": "ex21486", "hypothesis": "The author believed the secretary .", "premise": "If the senator waited , the author believed the secretary .", "label": "non-entailment"}
+{"index": "ex21487", "hypothesis": "The artist recognized the manager .", "premise": "If the secretaries admired the tourists , the artist recognized the manager .", "label": "non-entailment"}
+{"index": "ex21488", "hypothesis": "The athlete saw the senators .", "premise": "If the actor shouted , the athlete saw the senators .", "label": "non-entailment"}
+{"index": "ex21489", "hypothesis": "The manager called the doctors .", "premise": "If the scientists shouted , the manager called the doctors .", "label": "non-entailment"}
+{"index": "ex21490", "hypothesis": "The banker recognized the managers .", "premise": "Unless the student recommended the doctor , the banker recognized the managers .", "label": "non-entailment"}
+{"index": "ex21491", "hypothesis": "The authors believed the tourist .", "premise": "Unless the scientist admired the lawyers , the authors believed the tourist .", "label": "non-entailment"}
+{"index": "ex21492", "hypothesis": "The student ran .", "premise": "If the manager slept , the student ran .", "label": "non-entailment"}
+{"index": "ex21493", "hypothesis": "The doctors called the judges .", "premise": "Unless the actors advised the artists , the doctors called the judges .", "label": "non-entailment"}
+{"index": "ex21494", "hypothesis": "The judge helped the student .", "premise": "If the lawyer supported the president , the judge helped the student .", "label": "non-entailment"}
+{"index": "ex21495", "hypothesis": "The senators admired the judge .", "premise": "If the actor encouraged the athlete , the senators admired the judge .", "label": "non-entailment"}
+{"index": "ex21496", "hypothesis": "The banker danced .", "premise": "If the senator avoided the scientists , the banker danced .", "label": "non-entailment"}
+{"index": "ex21497", "hypothesis": "The doctor believed the lawyers .", "premise": "Unless the actor resigned , the doctor believed the lawyers .", "label": "non-entailment"}
+{"index": "ex21498", "hypothesis": "The president waited .", "premise": "If the managers helped the professors , the president waited .", "label": "non-entailment"}
+{"index": "ex21499", "hypothesis": "The doctor danced .", "premise": "If the tourists contacted the athletes , the doctor danced .", "label": "non-entailment"}
+{"index": "ex21500", "hypothesis": "The scientist saw the artist .", "premise": "Unless the senator danced , the scientist saw the artist .", "label": "non-entailment"}
+{"index": "ex21501", "hypothesis": "The lawyer saw the artists .", "premise": "Unless the student arrived , the lawyer saw the artists .", "label": "non-entailment"}
+{"index": "ex21502", "hypothesis": "The scientist thanked the lawyer .", "premise": "Unless the bankers stopped the tourist , the scientist thanked the lawyer .", "label": "non-entailment"}
+{"index": "ex21503", "hypothesis": "The tourists advised the athletes .", "premise": "Unless the doctor supported the scientist , the tourists advised the athletes .", "label": "non-entailment"}
+{"index": "ex21504", "hypothesis": "The banker avoided the author .", "premise": "Unless the senator thanked the professor , the banker avoided the author .", "label": "non-entailment"}
+{"index": "ex21505", "hypothesis": "The scientists resigned .", "premise": "If the actors arrived , the scientists resigned .", "label": "non-entailment"}
+{"index": "ex21506", "hypothesis": "The senator stopped the scientists .", "premise": "Unless the actor arrived , the senator stopped the scientists .", "label": "non-entailment"}
+{"index": "ex21507", "hypothesis": "The student encouraged the professor .", "premise": "Unless the bankers avoided the judges , the student encouraged the professor .", "label": "non-entailment"}
+{"index": "ex21508", "hypothesis": "The artists believed the senator .", "premise": "If the doctors danced , the artists believed the senator .", "label": "non-entailment"}
+{"index": "ex21509", "hypothesis": "The managers mentioned the banker .", "premise": "Unless the scientist advised the student , the managers mentioned the banker .", "label": "non-entailment"}
+{"index": "ex21510", "hypothesis": "The actor recognized the manager .", "premise": "If the judges mentioned the secretaries , the actor recognized the manager .", "label": "non-entailment"}
+{"index": "ex21511", "hypothesis": "The doctors ran .", "premise": "Unless the secretaries slept , the doctors ran .", "label": "non-entailment"}
+{"index": "ex21512", "hypothesis": "The actors contacted the judge .", "premise": "If the students waited , the actors contacted the judge .", "label": "non-entailment"}
+{"index": "ex21513", "hypothesis": "The secretaries supported the banker .", "premise": "If the professors slept , the secretaries supported the banker .", "label": "non-entailment"}
+{"index": "ex21514", "hypothesis": "The athletes encouraged the artists .", "premise": "If the secretary shouted , the athletes encouraged the artists .", "label": "non-entailment"}
+{"index": "ex21515", "hypothesis": "The presidents shouted .", "premise": "Unless the athlete thanked the doctor , the presidents shouted .", "label": "non-entailment"}
+{"index": "ex21516", "hypothesis": "The senators introduced the president .", "premise": "Unless the bankers resigned , the senators introduced the president .", "label": "non-entailment"}
+{"index": "ex21517", "hypothesis": "The doctor encouraged the senator .", "premise": "Unless the tourists performed , the doctor encouraged the senator .", "label": "non-entailment"}
+{"index": "ex21518", "hypothesis": "The actors called the athlete .", "premise": "Unless the secretaries mentioned the students , the actors called the athlete .", "label": "non-entailment"}
+{"index": "ex21519", "hypothesis": "The banker shouted .", "premise": "If the artist recommended the managers , the banker shouted .", "label": "non-entailment"}
+{"index": "ex21520", "hypothesis": "The senator advised the secretary .", "premise": "Unless the doctor admired the professors , the senator advised the secretary .", "label": "non-entailment"}
+{"index": "ex21521", "hypothesis": "The lawyer slept .", "premise": "If the athletes resigned , the lawyer slept .", "label": "non-entailment"}
+{"index": "ex21522", "hypothesis": "The artists believed the authors .", "premise": "If the professors slept , the artists believed the authors .", "label": "non-entailment"}
+{"index": "ex21523", "hypothesis": "The authors ran .", "premise": "Unless the scientist stopped the athletes , the authors ran .", "label": "non-entailment"}
+{"index": "ex21524", "hypothesis": "The student performed .", "premise": "Unless the secretaries waited , the student performed .", "label": "non-entailment"}
+{"index": "ex21525", "hypothesis": "The tourists contacted the lawyer .", "premise": "If the judge helped the artists , the tourists contacted the lawyer .", "label": "non-entailment"}
+{"index": "ex21526", "hypothesis": "The senators thanked the actor .", "premise": "Unless the president encouraged the author , the senators thanked the actor .", "label": "non-entailment"}
+{"index": "ex21527", "hypothesis": "The athletes advised the secretaries .", "premise": "If the managers danced , the athletes advised the secretaries .", "label": "non-entailment"}
+{"index": "ex21528", "hypothesis": "The professors performed .", "premise": "If the banker arrived , the professors performed .", "label": "non-entailment"}
+{"index": "ex21529", "hypothesis": "The artist waited .", "premise": "Unless the authors performed , the artist waited .", "label": "non-entailment"}
+{"index": "ex21530", "hypothesis": "The presidents arrived .", "premise": "Unless the professor helped the secretary , the presidents arrived .", "label": "non-entailment"}
+{"index": "ex21531", "hypothesis": "The tourist resigned .", "premise": "Unless the senator contacted the secretaries , the tourist resigned .", "label": "non-entailment"}
+{"index": "ex21532", "hypothesis": "The manager supported the bankers .", "premise": "If the tourists stopped the scientist , the manager supported the bankers .", "label": "non-entailment"}
+{"index": "ex21533", "hypothesis": "The tourist waited .", "premise": "Unless the students ran , the tourist waited .", "label": "non-entailment"}
+{"index": "ex21534", "hypothesis": "The judge advised the scientists .", "premise": "If the students performed , the judge advised the scientists .", "label": "non-entailment"}
+{"index": "ex21535", "hypothesis": "The artist avoided the authors .", "premise": "Unless the presidents recognized the judges , the artist avoided the authors .", "label": "non-entailment"}
+{"index": "ex21536", "hypothesis": "The student slept .", "premise": "If the lawyers ran , the student slept .", "label": "non-entailment"}
+{"index": "ex21537", "hypothesis": "The student arrived .", "premise": "Unless the professors shouted , the student arrived .", "label": "non-entailment"}
+{"index": "ex21538", "hypothesis": "The lawyer encouraged the tourist .", "premise": "If the managers resigned , the lawyer encouraged the tourist .", "label": "non-entailment"}
+{"index": "ex21539", "hypothesis": "The author recognized the senator .", "premise": "If the athlete performed , the author recognized the senator .", "label": "non-entailment"}
+{"index": "ex21540", "hypothesis": "The doctor performed .", "premise": "If the authors recommended the lawyers , the doctor performed .", "label": "non-entailment"}
+{"index": "ex21541", "hypothesis": "The students arrived .", "premise": "If the presidents slept , the students arrived .", "label": "non-entailment"}
+{"index": "ex21542", "hypothesis": "The actors danced .", "premise": "If the doctors helped the students , the actors danced .", "label": "non-entailment"}
+{"index": "ex21543", "hypothesis": "The banker supported the secretary .", "premise": "Unless the student thanked the scientist , the banker supported the secretary .", "label": "non-entailment"}
+{"index": "ex21544", "hypothesis": "The secretary waited .", "premise": "Unless the judges performed , the secretary waited .", "label": "non-entailment"}
+{"index": "ex21545", "hypothesis": "The authors arrived .", "premise": "If the bankers slept , the authors arrived .", "label": "non-entailment"}
+{"index": "ex21546", "hypothesis": "The lawyers supported the banker .", "premise": "If the author mentioned the tourist , the lawyers supported the banker .", "label": "non-entailment"}
+{"index": "ex21547", "hypothesis": "The secretary avoided the scientists .", "premise": "Unless the actor called the presidents , the secretary avoided the scientists .", "label": "non-entailment"}
+{"index": "ex21548", "hypothesis": "The athletes contacted the banker .", "premise": "If the artist stopped the judges , the athletes contacted the banker .", "label": "non-entailment"}
+{"index": "ex21549", "hypothesis": "The lawyer resigned .", "premise": "Unless the manager contacted the tourist , the lawyer resigned .", "label": "non-entailment"}
+{"index": "ex21550", "hypothesis": "The scientist waited .", "premise": "If the author ran , the scientist waited .", "label": "non-entailment"}
+{"index": "ex21551", "hypothesis": "The secretaries performed .", "premise": "If the artist slept , the secretaries performed .", "label": "non-entailment"}
+{"index": "ex21552", "hypothesis": "The author recommended the athlete .", "premise": "If the actors arrived , the author recommended the athlete .", "label": "non-entailment"}
+{"index": "ex21553", "hypothesis": "The athlete called the presidents .", "premise": "If the secretaries waited , the athlete called the presidents .", "label": "non-entailment"}
+{"index": "ex21554", "hypothesis": "The manager ran .", "premise": "If the athlete thanked the banker , the manager ran .", "label": "non-entailment"}
+{"index": "ex21555", "hypothesis": "The students recommended the judges .", "premise": "If the professors ran , the students recommended the judges .", "label": "non-entailment"}
+{"index": "ex21556", "hypothesis": "The judges resigned .", "premise": "Unless the artists introduced the doctors , the judges resigned .", "label": "non-entailment"}
+{"index": "ex21557", "hypothesis": "The doctor waited .", "premise": "Unless the secretary slept , the doctor waited .", "label": "non-entailment"}
+{"index": "ex21558", "hypothesis": "The tourists arrived .", "premise": "If the senator ran , the tourists arrived .", "label": "non-entailment"}
+{"index": "ex21559", "hypothesis": "The president encouraged the senators .", "premise": "If the secretary advised the managers , the president encouraged the senators .", "label": "non-entailment"}
+{"index": "ex21560", "hypothesis": "The actors contacted the banker .", "premise": "If the athlete waited , the actors contacted the banker .", "label": "non-entailment"}
+{"index": "ex21561", "hypothesis": "The doctors encouraged the bankers .", "premise": "Unless the students admired the actor , the doctors encouraged the bankers .", "label": "non-entailment"}
+{"index": "ex21562", "hypothesis": "The president arrived .", "premise": "Unless the doctors contacted the tourists , the president arrived .", "label": "non-entailment"}
+{"index": "ex21563", "hypothesis": "The athlete advised the senators .", "premise": "If the managers introduced the banker , the athlete advised the senators .", "label": "non-entailment"}
+{"index": "ex21564", "hypothesis": "The scientists encouraged the secretary .", "premise": "Unless the bankers introduced the manager , the scientists encouraged the secretary .", "label": "non-entailment"}
+{"index": "ex21565", "hypothesis": "The athletes supported the actors .", "premise": "Unless the president thanked the tourist , the athletes supported the actors .", "label": "non-entailment"}
+{"index": "ex21566", "hypothesis": "The athlete shouted .", "premise": "Unless the student waited , the athlete shouted .", "label": "non-entailment"}
+{"index": "ex21567", "hypothesis": "The athlete shouted .", "premise": "If the senator contacted the professors , the athlete shouted .", "label": "non-entailment"}
+{"index": "ex21568", "hypothesis": "The artists ran .", "premise": "Unless the senators thanked the manager , the artists ran .", "label": "non-entailment"}
+{"index": "ex21569", "hypothesis": "The author resigned .", "premise": "Unless the athletes recommended the scientist , the author resigned .", "label": "non-entailment"}
+{"index": "ex21570", "hypothesis": "The scientists avoided the tourist .", "premise": "Unless the actors stopped the athletes , the scientists avoided the tourist .", "label": "non-entailment"}
+{"index": "ex21571", "hypothesis": "The professors arrived .", "premise": "If the senators slept , the professors arrived .", "label": "non-entailment"}
+{"index": "ex21572", "hypothesis": "The lawyer resigned .", "premise": "If the athlete admired the tourists , the lawyer resigned .", "label": "non-entailment"}
+{"index": "ex21573", "hypothesis": "The athletes contacted the judge .", "premise": "If the professors waited , the athletes contacted the judge .", "label": "non-entailment"}
+{"index": "ex21574", "hypothesis": "The tourist ran .", "premise": "If the artists recognized the scientist , the tourist ran .", "label": "non-entailment"}
+{"index": "ex21575", "hypothesis": "The actor slept .", "premise": "Unless the tourists resigned , the actor slept .", "label": "non-entailment"}
+{"index": "ex21576", "hypothesis": "The judges mentioned the presidents .", "premise": "Unless the tourists resigned , the judges mentioned the presidents .", "label": "non-entailment"}
+{"index": "ex21577", "hypothesis": "The authors supported the athlete .", "premise": "If the professor shouted , the authors supported the athlete .", "label": "non-entailment"}
+{"index": "ex21578", "hypothesis": "The managers called the artist .", "premise": "Unless the lawyers ran , the managers called the artist .", "label": "non-entailment"}
+{"index": "ex21579", "hypothesis": "The president believed the secretaries .", "premise": "If the judges supported the scientist , the president believed the secretaries .", "label": "non-entailment"}
+{"index": "ex21580", "hypothesis": "The managers helped the students .", "premise": "Unless the artist shouted , the managers helped the students .", "label": "non-entailment"}
+{"index": "ex21581", "hypothesis": "The managers helped the senator .", "premise": "If the doctor waited , the managers helped the senator .", "label": "non-entailment"}
+{"index": "ex21582", "hypothesis": "The athletes advised the managers .", "premise": "If the student ran , the athletes advised the managers .", "label": "non-entailment"}
+{"index": "ex21583", "hypothesis": "The athlete believed the secretaries .", "premise": "If the senator introduced the doctor , the athlete believed the secretaries .", "label": "non-entailment"}
+{"index": "ex21584", "hypothesis": "The president believed the athletes .", "premise": "If the bankers encouraged the lawyer , the president believed the athletes .", "label": "non-entailment"}
+{"index": "ex21585", "hypothesis": "The lawyers helped the student .", "premise": "Unless the doctors introduced the bankers , the lawyers helped the student .", "label": "non-entailment"}
+{"index": "ex21586", "hypothesis": "The actors shouted .", "premise": "Unless the scientist recommended the authors , the actors shouted .", "label": "non-entailment"}
+{"index": "ex21587", "hypothesis": "The senator advised the athletes .", "premise": "Unless the students recognized the judges , the senator advised the athletes .", "label": "non-entailment"}
+{"index": "ex21588", "hypothesis": "The artists encouraged the author .", "premise": "Unless the actor advised the judge , the artists encouraged the author .", "label": "non-entailment"}
+{"index": "ex21589", "hypothesis": "The managers called the doctors .", "premise": "Unless the tourist performed , the managers called the doctors .", "label": "non-entailment"}
+{"index": "ex21590", "hypothesis": "The senators danced .", "premise": "If the scientists admired the secretaries , the senators danced .", "label": "non-entailment"}
+{"index": "ex21591", "hypothesis": "The authors supported the tourist .", "premise": "If the professors advised the senator , the authors supported the tourist .", "label": "non-entailment"}
+{"index": "ex21592", "hypothesis": "The managers ran .", "premise": "Unless the athletes supported the secretary , the managers ran .", "label": "non-entailment"}
+{"index": "ex21593", "hypothesis": "The lawyers called the student .", "premise": "If the presidents avoided the tourists , the lawyers called the student .", "label": "non-entailment"}
+{"index": "ex21594", "hypothesis": "The artist recommended the presidents .", "premise": "If the athlete introduced the secretary , the artist recommended the presidents .", "label": "non-entailment"}
+{"index": "ex21595", "hypothesis": "The students ran .", "premise": "Unless the secretaries stopped the doctor , the students ran .", "label": "non-entailment"}
+{"index": "ex21596", "hypothesis": "The managers introduced the actors .", "premise": "If the presidents called the lawyer , the managers introduced the actors .", "label": "non-entailment"}
+{"index": "ex21597", "hypothesis": "The doctors recommended the managers .", "premise": "Unless the bankers waited , the doctors recommended the managers .", "label": "non-entailment"}
+{"index": "ex21598", "hypothesis": "The scientist encouraged the students .", "premise": "Unless the doctors stopped the artist , the scientist encouraged the students .", "label": "non-entailment"}
+{"index": "ex21599", "hypothesis": "The senators waited .", "premise": "If the managers believed the tourist , the senators waited .", "label": "non-entailment"}
+{"index": "ex21600", "hypothesis": "The president contacted the student .", "premise": "Unless the judge advised the manager , the president contacted the student .", "label": "non-entailment"}
+{"index": "ex21602", "hypothesis": "The judges advised the artists .", "premise": "Unless the bankers recommended the professors , the judges advised the artists .", "label": "non-entailment"}
+{"index": "ex21603", "hypothesis": "The athletes recognized the professor .", "premise": "If the manager waited , the athletes recognized the professor .", "label": "non-entailment"}
+{"index": "ex21604", "hypothesis": "The authors contacted the professor .", "premise": "Unless the managers shouted , the authors contacted the professor .", "label": "non-entailment"}
+{"index": "ex21606", "hypothesis": "The athletes shouted .", "premise": "If the senator encouraged the bankers , the athletes shouted .", "label": "non-entailment"}
+{"index": "ex21607", "hypothesis": "The judges danced .", "premise": "If the managers called the secretaries , the judges danced .", "label": "non-entailment"}
+{"index": "ex21608", "hypothesis": "The actor admired the senators .", "premise": "If the students believed the manager , the actor admired the senators .", "label": "non-entailment"}
+{"index": "ex21609", "hypothesis": "The managers contacted the authors .", "premise": "Unless the secretary slept , the managers contacted the authors .", "label": "non-entailment"}
+{"index": "ex21610", "hypothesis": "The president advised the artist .", "premise": "If the athlete arrived , the president advised the artist .", "label": "non-entailment"}
+{"index": "ex21611", "hypothesis": "The professor shouted .", "premise": "If the judges danced , the professor shouted .", "label": "non-entailment"}
+{"index": "ex21612", "hypothesis": "The artists slept .", "premise": "Unless the professor ran , the artists slept .", "label": "non-entailment"}
+{"index": "ex21613", "hypothesis": "The authors contacted the lawyer .", "premise": "If the professor ran , the authors contacted the lawyer .", "label": "non-entailment"}
+{"index": "ex21614", "hypothesis": "The students waited .", "premise": "Unless the artists helped the actor , the students waited .", "label": "non-entailment"}
+{"index": "ex21615", "hypothesis": "The student waited .", "premise": "If the professor admired the tourists , the student waited .", "label": "non-entailment"}
+{"index": "ex21616", "hypothesis": "The secretaries stopped the banker .", "premise": "Unless the lawyer introduced the doctors , the secretaries stopped the banker .", "label": "non-entailment"}
+{"index": "ex21617", "hypothesis": "The doctors mentioned the tourist .", "premise": "If the presidents stopped the artist , the doctors mentioned the tourist .", "label": "non-entailment"}
+{"index": "ex21618", "hypothesis": "The artist recognized the manager .", "premise": "Unless the senator encouraged the students , the artist recognized the manager .", "label": "non-entailment"}
+{"index": "ex21619", "hypothesis": "The manager stopped the tourists .", "premise": "Unless the artists thanked the secretaries , the manager stopped the tourists .", "label": "non-entailment"}
+{"index": "ex21620", "hypothesis": "The managers slept .", "premise": "Unless the students thanked the lawyer , the managers slept .", "label": "non-entailment"}
+{"index": "ex21621", "hypothesis": "The senators danced .", "premise": "If the athletes recommended the tourist , the senators danced .", "label": "non-entailment"}
+{"index": "ex21622", "hypothesis": "The secretary performed .", "premise": "If the tourists stopped the doctors , the secretary performed .", "label": "non-entailment"}
+{"index": "ex21623", "hypothesis": "The artists supported the senators .", "premise": "Unless the lawyer encouraged the athlete , the artists supported the senators .", "label": "non-entailment"}
+{"index": "ex21624", "hypothesis": "The athletes believed the students .", "premise": "Unless the president arrived , the athletes believed the students .", "label": "non-entailment"}
+{"index": "ex21625", "hypothesis": "The lawyers avoided the students .", "premise": "Unless the artist admired the scientists , the lawyers avoided the students .", "label": "non-entailment"}
+{"index": "ex21626", "hypothesis": "The artists recommended the tourists .", "premise": "If the senator supported the manager , the artists recommended the tourists .", "label": "non-entailment"}
+{"index": "ex21627", "hypothesis": "The president contacted the banker .", "premise": "If the professor recommended the artist , the president contacted the banker .", "label": "non-entailment"}
+{"index": "ex21629", "hypothesis": "The managers admired the athletes .", "premise": "Unless the tourists saw the actors , the managers admired the athletes .", "label": "non-entailment"}
+{"index": "ex21630", "hypothesis": "The author slept .", "premise": "Unless the lawyer stopped the secretary , the author slept .", "label": "non-entailment"}
+{"index": "ex21631", "hypothesis": "The actor resigned .", "premise": "If the professors helped the students , the actor resigned .", "label": "non-entailment"}
+{"index": "ex21632", "hypothesis": "The tourists admired the banker .", "premise": "Unless the author waited , the tourists admired the banker .", "label": "non-entailment"}
+{"index": "ex21633", "hypothesis": "The senator thanked the artists .", "premise": "Unless the students admired the athlete , the senator thanked the artists .", "label": "non-entailment"}
+{"index": "ex21634", "hypothesis": "The tourist resigned .", "premise": "If the doctor introduced the banker , the tourist resigned .", "label": "non-entailment"}
+{"index": "ex21635", "hypothesis": "The lawyer supported the artist .", "premise": "Unless the actors advised the president , the lawyer supported the artist .", "label": "non-entailment"}
+{"index": "ex21636", "hypothesis": "The tourists thanked the actor .", "premise": "Unless the doctors mentioned the presidents , the tourists thanked the actor .", "label": "non-entailment"}
+{"index": "ex21637", "hypothesis": "The manager admired the athlete .", "premise": "Unless the actor slept , the manager admired the athlete .", "label": "non-entailment"}
+{"index": "ex21638", "hypothesis": "The actor called the secretaries .", "premise": "If the athletes shouted , the actor called the secretaries .", "label": "non-entailment"}
+{"index": "ex21639", "hypothesis": "The secretary saw the authors .", "premise": "Unless the judge admired the lawyers , the secretary saw the authors .", "label": "non-entailment"}
+{"index": "ex21640", "hypothesis": "The lawyers believed the athletes .", "premise": "If the artists ran , the lawyers believed the athletes .", "label": "non-entailment"}
+{"index": "ex21641", "hypothesis": "The secretaries believed the banker .", "premise": "Unless the professors supported the student , the secretaries believed the banker .", "label": "non-entailment"}
+{"index": "ex21642", "hypothesis": "The students slept .", "premise": "Unless the lawyers saw the athletes , the students slept .", "label": "non-entailment"}
+{"index": "ex21643", "hypothesis": "The presidents danced .", "premise": "If the athletes contacted the secretaries , the presidents danced .", "label": "non-entailment"}
+{"index": "ex21644", "hypothesis": "The athlete shouted .", "premise": "If the doctor danced , the athlete shouted .", "label": "non-entailment"}
+{"index": "ex21645", "hypothesis": "The presidents stopped the actors .", "premise": "If the bankers contacted the scientists , the presidents stopped the actors .", "label": "non-entailment"}
+{"index": "ex21646", "hypothesis": "The artists encouraged the students .", "premise": "If the professors called the doctor , the artists encouraged the students .", "label": "non-entailment"}
+{"index": "ex21647", "hypothesis": "The presidents danced .", "premise": "If the lawyer admired the managers , the presidents danced .", "label": "non-entailment"}
+{"index": "ex21648", "hypothesis": "The president recommended the judge .", "premise": "Unless the secretaries mentioned the scientist , the president recommended the judge .", "label": "non-entailment"}
+{"index": "ex21649", "hypothesis": "The author saw the judge .", "premise": "If the artist slept , the author saw the judge .", "label": "non-entailment"}
+{"index": "ex21650", "hypothesis": "The athletes waited .", "premise": "Unless the doctor helped the judge , the athletes waited .", "label": "non-entailment"}
+{"index": "ex21651", "hypothesis": "The author called the secretaries .", "premise": "Unless the doctor danced , the author called the secretaries .", "label": "non-entailment"}
+{"index": "ex21652", "hypothesis": "The presidents encouraged the artists .", "premise": "Unless the secretaries danced , the presidents encouraged the artists .", "label": "non-entailment"}
+{"index": "ex21653", "hypothesis": "The lawyers stopped the president .", "premise": "If the artists recommended the secretary , the lawyers stopped the president .", "label": "non-entailment"}
+{"index": "ex21654", "hypothesis": "The president recognized the senator .", "premise": "If the professors performed , the president recognized the senator .", "label": "non-entailment"}
+{"index": "ex21655", "hypothesis": "The tourist danced .", "premise": "If the doctor performed , the tourist danced .", "label": "non-entailment"}
+{"index": "ex21656", "hypothesis": "The managers shouted .", "premise": "If the athletes arrived , the managers shouted .", "label": "non-entailment"}
+{"index": "ex21657", "hypothesis": "The presidents encouraged the secretaries .", "premise": "Unless the athletes supported the manager , the presidents encouraged the secretaries .", "label": "non-entailment"}
+{"index": "ex21658", "hypothesis": "The doctor believed the scientist .", "premise": "If the authors waited , the doctor believed the scientist .", "label": "non-entailment"}
+{"index": "ex21659", "hypothesis": "The professors advised the student .", "premise": "Unless the athletes recognized the doctor , the professors advised the student .", "label": "non-entailment"}
+{"index": "ex21660", "hypothesis": "The senator encouraged the students .", "premise": "Unless the actor avoided the artist , the senator encouraged the students .", "label": "non-entailment"}
+{"index": "ex21661", "hypothesis": "The actors believed the professors .", "premise": "Unless the athletes resigned , the actors believed the professors .", "label": "non-entailment"}
+{"index": "ex21662", "hypothesis": "The banker mentioned the professor .", "premise": "Unless the managers waited , the banker mentioned the professor .", "label": "non-entailment"}
+{"index": "ex21663", "hypothesis": "The author arrived .", "premise": "Unless the professors recommended the presidents , the author arrived .", "label": "non-entailment"}
+{"index": "ex21664", "hypothesis": "The professors mentioned the senator .", "premise": "Unless the judge encouraged the lawyer , the professors mentioned the senator .", "label": "non-entailment"}
+{"index": "ex21665", "hypothesis": "The tourists shouted .", "premise": "If the presidents avoided the doctors , the tourists shouted .", "label": "non-entailment"}
+{"index": "ex21666", "hypothesis": "The banker advised the senator .", "premise": "If the scientists danced , the banker advised the senator .", "label": "non-entailment"}
+{"index": "ex21667", "hypothesis": "The president called the doctors .", "premise": "Unless the lawyer performed , the president called the doctors .", "label": "non-entailment"}
+{"index": "ex21668", "hypothesis": "The manager advised the student .", "premise": "If the president supported the judges , the manager advised the student .", "label": "non-entailment"}
+{"index": "ex21669", "hypothesis": "The professor believed the president .", "premise": "Unless the manager waited , the professor believed the president .", "label": "non-entailment"}
+{"index": "ex21670", "hypothesis": "The secretaries believed the bankers .", "premise": "Unless the doctor admired the artist , the secretaries believed the bankers .", "label": "non-entailment"}
+{"index": "ex21671", "hypothesis": "The senator arrived .", "premise": "Unless the actor advised the author , the senator arrived .", "label": "non-entailment"}
+{"index": "ex21672", "hypothesis": "The secretary believed the doctors .", "premise": "If the managers resigned , the secretary believed the doctors .", "label": "non-entailment"}
+{"index": "ex21673", "hypothesis": "The author performed .", "premise": "If the athletes avoided the actor , the author performed .", "label": "non-entailment"}
+{"index": "ex21674", "hypothesis": "The senators mentioned the managers .", "premise": "If the scientist introduced the students , the senators mentioned the managers .", "label": "non-entailment"}
+{"index": "ex21675", "hypothesis": "The doctors waited .", "premise": "Unless the actors danced , the doctors waited .", "label": "non-entailment"}
+{"index": "ex21676", "hypothesis": "The artists recommended the professors .", "premise": "If the bankers performed , the artists recommended the professors .", "label": "non-entailment"}
+{"index": "ex21677", "hypothesis": "The bankers mentioned the managers .", "premise": "If the secretaries danced , the bankers mentioned the managers .", "label": "non-entailment"}
+{"index": "ex21678", "hypothesis": "The students shouted .", "premise": "If the scientist slept , the students shouted .", "label": "non-entailment"}
+{"index": "ex21679", "hypothesis": "The bankers arrived .", "premise": "If the secretaries avoided the tourist , the bankers arrived .", "label": "non-entailment"}
+{"index": "ex21680", "hypothesis": "The athletes admired the actors .", "premise": "If the professor recommended the judges , the athletes admired the actors .", "label": "non-entailment"}
+{"index": "ex21681", "hypothesis": "The scientist performed .", "premise": "If the manager arrived , the scientist performed .", "label": "non-entailment"}
+{"index": "ex21682", "hypothesis": "The professors believed the senators .", "premise": "If the lawyer advised the scientists , the professors believed the senators .", "label": "non-entailment"}
+{"index": "ex21683", "hypothesis": "The tourists slept .", "premise": "If the secretary thanked the professors , the tourists slept .", "label": "non-entailment"}
+{"index": "ex21684", "hypothesis": "The secretary helped the actor .", "premise": "If the managers mentioned the judge , the secretary helped the actor .", "label": "non-entailment"}
+{"index": "ex21685", "hypothesis": "The judge mentioned the athlete .", "premise": "If the senator stopped the secretary , the judge mentioned the athlete .", "label": "non-entailment"}
+{"index": "ex21686", "hypothesis": "The professors performed .", "premise": "Unless the doctor arrived , the professors performed .", "label": "non-entailment"}
+{"index": "ex21688", "hypothesis": "The bankers believed the artist .", "premise": "If the tourists introduced the author , the bankers believed the artist .", "label": "non-entailment"}
+{"index": "ex21689", "hypothesis": "The authors recognized the artist .", "premise": "If the judges saw the students , the authors recognized the artist .", "label": "non-entailment"}
+{"index": "ex21690", "hypothesis": "The professor ran .", "premise": "Unless the athlete recognized the doctors , the professor ran .", "label": "non-entailment"}
+{"index": "ex21691", "hypothesis": "The actor stopped the scientist .", "premise": "If the professor shouted , the actor stopped the scientist .", "label": "non-entailment"}
+{"index": "ex21692", "hypothesis": "The scientists mentioned the presidents .", "premise": "Unless the banker advised the professors , the scientists mentioned the presidents .", "label": "non-entailment"}
+{"index": "ex21693", "hypothesis": "The actor saw the senators .", "premise": "If the presidents encouraged the banker , the actor saw the senators .", "label": "non-entailment"}
+{"index": "ex21694", "hypothesis": "The student shouted .", "premise": "If the lawyers avoided the professors , the student shouted .", "label": "non-entailment"}
+{"index": "ex21695", "hypothesis": "The managers slept .", "premise": "Unless the doctor shouted , the managers slept .", "label": "non-entailment"}
+{"index": "ex21696", "hypothesis": "The doctor supported the tourists .", "premise": "Unless the scientist ran , the doctor supported the tourists .", "label": "non-entailment"}
+{"index": "ex21697", "hypothesis": "The president believed the senators .", "premise": "Unless the artists helped the athlete , the president believed the senators .", "label": "non-entailment"}
+{"index": "ex21698", "hypothesis": "The doctors introduced the bankers .", "premise": "If the secretaries stopped the artist , the doctors introduced the bankers .", "label": "non-entailment"}
+{"index": "ex21699", "hypothesis": "The authors slept .", "premise": "Unless the students encouraged the artists , the authors slept .", "label": "non-entailment"}
+{"index": "ex21700", "hypothesis": "The actor called the athletes .", "premise": "If the lawyers introduced the president , the actor called the athletes .", "label": "non-entailment"}
+{"index": "ex21701", "hypothesis": "The manager advised the presidents .", "premise": "Unless the secretary shouted , the manager advised the presidents .", "label": "non-entailment"}
+{"index": "ex21702", "hypothesis": "The actors arrived .", "premise": "Unless the president introduced the authors , the actors arrived .", "label": "non-entailment"}
+{"index": "ex21703", "hypothesis": "The students stopped the actors .", "premise": "If the lawyer thanked the author , the students stopped the actors .", "label": "non-entailment"}
+{"index": "ex21704", "hypothesis": "The athletes avoided the lawyer .", "premise": "If the bankers stopped the presidents , the athletes avoided the lawyer .", "label": "non-entailment"}
+{"index": "ex21705", "hypothesis": "The presidents thanked the secretary .", "premise": "Unless the tourists recognized the actors , the presidents thanked the secretary .", "label": "non-entailment"}
+{"index": "ex21706", "hypothesis": "The athlete admired the banker .", "premise": "If the presidents danced , the athlete admired the banker .", "label": "non-entailment"}
+{"index": "ex21707", "hypothesis": "The president waited .", "premise": "If the actor believed the tourists , the president waited .", "label": "non-entailment"}
+{"index": "ex21708", "hypothesis": "The lawyer supported the presidents .", "premise": "If the professor performed , the lawyer supported the presidents .", "label": "non-entailment"}
+{"index": "ex21709", "hypothesis": "The doctors thanked the managers .", "premise": "Unless the athletes waited , the doctors thanked the managers .", "label": "non-entailment"}
+{"index": "ex21710", "hypothesis": "The lawyers helped the student .", "premise": "Unless the actor contacted the authors , the lawyers helped the student .", "label": "non-entailment"}
+{"index": "ex21711", "hypothesis": "The actor recognized the presidents .", "premise": "Unless the doctor called the author , the actor recognized the presidents .", "label": "non-entailment"}
+{"index": "ex21712", "hypothesis": "The secretary arrived .", "premise": "Unless the presidents helped the scientist , the secretary arrived .", "label": "non-entailment"}
+{"index": "ex21713", "hypothesis": "The athletes saw the manager .", "premise": "Unless the tourist admired the senator , the athletes saw the manager .", "label": "non-entailment"}
+{"index": "ex21714", "hypothesis": "The president ran .", "premise": "Unless the doctor contacted the artists , the president ran .", "label": "non-entailment"}
+{"index": "ex21715", "hypothesis": "The managers waited .", "premise": "If the professors thanked the scientists , the managers waited .", "label": "non-entailment"}
+{"index": "ex21716", "hypothesis": "The students avoided the judges .", "premise": "Unless the authors called the actors , the students avoided the judges .", "label": "non-entailment"}
+{"index": "ex21717", "hypothesis": "The banker thanked the student .", "premise": "Unless the managers arrived , the banker thanked the student .", "label": "non-entailment"}
+{"index": "ex21718", "hypothesis": "The professor encouraged the artist .", "premise": "If the judge recommended the senators , the professor encouraged the artist .", "label": "non-entailment"}
+{"index": "ex21719", "hypothesis": "The athlete danced .", "premise": "If the actors called the president , the athlete danced .", "label": "non-entailment"}
+{"index": "ex21720", "hypothesis": "The students advised the senators .", "premise": "If the doctor helped the judges , the students advised the senators .", "label": "non-entailment"}
+{"index": "ex21721", "hypothesis": "The scientist believed the secretaries .", "premise": "If the judges ran , the scientist believed the secretaries .", "label": "non-entailment"}
+{"index": "ex21722", "hypothesis": "The manager danced .", "premise": "If the judge called the artist , the manager danced .", "label": "non-entailment"}
+{"index": "ex21723", "hypothesis": "The manager avoided the presidents .", "premise": "Unless the judge ran , the manager avoided the presidents .", "label": "non-entailment"}
+{"index": "ex21724", "hypothesis": "The student saw the judge .", "premise": "Unless the authors stopped the manager , the student saw the judge .", "label": "non-entailment"}
+{"index": "ex21725", "hypothesis": "The scientists ran .", "premise": "Unless the athlete helped the professors , the scientists ran .", "label": "non-entailment"}
+{"index": "ex21726", "hypothesis": "The students thanked the secretary .", "premise": "Unless the judge admired the tourist , the students thanked the secretary .", "label": "non-entailment"}
+{"index": "ex21727", "hypothesis": "The tourist admired the student .", "premise": "If the scientist saw the secretaries , the tourist admired the student .", "label": "non-entailment"}
+{"index": "ex21728", "hypothesis": "The president performed .", "premise": "If the secretaries thanked the actors , the president performed .", "label": "non-entailment"}
+{"index": "ex21729", "hypothesis": "The doctors ran .", "premise": "Unless the athletes supported the students , the doctors ran .", "label": "non-entailment"}
+{"index": "ex21730", "hypothesis": "The judge saw the lawyers .", "premise": "If the bankers encouraged the secretaries , the judge saw the lawyers .", "label": "non-entailment"}
+{"index": "ex21731", "hypothesis": "The doctor arrived .", "premise": "If the tourists contacted the students , the doctor arrived .", "label": "non-entailment"}
+{"index": "ex21732", "hypothesis": "The judge resigned .", "premise": "Unless the scientist recommended the actor , the judge resigned .", "label": "non-entailment"}
+{"index": "ex21733", "hypothesis": "The scientists admired the authors .", "premise": "Unless the judges resigned , the scientists admired the authors .", "label": "non-entailment"}
+{"index": "ex21734", "hypothesis": "The senator ran .", "premise": "Unless the tourists supported the actors , the senator ran .", "label": "non-entailment"}
+{"index": "ex21735", "hypothesis": "The lawyers thanked the managers .", "premise": "Unless the secretary stopped the senator , the lawyers thanked the managers .", "label": "non-entailment"}
+{"index": "ex21736", "hypothesis": "The doctor advised the actors .", "premise": "Unless the presidents shouted , the doctor advised the actors .", "label": "non-entailment"}
+{"index": "ex21737", "hypothesis": "The manager resigned .", "premise": "Unless the scientists supported the students , the manager resigned .", "label": "non-entailment"}
+{"index": "ex21738", "hypothesis": "The managers performed .", "premise": "If the judges resigned , the managers performed .", "label": "non-entailment"}
+{"index": "ex21739", "hypothesis": "The athletes avoided the secretary .", "premise": "If the artists waited , the athletes avoided the secretary .", "label": "non-entailment"}
+{"index": "ex21740", "hypothesis": "The banker saw the professors .", "premise": "If the manager waited , the banker saw the professors .", "label": "non-entailment"}
+{"index": "ex21741", "hypothesis": "The artist mentioned the secretaries .", "premise": "If the senators ran , the artist mentioned the secretaries .", "label": "non-entailment"}
+{"index": "ex21742", "hypothesis": "The secretaries danced .", "premise": "Unless the actors mentioned the authors , the secretaries danced .", "label": "non-entailment"}
+{"index": "ex21743", "hypothesis": "The banker saw the actors .", "premise": "If the athletes stopped the president , the banker saw the actors .", "label": "non-entailment"}
+{"index": "ex21744", "hypothesis": "The lawyers supported the author .", "premise": "Unless the manager resigned , the lawyers supported the author .", "label": "non-entailment"}
+{"index": "ex21745", "hypothesis": "The professors introduced the doctors .", "premise": "Unless the lawyer advised the student , the professors introduced the doctors .", "label": "non-entailment"}
+{"index": "ex21746", "hypothesis": "The scientist admired the president .", "premise": "Unless the senators slept , the scientist admired the president .", "label": "non-entailment"}
+{"index": "ex21747", "hypothesis": "The actor admired the athlete .", "premise": "Unless the professors called the scientist , the actor admired the athlete .", "label": "non-entailment"}
+{"index": "ex21748", "hypothesis": "The actor called the artist .", "premise": "If the doctors saw the presidents , the actor called the artist .", "label": "non-entailment"}
+{"index": "ex21749", "hypothesis": "The student called the managers .", "premise": "If the bankers avoided the secretary , the student called the managers .", "label": "non-entailment"}
+{"index": "ex21750", "hypothesis": "The authors believed the artists .", "premise": "If the judges recommended the senators , the authors believed the artists .", "label": "non-entailment"}
+{"index": "ex21751", "hypothesis": "The judge introduced the tourist .", "premise": "If the lawyers helped the author , the judge introduced the tourist .", "label": "non-entailment"}
+{"index": "ex21752", "hypothesis": "The senator shouted .", "premise": "Unless the athlete avoided the lawyers , the senator shouted .", "label": "non-entailment"}
+{"index": "ex21753", "hypothesis": "The tourists helped the secretary .", "premise": "If the actor waited , the tourists helped the secretary .", "label": "non-entailment"}
+{"index": "ex21754", "hypothesis": "The authors admired the tourist .", "premise": "Unless the actors called the artists , the authors admired the tourist .", "label": "non-entailment"}
+{"index": "ex21755", "hypothesis": "The author danced .", "premise": "Unless the judge encouraged the secretaries , the author danced .", "label": "non-entailment"}
+{"index": "ex21756", "hypothesis": "The tourist slept .", "premise": "Unless the presidents supported the student , the tourist slept .", "label": "non-entailment"}
+{"index": "ex21757", "hypothesis": "The doctors waited .", "premise": "Unless the senator ran , the doctors waited .", "label": "non-entailment"}
+{"index": "ex21758", "hypothesis": "The doctor believed the scientists .", "premise": "Unless the artist stopped the actors , the doctor believed the scientists .", "label": "non-entailment"}
+{"index": "ex21759", "hypothesis": "The lawyer stopped the tourists .", "premise": "Unless the scientist danced , the lawyer stopped the tourists .", "label": "non-entailment"}
+{"index": "ex21760", "hypothesis": "The lawyers believed the banker .", "premise": "If the judges resigned , the lawyers believed the banker .", "label": "non-entailment"}
+{"index": "ex21761", "hypothesis": "The professors called the scientist .", "premise": "If the secretaries slept , the professors called the scientist .", "label": "non-entailment"}
+{"index": "ex21762", "hypothesis": "The actor contacted the doctors .", "premise": "If the judge danced , the actor contacted the doctors .", "label": "non-entailment"}
+{"index": "ex21763", "hypothesis": "The secretaries recognized the tourists .", "premise": "Unless the artist ran , the secretaries recognized the tourists .", "label": "non-entailment"}
+{"index": "ex21764", "hypothesis": "The lawyers supported the students .", "premise": "Unless the tourist recommended the presidents , the lawyers supported the students .", "label": "non-entailment"}
+{"index": "ex21765", "hypothesis": "The senators supported the manager .", "premise": "If the professors believed the tourist , the senators supported the manager .", "label": "non-entailment"}
+{"index": "ex21766", "hypothesis": "The doctors introduced the manager .", "premise": "If the scientists believed the judge , the doctors introduced the manager .", "label": "non-entailment"}
+{"index": "ex21767", "hypothesis": "The senators performed .", "premise": "Unless the judge arrived , the senators performed .", "label": "non-entailment"}
+{"index": "ex21768", "hypothesis": "The author waited .", "premise": "Unless the actors slept , the author waited .", "label": "non-entailment"}
+{"index": "ex21769", "hypothesis": "The athlete shouted .", "premise": "If the tourists introduced the senators , the athlete shouted .", "label": "non-entailment"}
+{"index": "ex21770", "hypothesis": "The judge ran .", "premise": "Unless the tourist helped the artist , the judge ran .", "label": "non-entailment"}
+{"index": "ex21771", "hypothesis": "The manager slept .", "premise": "Unless the senators introduced the author , the manager slept .", "label": "non-entailment"}
+{"index": "ex21772", "hypothesis": "The tourists thanked the athlete .", "premise": "If the lawyer mentioned the secretaries , the tourists thanked the athlete .", "label": "non-entailment"}
+{"index": "ex21773", "hypothesis": "The president stopped the managers .", "premise": "Unless the banker resigned , the president stopped the managers .", "label": "non-entailment"}
+{"index": "ex21774", "hypothesis": "The athlete believed the secretary .", "premise": "If the tourists mentioned the senator , the athlete believed the secretary .", "label": "non-entailment"}
+{"index": "ex21775", "hypothesis": "The judge arrived .", "premise": "If the senators called the secretary , the judge arrived .", "label": "non-entailment"}
+{"index": "ex21776", "hypothesis": "The students advised the lawyers .", "premise": "If the president avoided the scientist , the students advised the lawyers .", "label": "non-entailment"}
+{"index": "ex21777", "hypothesis": "The scientists thanked the author .", "premise": "If the president waited , the scientists thanked the author .", "label": "non-entailment"}
+{"index": "ex21778", "hypothesis": "The artist helped the doctors .", "premise": "If the student performed , the artist helped the doctors .", "label": "non-entailment"}
+{"index": "ex21779", "hypothesis": "The doctor resigned .", "premise": "If the actors stopped the athletes , the doctor resigned .", "label": "non-entailment"}
+{"index": "ex21780", "hypothesis": "The athletes waited .", "premise": "If the actors supported the managers , the athletes waited .", "label": "non-entailment"}
+{"index": "ex21781", "hypothesis": "The doctors contacted the judges .", "premise": "Unless the author danced , the doctors contacted the judges .", "label": "non-entailment"}
+{"index": "ex21782", "hypothesis": "The doctor resigned .", "premise": "Unless the student called the professors , the doctor resigned .", "label": "non-entailment"}
+{"index": "ex21783", "hypothesis": "The authors avoided the president .", "premise": "Unless the athletes encouraged the scientists , the authors avoided the president .", "label": "non-entailment"}
+{"index": "ex21784", "hypothesis": "The bankers avoided the tourists .", "premise": "If the doctors slept , the bankers avoided the tourists .", "label": "non-entailment"}
+{"index": "ex21785", "hypothesis": "The artist slept .", "premise": "If the secretaries thanked the doctor , the artist slept .", "label": "non-entailment"}
+{"index": "ex21786", "hypothesis": "The athlete recognized the presidents .", "premise": "Unless the senators resigned , the athlete recognized the presidents .", "label": "non-entailment"}
+{"index": "ex21787", "hypothesis": "The students mentioned the secretary .", "premise": "Unless the author supported the doctor , the students mentioned the secretary .", "label": "non-entailment"}
+{"index": "ex21788", "hypothesis": "The lawyer supported the students .", "premise": "Unless the bankers contacted the authors , the lawyer supported the students .", "label": "non-entailment"}
+{"index": "ex21789", "hypothesis": "The actor thanked the senator .", "premise": "If the secretaries introduced the tourists , the actor thanked the senator .", "label": "non-entailment"}
+{"index": "ex21790", "hypothesis": "The professors admired the athlete .", "premise": "Unless the doctor advised the presidents , the professors admired the athlete .", "label": "non-entailment"}
+{"index": "ex21791", "hypothesis": "The judge avoided the artists .", "premise": "If the doctors performed , the judge avoided the artists .", "label": "non-entailment"}
+{"index": "ex21792", "hypothesis": "The president recommended the doctors .", "premise": "If the athlete shouted , the president recommended the doctors .", "label": "non-entailment"}
+{"index": "ex21793", "hypothesis": "The doctor called the professor .", "premise": "If the actors mentioned the judge , the doctor called the professor .", "label": "non-entailment"}
+{"index": "ex21794", "hypothesis": "The senator advised the tourists .", "premise": "Unless the president recommended the banker , the senator advised the tourists .", "label": "non-entailment"}
+{"index": "ex21795", "hypothesis": "The student avoided the professor .", "premise": "Unless the senator danced , the student avoided the professor .", "label": "non-entailment"}
+{"index": "ex21796", "hypothesis": "The artist resigned .", "premise": "Unless the presidents recommended the senator , the artist resigned .", "label": "non-entailment"}
+{"index": "ex21797", "hypothesis": "The author shouted .", "premise": "If the presidents contacted the actors , the author shouted .", "label": "non-entailment"}
+{"index": "ex21798", "hypothesis": "The athletes encouraged the artist .", "premise": "If the president admired the tourists , the athletes encouraged the artist .", "label": "non-entailment"}
+{"index": "ex21799", "hypothesis": "The athlete stopped the scientist .", "premise": "Unless the presidents performed , the athlete stopped the scientist .", "label": "non-entailment"}
+{"index": "ex21800", "hypothesis": "The scientist danced .", "premise": "If the doctor helped the banker , the scientist danced .", "label": "non-entailment"}
+{"index": "ex21801", "hypothesis": "The athlete recognized the students .", "premise": "If the tourist shouted , the athlete recognized the students .", "label": "non-entailment"}
+{"index": "ex21802", "hypothesis": "The authors thanked the actors .", "premise": "Unless the manager performed , the authors thanked the actors .", "label": "non-entailment"}
+{"index": "ex21803", "hypothesis": "The senator supported the bankers .", "premise": "Unless the student mentioned the artists , the senator supported the bankers .", "label": "non-entailment"}
+{"index": "ex21804", "hypothesis": "The students shouted .", "premise": "If the artist slept , the students shouted .", "label": "non-entailment"}
+{"index": "ex21805", "hypothesis": "The senator performed .", "premise": "If the professor contacted the bankers , the senator performed .", "label": "non-entailment"}
+{"index": "ex21806", "hypothesis": "The scientist arrived .", "premise": "Unless the president admired the lawyer , the scientist arrived .", "label": "non-entailment"}
+{"index": "ex21807", "hypothesis": "The student believed the lawyers .", "premise": "If the senators called the secretary , the student believed the lawyers .", "label": "non-entailment"}
+{"index": "ex21808", "hypothesis": "The doctors recognized the student .", "premise": "Unless the professors saw the scientists , the doctors recognized the student .", "label": "non-entailment"}
+{"index": "ex21809", "hypothesis": "The presidents mentioned the managers .", "premise": "If the judge admired the student , the presidents mentioned the managers .", "label": "non-entailment"}
+{"index": "ex21810", "hypothesis": "The senators supported the artist .", "premise": "Unless the lawyers stopped the judges , the senators supported the artist .", "label": "non-entailment"}
+{"index": "ex21811", "hypothesis": "The actors avoided the bankers .", "premise": "If the secretary shouted , the actors avoided the bankers .", "label": "non-entailment"}
+{"index": "ex21812", "hypothesis": "The managers called the bankers .", "premise": "Unless the scientists mentioned the artist , the managers called the bankers .", "label": "non-entailment"}
+{"index": "ex21813", "hypothesis": "The authors called the scientists .", "premise": "If the students slept , the authors called the scientists .", "label": "non-entailment"}
+{"index": "ex21814", "hypothesis": "The doctors saw the athlete .", "premise": "If the student believed the manager , the doctors saw the athlete .", "label": "non-entailment"}
+{"index": "ex21815", "hypothesis": "The judges helped the senators .", "premise": "If the manager danced , the judges helped the senators .", "label": "non-entailment"}
+{"index": "ex21816", "hypothesis": "The doctor saw the judge .", "premise": "If the tourists contacted the managers , the doctor saw the judge .", "label": "non-entailment"}
+{"index": "ex21817", "hypothesis": "The athlete called the bankers .", "premise": "Unless the lawyer performed , the athlete called the bankers .", "label": "non-entailment"}
+{"index": "ex21818", "hypothesis": "The managers recommended the scientists .", "premise": "Unless the tourists saw the athlete , the managers recommended the scientists .", "label": "non-entailment"}
+{"index": "ex21819", "hypothesis": "The secretary waited .", "premise": "Unless the students saw the senators , the secretary waited .", "label": "non-entailment"}
+{"index": "ex21820", "hypothesis": "The managers danced .", "premise": "Unless the judge mentioned the actors , the managers danced .", "label": "non-entailment"}
+{"index": "ex21821", "hypothesis": "The secretaries ran .", "premise": "If the scientists believed the president , the secretaries ran .", "label": "non-entailment"}
+{"index": "ex21822", "hypothesis": "The authors mentioned the judge .", "premise": "If the banker advised the athlete , the authors mentioned the judge .", "label": "non-entailment"}
+{"index": "ex21823", "hypothesis": "The president introduced the banker .", "premise": "Unless the tourist waited , the president introduced the banker .", "label": "non-entailment"}
+{"index": "ex21824", "hypothesis": "The managers thanked the lawyers .", "premise": "Unless the scientists contacted the senators , the managers thanked the lawyers .", "label": "non-entailment"}
+{"index": "ex21825", "hypothesis": "The secretaries introduced the scientist .", "premise": "Unless the artists called the professors , the secretaries introduced the scientist .", "label": "non-entailment"}
+{"index": "ex21826", "hypothesis": "The secretary waited .", "premise": "Unless the doctors performed , the secretary waited .", "label": "non-entailment"}
+{"index": "ex21827", "hypothesis": "The managers helped the judges .", "premise": "Unless the athletes recommended the senator , the managers helped the judges .", "label": "non-entailment"}
+{"index": "ex21828", "hypothesis": "The senators encouraged the doctor .", "premise": "Unless the athletes slept , the senators encouraged the doctor .", "label": "non-entailment"}
+{"index": "ex21829", "hypothesis": "The students contacted the athletes .", "premise": "If the tourists shouted , the students contacted the athletes .", "label": "non-entailment"}
+{"index": "ex21830", "hypothesis": "The artists waited .", "premise": "Unless the judges slept , the artists waited .", "label": "non-entailment"}
+{"index": "ex21831", "hypothesis": "The bankers helped the authors .", "premise": "Unless the artist shouted , the bankers helped the authors .", "label": "non-entailment"}
+{"index": "ex21832", "hypothesis": "The bankers helped the scientists .", "premise": "If the secretaries mentioned the doctors , the bankers helped the scientists .", "label": "non-entailment"}
+{"index": "ex21833", "hypothesis": "The tourist slept .", "premise": "If the banker avoided the presidents , the tourist slept .", "label": "non-entailment"}
+{"index": "ex21834", "hypothesis": "The president encouraged the student .", "premise": "If the tourist believed the athletes , the president encouraged the student .", "label": "non-entailment"}
+{"index": "ex21835", "hypothesis": "The lawyers saw the doctors .", "premise": "Unless the artists danced , the lawyers saw the doctors .", "label": "non-entailment"}
+{"index": "ex21836", "hypothesis": "The judge arrived .", "premise": "Unless the artist helped the banker , the judge arrived .", "label": "non-entailment"}
+{"index": "ex21837", "hypothesis": "The doctor waited .", "premise": "Unless the secretaries recognized the scientists , the doctor waited .", "label": "non-entailment"}
+{"index": "ex21838", "hypothesis": "The senators admired the presidents .", "premise": "If the athlete encouraged the professor , the senators admired the presidents .", "label": "non-entailment"}
+{"index": "ex21839", "hypothesis": "The president saw the scientist .", "premise": "If the professors advised the student , the president saw the scientist .", "label": "non-entailment"}
+{"index": "ex21840", "hypothesis": "The tourists believed the artists .", "premise": "If the authors called the manager , the tourists believed the artists .", "label": "non-entailment"}
+{"index": "ex21841", "hypothesis": "The secretary saw the athletes .", "premise": "If the judges supported the actors , the secretary saw the athletes .", "label": "non-entailment"}
+{"index": "ex21842", "hypothesis": "The scientists called the actors .", "premise": "If the presidents introduced the student , the scientists called the actors .", "label": "non-entailment"}
+{"index": "ex21843", "hypothesis": "The authors called the judge .", "premise": "If the athlete waited , the authors called the judge .", "label": "non-entailment"}
+{"index": "ex21844", "hypothesis": "The banker admired the students .", "premise": "If the artists recognized the professor , the banker admired the students .", "label": "non-entailment"}
+{"index": "ex21845", "hypothesis": "The artists called the manager .", "premise": "Unless the professor helped the secretaries , the artists called the manager .", "label": "non-entailment"}
+{"index": "ex21846", "hypothesis": "The athlete danced .", "premise": "Unless the lawyer thanked the president , the athlete danced .", "label": "non-entailment"}
+{"index": "ex21847", "hypothesis": "The senators encouraged the manager .", "premise": "Unless the artist believed the secretaries , the senators encouraged the manager .", "label": "non-entailment"}
+{"index": "ex21848", "hypothesis": "The senator recognized the students .", "premise": "If the lawyers saw the tourists , the senator recognized the students .", "label": "non-entailment"}
+{"index": "ex21849", "hypothesis": "The judge recognized the bankers .", "premise": "Unless the managers danced , the judge recognized the bankers .", "label": "non-entailment"}
+{"index": "ex21850", "hypothesis": "The senator contacted the doctors .", "premise": "Unless the professors shouted , the senator contacted the doctors .", "label": "non-entailment"}
+{"index": "ex21851", "hypothesis": "The managers helped the judge .", "premise": "If the professor called the athletes , the managers helped the judge .", "label": "non-entailment"}
+{"index": "ex21852", "hypothesis": "The senators stopped the professor .", "premise": "If the managers supported the tourist , the senators stopped the professor .", "label": "non-entailment"}
+{"index": "ex21853", "hypothesis": "The authors mentioned the scientist .", "premise": "If the senators ran , the authors mentioned the scientist .", "label": "non-entailment"}
+{"index": "ex21854", "hypothesis": "The bankers recognized the doctors .", "premise": "If the managers performed , the bankers recognized the doctors .", "label": "non-entailment"}
+{"index": "ex21855", "hypothesis": "The presidents introduced the judges .", "premise": "If the actors thanked the bankers , the presidents introduced the judges .", "label": "non-entailment"}
+{"index": "ex21856", "hypothesis": "The bankers performed .", "premise": "If the lawyer resigned , the bankers performed .", "label": "non-entailment"}
+{"index": "ex21857", "hypothesis": "The tourists contacted the bankers .", "premise": "If the presidents introduced the lawyer , the tourists contacted the bankers .", "label": "non-entailment"}
+{"index": "ex21858", "hypothesis": "The secretary thanked the artists .", "premise": "If the scientists recognized the professors , the secretary thanked the artists .", "label": "non-entailment"}
+{"index": "ex21859", "hypothesis": "The doctor arrived .", "premise": "Unless the tourists shouted , the doctor arrived .", "label": "non-entailment"}
+{"index": "ex21860", "hypothesis": "The bankers contacted the doctors .", "premise": "Unless the secretary ran , the bankers contacted the doctors .", "label": "non-entailment"}
+{"index": "ex21861", "hypothesis": "The author thanked the judges .", "premise": "If the senators believed the doctor , the author thanked the judges .", "label": "non-entailment"}
+{"index": "ex21862", "hypothesis": "The author stopped the secretary .", "premise": "Unless the banker slept , the author stopped the secretary .", "label": "non-entailment"}
+{"index": "ex21863", "hypothesis": "The professor helped the president .", "premise": "If the managers shouted , the professor helped the president .", "label": "non-entailment"}
+{"index": "ex21864", "hypothesis": "The presidents danced .", "premise": "Unless the manager contacted the artist , the presidents danced .", "label": "non-entailment"}
+{"index": "ex21865", "hypothesis": "The judge resigned .", "premise": "If the secretary thanked the tourists , the judge resigned .", "label": "non-entailment"}
+{"index": "ex21866", "hypothesis": "The professor introduced the lawyers .", "premise": "Unless the presidents danced , the professor introduced the lawyers .", "label": "non-entailment"}
+{"index": "ex21867", "hypothesis": "The judge performed .", "premise": "If the secretaries stopped the artists , the judge performed .", "label": "non-entailment"}
+{"index": "ex21868", "hypothesis": "The actor admired the managers .", "premise": "If the doctors waited , the actor admired the managers .", "label": "non-entailment"}
+{"index": "ex21869", "hypothesis": "The president encouraged the lawyers .", "premise": "Unless the tourists advised the senator , the president encouraged the lawyers .", "label": "non-entailment"}
+{"index": "ex21870", "hypothesis": "The banker performed .", "premise": "If the scientist ran , the banker performed .", "label": "non-entailment"}
+{"index": "ex21871", "hypothesis": "The bankers advised the judge .", "premise": "If the artists recommended the senators , the bankers advised the judge .", "label": "non-entailment"}
+{"index": "ex21872", "hypothesis": "The judge believed the artists .", "premise": "If the athlete thanked the managers , the judge believed the artists .", "label": "non-entailment"}
+{"index": "ex21873", "hypothesis": "The senators helped the doctors .", "premise": "If the student called the actors , the senators helped the doctors .", "label": "non-entailment"}
+{"index": "ex21874", "hypothesis": "The lawyers performed .", "premise": "If the professor helped the secretaries , the lawyers performed .", "label": "non-entailment"}
+{"index": "ex21875", "hypothesis": "The senator introduced the doctor .", "premise": "If the authors performed , the senator introduced the doctor .", "label": "non-entailment"}
+{"index": "ex21876", "hypothesis": "The manager danced .", "premise": "If the author admired the secretary , the manager danced .", "label": "non-entailment"}
+{"index": "ex21877", "hypothesis": "The author arrived .", "premise": "If the student waited , the author arrived .", "label": "non-entailment"}
+{"index": "ex21878", "hypothesis": "The secretaries mentioned the president .", "premise": "If the managers slept , the secretaries mentioned the president .", "label": "non-entailment"}
+{"index": "ex21879", "hypothesis": "The professor contacted the president .", "premise": "Unless the banker saw the scientist , the professor contacted the president .", "label": "non-entailment"}
+{"index": "ex21880", "hypothesis": "The athlete performed .", "premise": "Unless the author slept , the athlete performed .", "label": "non-entailment"}
+{"index": "ex21881", "hypothesis": "The doctor saw the bankers .", "premise": "Unless the president mentioned the athletes , the doctor saw the bankers .", "label": "non-entailment"}
+{"index": "ex21882", "hypothesis": "The student introduced the managers .", "premise": "Unless the doctor waited , the student introduced the managers .", "label": "non-entailment"}
+{"index": "ex21883", "hypothesis": "The professor arrived .", "premise": "Unless the banker advised the artists , the professor arrived .", "label": "non-entailment"}
+{"index": "ex21884", "hypothesis": "The scientists recommended the senator .", "premise": "Unless the actors shouted , the scientists recommended the senator .", "label": "non-entailment"}
+{"index": "ex21885", "hypothesis": "The tourists admired the doctors .", "premise": "Unless the president encouraged the lawyers , the tourists admired the doctors .", "label": "non-entailment"}
+{"index": "ex21886", "hypothesis": "The lawyer recognized the students .", "premise": "If the professor ran , the lawyer recognized the students .", "label": "non-entailment"}
+{"index": "ex21887", "hypothesis": "The banker mentioned the managers .", "premise": "If the professors thanked the judge , the banker mentioned the managers .", "label": "non-entailment"}
+{"index": "ex21888", "hypothesis": "The president introduced the lawyers .", "premise": "If the actors admired the tourists , the president introduced the lawyers .", "label": "non-entailment"}
+{"index": "ex21889", "hypothesis": "The president introduced the athlete .", "premise": "If the artists helped the secretary , the president introduced the athlete .", "label": "non-entailment"}
+{"index": "ex21890", "hypothesis": "The student avoided the managers .", "premise": "If the artists advised the senators , the student avoided the managers .", "label": "non-entailment"}
+{"index": "ex21891", "hypothesis": "The senator avoided the doctors .", "premise": "Unless the lawyers waited , the senator avoided the doctors .", "label": "non-entailment"}
+{"index": "ex21892", "hypothesis": "The professors ran .", "premise": "If the students supported the scientist , the professors ran .", "label": "non-entailment"}
+{"index": "ex21893", "hypothesis": "The scientists avoided the presidents .", "premise": "Unless the banker performed , the scientists avoided the presidents .", "label": "non-entailment"}
+{"index": "ex21894", "hypothesis": "The scientist contacted the banker .", "premise": "If the authors slept , the scientist contacted the banker .", "label": "non-entailment"}
+{"index": "ex21895", "hypothesis": "The lawyer recognized the artists .", "premise": "If the athletes introduced the judge , the lawyer recognized the artists .", "label": "non-entailment"}
+{"index": "ex21896", "hypothesis": "The judges arrived .", "premise": "If the scientist avoided the secretaries , the judges arrived .", "label": "non-entailment"}
+{"index": "ex21897", "hypothesis": "The senators helped the judges .", "premise": "Unless the athletes advised the presidents , the senators helped the judges .", "label": "non-entailment"}
+{"index": "ex21898", "hypothesis": "The judge slept .", "premise": "If the professor waited , the judge slept .", "label": "non-entailment"}
+{"index": "ex21899", "hypothesis": "The scientists avoided the professor .", "premise": "Unless the artists introduced the managers , the scientists avoided the professor .", "label": "non-entailment"}
+{"index": "ex21900", "hypothesis": "The scientist supported the artist .", "premise": "If the authors waited , the scientist supported the artist .", "label": "non-entailment"}
+{"index": "ex21901", "hypothesis": "The tourists recognized the professors .", "premise": "Unless the senator advised the president , the tourists recognized the professors .", "label": "non-entailment"}
+{"index": "ex21902", "hypothesis": "The student resigned .", "premise": "Unless the doctors called the tourists , the student resigned .", "label": "non-entailment"}
+{"index": "ex21903", "hypothesis": "The tourist shouted .", "premise": "If the secretaries contacted the professor , the tourist shouted .", "label": "non-entailment"}
+{"index": "ex21904", "hypothesis": "The athlete saw the banker .", "premise": "Unless the secretary recommended the authors , the athlete saw the banker .", "label": "non-entailment"}
+{"index": "ex21905", "hypothesis": "The scientist ran .", "premise": "If the lawyers slept , the scientist ran .", "label": "non-entailment"}
+{"index": "ex21906", "hypothesis": "The president helped the scientists .", "premise": "If the students believed the secretary , the president helped the scientists .", "label": "non-entailment"}
+{"index": "ex21907", "hypothesis": "The managers recommended the scientist .", "premise": "If the doctors danced , the managers recommended the scientist .", "label": "non-entailment"}
+{"index": "ex21908", "hypothesis": "The artist arrived .", "premise": "If the scientist slept , the artist arrived .", "label": "non-entailment"}
+{"index": "ex21909", "hypothesis": "The professor recognized the doctors .", "premise": "If the scientists introduced the authors , the professor recognized the doctors .", "label": "non-entailment"}
+{"index": "ex21910", "hypothesis": "The tourist waited .", "premise": "Unless the professors recommended the secretaries , the tourist waited .", "label": "non-entailment"}
+{"index": "ex21911", "hypothesis": "The secretary ran .", "premise": "If the professor shouted , the secretary ran .", "label": "non-entailment"}
+{"index": "ex21912", "hypothesis": "The author thanked the lawyer .", "premise": "Unless the athletes slept , the author thanked the lawyer .", "label": "non-entailment"}
+{"index": "ex21913", "hypothesis": "The bankers called the authors .", "premise": "Unless the actor resigned , the bankers called the authors .", "label": "non-entailment"}
+{"index": "ex21914", "hypothesis": "The secretaries called the presidents .", "premise": "Unless the actors recognized the banker , the secretaries called the presidents .", "label": "non-entailment"}
+{"index": "ex21915", "hypothesis": "The banker believed the senator .", "premise": "If the president performed , the banker believed the senator .", "label": "non-entailment"}
+{"index": "ex21916", "hypothesis": "The manager slept .", "premise": "Unless the banker introduced the artists , the manager slept .", "label": "non-entailment"}
+{"index": "ex21917", "hypothesis": "The athlete admired the authors .", "premise": "If the actors recognized the lawyers , the athlete admired the authors .", "label": "non-entailment"}
+{"index": "ex21918", "hypothesis": "The senators shouted .", "premise": "Unless the president supported the scientist , the senators shouted .", "label": "non-entailment"}
+{"index": "ex21919", "hypothesis": "The scientist saw the professor .", "premise": "Unless the secretaries arrived , the scientist saw the professor .", "label": "non-entailment"}
+{"index": "ex21920", "hypothesis": "The manager danced .", "premise": "If the president waited , the manager danced .", "label": "non-entailment"}
+{"index": "ex21921", "hypothesis": "The bankers encouraged the judge .", "premise": "If the artists recognized the managers , the bankers encouraged the judge .", "label": "non-entailment"}
+{"index": "ex21922", "hypothesis": "The students avoided the actors .", "premise": "Unless the secretary introduced the author , the students avoided the actors .", "label": "non-entailment"}
+{"index": "ex21923", "hypothesis": "The author supported the artist .", "premise": "If the scientist saw the student , the author supported the artist .", "label": "non-entailment"}
+{"index": "ex21924", "hypothesis": "The scientists believed the tourist .", "premise": "If the authors recommended the actor , the scientists believed the tourist .", "label": "non-entailment"}
+{"index": "ex21925", "hypothesis": "The athletes admired the authors .", "premise": "If the actors slept , the athletes admired the authors .", "label": "non-entailment"}
+{"index": "ex21926", "hypothesis": "The artists introduced the tourists .", "premise": "Unless the judge mentioned the managers , the artists introduced the tourists .", "label": "non-entailment"}
+{"index": "ex21927", "hypothesis": "The athletes arrived .", "premise": "Unless the manager supported the tourists , the athletes arrived .", "label": "non-entailment"}
+{"index": "ex21928", "hypothesis": "The artist believed the secretaries .", "premise": "Unless the professors saw the athlete , the artist believed the secretaries .", "label": "non-entailment"}
+{"index": "ex21929", "hypothesis": "The presidents resigned .", "premise": "Unless the judge advised the scientists , the presidents resigned .", "label": "non-entailment"}
+{"index": "ex21930", "hypothesis": "The athletes introduced the actor .", "premise": "If the president danced , the athletes introduced the actor .", "label": "non-entailment"}
+{"index": "ex21932", "hypothesis": "The tourists encouraged the artists .", "premise": "If the student resigned , the tourists encouraged the artists .", "label": "non-entailment"}
+{"index": "ex21933", "hypothesis": "The actor resigned .", "premise": "Unless the lawyers mentioned the banker , the actor resigned .", "label": "non-entailment"}
+{"index": "ex21934", "hypothesis": "The athlete danced .", "premise": "Unless the professors performed , the athlete danced .", "label": "non-entailment"}
+{"index": "ex21935", "hypothesis": "The author believed the scientist .", "premise": "If the student mentioned the managers , the author believed the scientist .", "label": "non-entailment"}
+{"index": "ex21936", "hypothesis": "The manager mentioned the banker .", "premise": "Unless the judge performed , the manager mentioned the banker .", "label": "non-entailment"}
+{"index": "ex21937", "hypothesis": "The senator waited .", "premise": "Unless the student introduced the doctors , the senator waited .", "label": "non-entailment"}
+{"index": "ex21938", "hypothesis": "The secretary resigned .", "premise": "Unless the scientist saw the actor , the secretary resigned .", "label": "non-entailment"}
+{"index": "ex21939", "hypothesis": "The athlete admired the doctors .", "premise": "If the senators slept , the athlete admired the doctors .", "label": "non-entailment"}
+{"index": "ex21940", "hypothesis": "The artists danced .", "premise": "Unless the doctor admired the lawyer , the artists danced .", "label": "non-entailment"}
+{"index": "ex21941", "hypothesis": "The athlete mentioned the artist .", "premise": "Unless the doctor contacted the actor , the athlete mentioned the artist .", "label": "non-entailment"}
+{"index": "ex21942", "hypothesis": "The senator believed the judge .", "premise": "If the athletes ran , the senator believed the judge .", "label": "non-entailment"}
+{"index": "ex21943", "hypothesis": "The athlete saw the artist .", "premise": "Unless the lawyers waited , the athlete saw the artist .", "label": "non-entailment"}
+{"index": "ex21944", "hypothesis": "The artists supported the scientists .", "premise": "Unless the lawyers encouraged the actor , the artists supported the scientists .", "label": "non-entailment"}
+{"index": "ex21945", "hypothesis": "The authors supported the actors .", "premise": "Unless the artist slept , the authors supported the actors .", "label": "non-entailment"}
+{"index": "ex21946", "hypothesis": "The students danced .", "premise": "If the athletes recognized the managers , the students danced .", "label": "non-entailment"}
+{"index": "ex21947", "hypothesis": "The banker advised the judges .", "premise": "If the lawyers saw the presidents , the banker advised the judges .", "label": "non-entailment"}
+{"index": "ex21948", "hypothesis": "The artists recognized the managers .", "premise": "Unless the scientist admired the presidents , the artists recognized the managers .", "label": "non-entailment"}
+{"index": "ex21949", "hypothesis": "The judges performed .", "premise": "Unless the scientists saw the artist , the judges performed .", "label": "non-entailment"}
+{"index": "ex21950", "hypothesis": "The lawyer contacted the authors .", "premise": "Unless the judges performed , the lawyer contacted the authors .", "label": "non-entailment"}
+{"index": "ex21951", "hypothesis": "The lawyer resigned .", "premise": "If the judge shouted , the lawyer resigned .", "label": "non-entailment"}
+{"index": "ex21952", "hypothesis": "The scientist arrived .", "premise": "Unless the professors believed the secretaries , the scientist arrived .", "label": "non-entailment"}
+{"index": "ex21953", "hypothesis": "The judges resigned .", "premise": "Unless the actors advised the athletes , the judges resigned .", "label": "non-entailment"}
+{"index": "ex21954", "hypothesis": "The bankers stopped the senator .", "premise": "Unless the athlete contacted the actor , the bankers stopped the senator .", "label": "non-entailment"}
+{"index": "ex21955", "hypothesis": "The judges slept .", "premise": "If the artists mentioned the president , the judges slept .", "label": "non-entailment"}
+{"index": "ex21956", "hypothesis": "The president mentioned the artist .", "premise": "If the athletes supported the lawyer , the president mentioned the artist .", "label": "non-entailment"}
+{"index": "ex21957", "hypothesis": "The secretary mentioned the banker .", "premise": "Unless the student recognized the lawyers , the secretary mentioned the banker .", "label": "non-entailment"}
+{"index": "ex21958", "hypothesis": "The professors contacted the actors .", "premise": "If the senators advised the banker , the professors contacted the actors .", "label": "non-entailment"}
+{"index": "ex21959", "hypothesis": "The student danced .", "premise": "If the senators admired the doctors , the student danced .", "label": "non-entailment"}
+{"index": "ex21960", "hypothesis": "The professors stopped the actor .", "premise": "Unless the lawyers advised the authors , the professors stopped the actor .", "label": "non-entailment"}
+{"index": "ex21961", "hypothesis": "The banker admired the student .", "premise": "If the artists waited , the banker admired the student .", "label": "non-entailment"}
+{"index": "ex21962", "hypothesis": "The scientists helped the doctor .", "premise": "If the students waited , the scientists helped the doctor .", "label": "non-entailment"}
+{"index": "ex21963", "hypothesis": "The doctor ran .", "premise": "If the student thanked the artists , the doctor ran .", "label": "non-entailment"}
+{"index": "ex21965", "hypothesis": "The managers avoided the judge .", "premise": "If the athlete stopped the students , the managers avoided the judge .", "label": "non-entailment"}
+{"index": "ex21966", "hypothesis": "The author admired the actor .", "premise": "Unless the professor ran , the author admired the actor .", "label": "non-entailment"}
+{"index": "ex21967", "hypothesis": "The bankers believed the authors .", "premise": "If the senators slept , the bankers believed the authors .", "label": "non-entailment"}
+{"index": "ex21968", "hypothesis": "The authors admired the lawyers .", "premise": "If the doctor helped the manager , the authors admired the lawyers .", "label": "non-entailment"}
+{"index": "ex21969", "hypothesis": "The actors arrived .", "premise": "If the manager shouted , the actors arrived .", "label": "non-entailment"}
+{"index": "ex21970", "hypothesis": "The banker slept .", "premise": "Unless the lawyer avoided the senator , the banker slept .", "label": "non-entailment"}
+{"index": "ex21971", "hypothesis": "The scientists encouraged the senators .", "premise": "If the doctor thanked the artists , the scientists encouraged the senators .", "label": "non-entailment"}
+{"index": "ex21972", "hypothesis": "The athletes slept .", "premise": "If the tourists admired the artists , the athletes slept .", "label": "non-entailment"}
+{"index": "ex21973", "hypothesis": "The banker contacted the tourists .", "premise": "Unless the authors mentioned the managers , the banker contacted the tourists .", "label": "non-entailment"}
+{"index": "ex21974", "hypothesis": "The banker admired the artists .", "premise": "If the secretaries called the president , the banker admired the artists .", "label": "non-entailment"}
+{"index": "ex21975", "hypothesis": "The scientist slept .", "premise": "Unless the manager supported the presidents , the scientist slept .", "label": "non-entailment"}
+{"index": "ex21976", "hypothesis": "The athlete stopped the professors .", "premise": "If the bankers called the secretary , the athlete stopped the professors .", "label": "non-entailment"}
+{"index": "ex21977", "hypothesis": "The banker saw the scientist .", "premise": "If the student waited , the banker saw the scientist .", "label": "non-entailment"}
+{"index": "ex21978", "hypothesis": "The managers ran .", "premise": "Unless the athletes mentioned the secretaries , the managers ran .", "label": "non-entailment"}
+{"index": "ex21979", "hypothesis": "The doctors believed the lawyers .", "premise": "Unless the scientist supported the authors , the doctors believed the lawyers .", "label": "non-entailment"}
+{"index": "ex21980", "hypothesis": "The student supported the president .", "premise": "If the judges introduced the professors , the student supported the president .", "label": "non-entailment"}
+{"index": "ex21981", "hypothesis": "The senator slept .", "premise": "Unless the managers called the artist , the senator slept .", "label": "non-entailment"}
+{"index": "ex21982", "hypothesis": "The artists mentioned the student .", "premise": "If the actor admired the judges , the artists mentioned the student .", "label": "non-entailment"}
+{"index": "ex21983", "hypothesis": "The lawyers recommended the artist .", "premise": "Unless the judge admired the banker , the lawyers recommended the artist .", "label": "non-entailment"}
+{"index": "ex21984", "hypothesis": "The students recognized the lawyers .", "premise": "If the judges helped the manager , the students recognized the lawyers .", "label": "non-entailment"}
+{"index": "ex21985", "hypothesis": "The judge shouted .", "premise": "Unless the athletes saw the author , the judge shouted .", "label": "non-entailment"}
+{"index": "ex21986", "hypothesis": "The judge saw the senators .", "premise": "Unless the athlete arrived , the judge saw the senators .", "label": "non-entailment"}
+{"index": "ex21987", "hypothesis": "The managers shouted .", "premise": "If the artists advised the actors , the managers shouted .", "label": "non-entailment"}
+{"index": "ex21988", "hypothesis": "The actors performed .", "premise": "If the artist advised the secretary , the actors performed .", "label": "non-entailment"}
+{"index": "ex21989", "hypothesis": "The senator advised the student .", "premise": "If the authors contacted the lawyers , the senator advised the student .", "label": "non-entailment"}
+{"index": "ex21990", "hypothesis": "The presidents slept .", "premise": "If the secretaries contacted the artist , the presidents slept .", "label": "non-entailment"}
+{"index": "ex21991", "hypothesis": "The president helped the athletes .", "premise": "If the doctor mentioned the students , the president helped the athletes .", "label": "non-entailment"}
+{"index": "ex21992", "hypothesis": "The scientist shouted .", "premise": "Unless the athlete resigned , the scientist shouted .", "label": "non-entailment"}
+{"index": "ex21993", "hypothesis": "The tourist waited .", "premise": "Unless the judge recommended the secretaries , the tourist waited .", "label": "non-entailment"}
+{"index": "ex21994", "hypothesis": "The scientists admired the secretary .", "premise": "Unless the professors supported the artists , the scientists admired the secretary .", "label": "non-entailment"}
+{"index": "ex21995", "hypothesis": "The tourists arrived .", "premise": "Unless the scientist mentioned the lawyers , the tourists arrived .", "label": "non-entailment"}
+{"index": "ex21996", "hypothesis": "The student contacted the athlete .", "premise": "Unless the artists saw the tourist , the student contacted the athlete .", "label": "non-entailment"}
+{"index": "ex21997", "hypothesis": "The professors admired the judge .", "premise": "If the manager performed , the professors admired the judge .", "label": "non-entailment"}
+{"index": "ex21998", "hypothesis": "The authors helped the senators .", "premise": "If the scientist supported the secretaries , the authors helped the senators .", "label": "non-entailment"}
+{"index": "ex21999", "hypothesis": "The doctors slept .", "premise": "If the scientist arrived , the doctors slept .", "label": "non-entailment"}

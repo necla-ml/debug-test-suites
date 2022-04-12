@@ -1,0 +1,990 @@
+{"index": "ex10000", "hypothesis": "The scientists believed the actors .", "premise": "The scientists believed the actors saw the artists .", "label": "non-entailment"}
+{"index": "ex10001", "hypothesis": "The tourists believed the actors .", "premise": "The tourists believed the actors ran .", "label": "non-entailment"}
+{"index": "ex10002", "hypothesis": "The author knew the senators .", "premise": "The author knew the senators danced .", "label": "non-entailment"}
+{"index": "ex10003", "hypothesis": "The professors knew the athlete .", "premise": "The professors knew the athlete danced .", "label": "non-entailment"}
+{"index": "ex10004", "hypothesis": "The managers knew the student .", "premise": "The managers knew the student introduced the authors .", "label": "non-entailment"}
+{"index": "ex10005", "hypothesis": "The scientists heard the authors .", "premise": "The scientists heard the authors resigned .", "label": "non-entailment"}
+{"index": "ex10006", "hypothesis": "The senator believed the authors .", "premise": "The senator believed the authors helped the judges .", "label": "non-entailment"}
+{"index": "ex10007", "hypothesis": "The secretary knew the lawyers .", "premise": "The secretary knew the lawyers supported the tourists .", "label": "non-entailment"}
+{"index": "ex10008", "hypothesis": "The lawyer believed the senator .", "premise": "The lawyer believed the senator advised the student .", "label": "non-entailment"}
+{"index": "ex10009", "hypothesis": "The judge heard the actors .", "premise": "The judge heard the actors shouted .", "label": "non-entailment"}
+{"index": "ex10010", "hypothesis": "The scientists believed the banker .", "premise": "The scientists believed the banker stopped the presidents .", "label": "non-entailment"}
+{"index": "ex10011", "hypothesis": "The president heard the lawyer .", "premise": "The president heard the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10012", "hypothesis": "The senators heard the actors .", "premise": "The senators heard the actors contacted the scientist .", "label": "non-entailment"}
+{"index": "ex10013", "hypothesis": "The managers heard the artists .", "premise": "The managers heard the artists saw the scientist .", "label": "non-entailment"}
+{"index": "ex10014", "hypothesis": "The scientists knew the actors .", "premise": "The scientists knew the actors contacted the doctors .", "label": "non-entailment"}
+{"index": "ex10015", "hypothesis": "The authors heard the senator .", "premise": "The authors heard the senator encouraged the managers .", "label": "non-entailment"}
+{"index": "ex10016", "hypothesis": "The bankers believed the students .", "premise": "The bankers believed the students shouted .", "label": "non-entailment"}
+{"index": "ex10017", "hypothesis": "The actors heard the scientist .", "premise": "The actors heard the scientist contacted the presidents .", "label": "non-entailment"}
+{"index": "ex10018", "hypothesis": "The presidents knew the banker .", "premise": "The presidents knew the banker recommended the professor .", "label": "non-entailment"}
+{"index": "ex10019", "hypothesis": "The athletes believed the bankers .", "premise": "The athletes believed the bankers slept .", "label": "non-entailment"}
+{"index": "ex10020", "hypothesis": "The tourist believed the bankers .", "premise": "The tourist believed the bankers performed .", "label": "non-entailment"}
+{"index": "ex10021", "hypothesis": "The students heard the scientist .", "premise": "The students heard the scientist slept .", "label": "non-entailment"}
+{"index": "ex10022", "hypothesis": "The artists knew the managers .", "premise": "The artists knew the managers slept .", "label": "non-entailment"}
+{"index": "ex10023", "hypothesis": "The scientist heard the secretary .", "premise": "The scientist heard the secretary avoided the tourists .", "label": "non-entailment"}
+{"index": "ex10024", "hypothesis": "The artists heard the tourist .", "premise": "The artists heard the tourist believed the banker .", "label": "non-entailment"}
+{"index": "ex10025", "hypothesis": "The professor believed the lawyer .", "premise": "The professor believed the lawyer ran .", "label": "non-entailment"}
+{"index": "ex10026", "hypothesis": "The tourist heard the athletes .", "premise": "The tourist heard the athletes called the actor .", "label": "non-entailment"}
+{"index": "ex10027", "hypothesis": "The professor knew the athlete .", "premise": "The professor knew the athlete contacted the manager .", "label": "non-entailment"}
+{"index": "ex10028", "hypothesis": "The authors knew the actors .", "premise": "The authors knew the actors arrived .", "label": "non-entailment"}
+{"index": "ex10029", "hypothesis": "The author believed the lawyers .", "premise": "The author believed the lawyers advised the student .", "label": "non-entailment"}
+{"index": "ex10030", "hypothesis": "The athletes believed the professors .", "premise": "The athletes believed the professors encouraged the managers .", "label": "non-entailment"}
+{"index": "ex10031", "hypothesis": "The authors knew the student .", "premise": "The authors knew the student contacted the secretary .", "label": "non-entailment"}
+{"index": "ex10032", "hypothesis": "The managers knew the lawyers .", "premise": "The managers knew the lawyers waited .", "label": "non-entailment"}
+{"index": "ex10033", "hypothesis": "The professor knew the presidents .", "premise": "The professor knew the presidents danced .", "label": "non-entailment"}
+{"index": "ex10034", "hypothesis": "The student knew the professors .", "premise": "The student knew the professors encouraged the actors .", "label": "non-entailment"}
+{"index": "ex10035", "hypothesis": "The student knew the artist .", "premise": "The student knew the artist saw the author .", "label": "non-entailment"}
+{"index": "ex10036", "hypothesis": "The doctor knew the actor .", "premise": "The doctor knew the actor contacted the judges .", "label": "non-entailment"}
+{"index": "ex10037", "hypothesis": "The banker heard the student .", "premise": "The banker heard the student called the actor .", "label": "non-entailment"}
+{"index": "ex10038", "hypothesis": "The artist knew the senators .", "premise": "The artist knew the senators recognized the author .", "label": "non-entailment"}
+{"index": "ex10039", "hypothesis": "The actors knew the senators .", "premise": "The actors knew the senators supported the manager .", "label": "non-entailment"}
+{"index": "ex10040", "hypothesis": "The actor believed the athlete .", "premise": "The actor believed the athlete introduced the secretaries .", "label": "non-entailment"}
+{"index": "ex10041", "hypothesis": "The athlete heard the tourist .", "premise": "The athlete heard the tourist recommended the doctors .", "label": "non-entailment"}
+{"index": "ex10042", "hypothesis": "The actor believed the athlete .", "premise": "The actor believed the athlete mentioned the secretaries .", "label": "non-entailment"}
+{"index": "ex10043", "hypothesis": "The secretary believed the lawyers .", "premise": "The secretary believed the lawyers helped the bankers .", "label": "non-entailment"}
+{"index": "ex10044", "hypothesis": "The managers believed the bankers .", "premise": "The managers believed the bankers stopped the author .", "label": "non-entailment"}
+{"index": "ex10045", "hypothesis": "The athletes knew the student .", "premise": "The athletes knew the student introduced the manager .", "label": "non-entailment"}
+{"index": "ex10046", "hypothesis": "The doctor knew the president .", "premise": "The doctor knew the president mentioned the lawyers .", "label": "non-entailment"}
+{"index": "ex10047", "hypothesis": "The artists knew the actor .", "premise": "The artists knew the actor helped the scientists .", "label": "non-entailment"}
+{"index": "ex10048", "hypothesis": "The doctor knew the professors .", "premise": "The doctor knew the professors stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex10049", "hypothesis": "The artist knew the doctor .", "premise": "The artist knew the doctor waited .", "label": "non-entailment"}
+{"index": "ex10050", "hypothesis": "The artist knew the judge .", "premise": "The artist knew the judge admired the student .", "label": "non-entailment"}
+{"index": "ex10051", "hypothesis": "The professors believed the student .", "premise": "The professors believed the student shouted .", "label": "non-entailment"}
+{"index": "ex10052", "hypothesis": "The artists knew the athletes .", "premise": "The artists knew the athletes resigned .", "label": "non-entailment"}
+{"index": "ex10053", "hypothesis": "The judge knew the lawyer .", "premise": "The judge knew the lawyer contacted the bankers .", "label": "non-entailment"}
+{"index": "ex10054", "hypothesis": "The athletes believed the tourists .", "premise": "The athletes believed the tourists thanked the judge .", "label": "non-entailment"}
+{"index": "ex10055", "hypothesis": "The actors believed the athletes .", "premise": "The actors believed the athletes danced .", "label": "non-entailment"}
+{"index": "ex10056", "hypothesis": "The tourist believed the artists .", "premise": "The tourist believed the artists encouraged the judges .", "label": "non-entailment"}
+{"index": "ex10057", "hypothesis": "The students heard the secretaries .", "premise": "The students heard the secretaries arrived .", "label": "non-entailment"}
+{"index": "ex10058", "hypothesis": "The presidents heard the athletes .", "premise": "The presidents heard the athletes waited .", "label": "non-entailment"}
+{"index": "ex10059", "hypothesis": "The judges heard the doctor .", "premise": "The judges heard the doctor supported the professors .", "label": "non-entailment"}
+{"index": "ex10060", "hypothesis": "The doctor heard the judge .", "premise": "The doctor heard the judge ran .", "label": "non-entailment"}
+{"index": "ex10061", "hypothesis": "The doctor heard the tourist .", "premise": "The doctor heard the tourist mentioned the artists .", "label": "non-entailment"}
+{"index": "ex10062", "hypothesis": "The doctor knew the tourists .", "premise": "The doctor knew the tourists introduced the artists .", "label": "non-entailment"}
+{"index": "ex10063", "hypothesis": "The professors believed the lawyer .", "premise": "The professors believed the lawyer called the student .", "label": "non-entailment"}
+{"index": "ex10064", "hypothesis": "The presidents knew the scientists .", "premise": "The presidents knew the scientists ran .", "label": "non-entailment"}
+{"index": "ex10065", "hypothesis": "The doctor heard the scientist .", "premise": "The doctor heard the scientist supported the actors .", "label": "non-entailment"}
+{"index": "ex10066", "hypothesis": "The lawyers believed the athlete .", "premise": "The lawyers believed the athlete thanked the banker .", "label": "non-entailment"}
+{"index": "ex10067", "hypothesis": "The managers heard the tourists .", "premise": "The managers heard the tourists called the doctor .", "label": "non-entailment"}
+{"index": "ex10068", "hypothesis": "The judges believed the scientist .", "premise": "The judges believed the scientist recommended the bankers .", "label": "non-entailment"}
+{"index": "ex10069", "hypothesis": "The scientist believed the lawyer .", "premise": "The scientist believed the lawyer supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10070", "hypothesis": "The athletes heard the scientists .", "premise": "The athletes heard the scientists helped the lawyer .", "label": "non-entailment"}
+{"index": "ex10071", "hypothesis": "The professors believed the secretaries .", "premise": "The professors believed the secretaries encouraged the athlete .", "label": "non-entailment"}
+{"index": "ex10072", "hypothesis": "The scientists believed the lawyers .", "premise": "The scientists believed the lawyers stopped the banker .", "label": "non-entailment"}
+{"index": "ex10073", "hypothesis": "The scientists believed the manager .", "premise": "The scientists believed the manager called the tourist .", "label": "non-entailment"}
+{"index": "ex10074", "hypothesis": "The manager believed the professors .", "premise": "The manager believed the professors recognized the lawyers .", "label": "non-entailment"}
+{"index": "ex10075", "hypothesis": "The artists heard the actor .", "premise": "The artists heard the actor stopped the bankers .", "label": "non-entailment"}
+{"index": "ex10076", "hypothesis": "The artists heard the students .", "premise": "The artists heard the students mentioned the manager .", "label": "non-entailment"}
+{"index": "ex10077", "hypothesis": "The lawyers heard the athlete .", "premise": "The lawyers heard the athlete supported the tourists .", "label": "non-entailment"}
+{"index": "ex10078", "hypothesis": "The actors believed the presidents .", "premise": "The actors believed the presidents arrived .", "label": "non-entailment"}
+{"index": "ex10079", "hypothesis": "The doctor knew the students .", "premise": "The doctor knew the students waited .", "label": "non-entailment"}
+{"index": "ex10080", "hypothesis": "The actor believed the manager .", "premise": "The actor believed the manager thanked the banker .", "label": "non-entailment"}
+{"index": "ex10081", "hypothesis": "The senator heard the author .", "premise": "The senator heard the author stopped the tourists .", "label": "non-entailment"}
+{"index": "ex10082", "hypothesis": "The lawyers knew the scientists .", "premise": "The lawyers knew the scientists arrived .", "label": "non-entailment"}
+{"index": "ex10083", "hypothesis": "The authors heard the presidents .", "premise": "The authors heard the presidents advised the scientist .", "label": "non-entailment"}
+{"index": "ex10084", "hypothesis": "The tourist believed the bankers .", "premise": "The tourist believed the bankers danced .", "label": "non-entailment"}
+{"index": "ex10085", "hypothesis": "The secretaries knew the scientists .", "premise": "The secretaries knew the scientists thanked the actors .", "label": "non-entailment"}
+{"index": "ex10086", "hypothesis": "The senators believed the lawyer .", "premise": "The senators believed the lawyer waited .", "label": "non-entailment"}
+{"index": "ex10087", "hypothesis": "The tourists heard the actor .", "premise": "The tourists heard the actor contacted the bankers .", "label": "non-entailment"}
+{"index": "ex10088", "hypothesis": "The scientist heard the tourists .", "premise": "The scientist heard the tourists mentioned the president .", "label": "non-entailment"}
+{"index": "ex10089", "hypothesis": "The author believed the president .", "premise": "The author believed the president admired the tourists .", "label": "non-entailment"}
+{"index": "ex10090", "hypothesis": "The tourists knew the doctor .", "premise": "The tourists knew the doctor stopped the president .", "label": "non-entailment"}
+{"index": "ex10091", "hypothesis": "The president knew the tourist .", "premise": "The president knew the tourist helped the senators .", "label": "non-entailment"}
+{"index": "ex10093", "hypothesis": "The secretaries heard the student .", "premise": "The secretaries heard the student introduced the athlete .", "label": "non-entailment"}
+{"index": "ex10094", "hypothesis": "The presidents heard the lawyer .", "premise": "The presidents heard the lawyer admired the authors .", "label": "non-entailment"}
+{"index": "ex10095", "hypothesis": "The student knew the secretary .", "premise": "The student knew the secretary waited .", "label": "non-entailment"}
+{"index": "ex10096", "hypothesis": "The doctors knew the tourists .", "premise": "The doctors knew the tourists introduced the athletes .", "label": "non-entailment"}
+{"index": "ex10097", "hypothesis": "The artists knew the doctors .", "premise": "The artists knew the doctors admired the presidents .", "label": "non-entailment"}
+{"index": "ex10098", "hypothesis": "The artists heard the actors .", "premise": "The artists heard the actors admired the judges .", "label": "non-entailment"}
+{"index": "ex10099", "hypothesis": "The students heard the president .", "premise": "The students heard the president supported the artists .", "label": "non-entailment"}
+{"index": "ex10100", "hypothesis": "The senators heard the artists .", "premise": "The senators heard the artists admired the author .", "label": "non-entailment"}
+{"index": "ex10101", "hypothesis": "The banker heard the artists .", "premise": "The banker heard the artists ran .", "label": "non-entailment"}
+{"index": "ex10102", "hypothesis": "The author heard the managers .", "premise": "The author heard the managers resigned .", "label": "non-entailment"}
+{"index": "ex10103", "hypothesis": "The judges believed the doctors .", "premise": "The judges believed the doctors mentioned the student .", "label": "non-entailment"}
+{"index": "ex10104", "hypothesis": "The senators knew the presidents .", "premise": "The senators knew the presidents encouraged the athlete .", "label": "non-entailment"}
+{"index": "ex10105", "hypothesis": "The doctor knew the professors .", "premise": "The doctor knew the professors slept .", "label": "non-entailment"}
+{"index": "ex10106", "hypothesis": "The banker knew the presidents .", "premise": "The banker knew the presidents arrived .", "label": "non-entailment"}
+{"index": "ex10107", "hypothesis": "The banker believed the doctors .", "premise": "The banker believed the doctors stopped the authors .", "label": "non-entailment"}
+{"index": "ex10108", "hypothesis": "The president heard the artists .", "premise": "The president heard the artists introduced the bankers .", "label": "non-entailment"}
+{"index": "ex10109", "hypothesis": "The athlete heard the professors .", "premise": "The athlete heard the professors advised the managers .", "label": "non-entailment"}
+{"index": "ex10110", "hypothesis": "The athletes heard the bankers .", "premise": "The athletes heard the bankers resigned .", "label": "non-entailment"}
+{"index": "ex10111", "hypothesis": "The manager believed the students .", "premise": "The manager believed the students advised the athlete .", "label": "non-entailment"}
+{"index": "ex10112", "hypothesis": "The secretaries heard the lawyer .", "premise": "The secretaries heard the lawyer ran .", "label": "non-entailment"}
+{"index": "ex10113", "hypothesis": "The president believed the lawyers .", "premise": "The president believed the lawyers called the judge .", "label": "non-entailment"}
+{"index": "ex10114", "hypothesis": "The secretaries knew the judge .", "premise": "The secretaries knew the judge advised the athletes .", "label": "non-entailment"}
+{"index": "ex10115", "hypothesis": "The students believed the actors .", "premise": "The students believed the actors stopped the doctor .", "label": "non-entailment"}
+{"index": "ex10116", "hypothesis": "The artist heard the athlete .", "premise": "The artist heard the athlete supported the doctors .", "label": "non-entailment"}
+{"index": "ex10117", "hypothesis": "The scientists heard the artist .", "premise": "The scientists heard the artist ran .", "label": "non-entailment"}
+{"index": "ex10118", "hypothesis": "The artist heard the president .", "premise": "The artist heard the president admired the doctors .", "label": "non-entailment"}
+{"index": "ex10119", "hypothesis": "The bankers knew the scientists .", "premise": "The bankers knew the scientists helped the president .", "label": "non-entailment"}
+{"index": "ex10120", "hypothesis": "The bankers heard the artist .", "premise": "The bankers heard the artist advised the tourist .", "label": "non-entailment"}
+{"index": "ex10121", "hypothesis": "The presidents knew the professors .", "premise": "The presidents knew the professors introduced the tourist .", "label": "non-entailment"}
+{"index": "ex10122", "hypothesis": "The senator believed the managers .", "premise": "The senator believed the managers helped the professor .", "label": "non-entailment"}
+{"index": "ex10123", "hypothesis": "The professor heard the students .", "premise": "The professor heard the students waited .", "label": "non-entailment"}
+{"index": "ex10124", "hypothesis": "The judge believed the artists .", "premise": "The judge believed the artists danced .", "label": "non-entailment"}
+{"index": "ex10125", "hypothesis": "The doctor knew the tourist .", "premise": "The doctor knew the tourist saw the professor .", "label": "non-entailment"}
+{"index": "ex10126", "hypothesis": "The athletes believed the authors .", "premise": "The athletes believed the authors called the students .", "label": "non-entailment"}
+{"index": "ex10127", "hypothesis": "The actors knew the banker .", "premise": "The actors knew the banker helped the athletes .", "label": "non-entailment"}
+{"index": "ex10128", "hypothesis": "The managers heard the senator .", "premise": "The managers heard the senator mentioned the judges .", "label": "non-entailment"}
+{"index": "ex10129", "hypothesis": "The author heard the scientists .", "premise": "The author heard the scientists encouraged the president .", "label": "non-entailment"}
+{"index": "ex10130", "hypothesis": "The manager heard the presidents .", "premise": "The manager heard the presidents believed the senator .", "label": "non-entailment"}
+{"index": "ex10131", "hypothesis": "The tourists believed the doctors .", "premise": "The tourists believed the doctors admired the professor .", "label": "non-entailment"}
+{"index": "ex10132", "hypothesis": "The manager knew the author .", "premise": "The manager knew the author contacted the doctors .", "label": "non-entailment"}
+{"index": "ex10133", "hypothesis": "The authors knew the student .", "premise": "The authors knew the student slept .", "label": "non-entailment"}
+{"index": "ex10134", "hypothesis": "The doctors knew the author .", "premise": "The doctors knew the author shouted .", "label": "non-entailment"}
+{"index": "ex10135", "hypothesis": "The managers believed the athlete .", "premise": "The managers believed the athlete arrived .", "label": "non-entailment"}
+{"index": "ex10137", "hypothesis": "The professor knew the senators .", "premise": "The professor knew the senators resigned .", "label": "non-entailment"}
+{"index": "ex10138", "hypothesis": "The athlete knew the professor .", "premise": "The athlete knew the professor supported the judge .", "label": "non-entailment"}
+{"index": "ex10139", "hypothesis": "The professor believed the doctor .", "premise": "The professor believed the doctor arrived .", "label": "non-entailment"}
+{"index": "ex10140", "hypothesis": "The scientists believed the judges .", "premise": "The scientists believed the judges danced .", "label": "non-entailment"}
+{"index": "ex10141", "hypothesis": "The lawyers believed the senator .", "premise": "The lawyers believed the senator ran .", "label": "non-entailment"}
+{"index": "ex10142", "hypothesis": "The scientists heard the managers .", "premise": "The scientists heard the managers recognized the artists .", "label": "non-entailment"}
+{"index": "ex10143", "hypothesis": "The scientists believed the athlete .", "premise": "The scientists believed the athlete supported the doctors .", "label": "non-entailment"}
+{"index": "ex10144", "hypothesis": "The athletes heard the secretary .", "premise": "The athletes heard the secretary supported the scientist .", "label": "non-entailment"}
+{"index": "ex10145", "hypothesis": "The judge heard the presidents .", "premise": "The judge heard the presidents recommended the senator .", "label": "non-entailment"}
+{"index": "ex10146", "hypothesis": "The professors heard the authors .", "premise": "The professors heard the authors called the lawyers .", "label": "non-entailment"}
+{"index": "ex10147", "hypothesis": "The lawyers believed the artist .", "premise": "The lawyers believed the artist mentioned the student .", "label": "non-entailment"}
+{"index": "ex10148", "hypothesis": "The author knew the president .", "premise": "The author knew the president performed .", "label": "non-entailment"}
+{"index": "ex10149", "hypothesis": "The secretaries knew the artists .", "premise": "The secretaries knew the artists stopped the senator .", "label": "non-entailment"}
+{"index": "ex10150", "hypothesis": "The managers knew the president .", "premise": "The managers knew the president advised the tourists .", "label": "non-entailment"}
+{"index": "ex10151", "hypothesis": "The student believed the artist .", "premise": "The student believed the artist shouted .", "label": "non-entailment"}
+{"index": "ex10152", "hypothesis": "The managers believed the artists .", "premise": "The managers believed the artists waited .", "label": "non-entailment"}
+{"index": "ex10153", "hypothesis": "The manager knew the athletes .", "premise": "The manager knew the athletes ran .", "label": "non-entailment"}
+{"index": "ex10154", "hypothesis": "The tourist heard the managers .", "premise": "The tourist heard the managers ran .", "label": "non-entailment"}
+{"index": "ex10155", "hypothesis": "The managers heard the senator .", "premise": "The managers heard the senator recognized the doctor .", "label": "non-entailment"}
+{"index": "ex10156", "hypothesis": "The manager heard the scientist .", "premise": "The manager heard the scientist stopped the bankers .", "label": "non-entailment"}
+{"index": "ex10157", "hypothesis": "The senators believed the judges .", "premise": "The senators believed the judges danced .", "label": "non-entailment"}
+{"index": "ex10158", "hypothesis": "The scientists believed the doctors .", "premise": "The scientists believed the doctors thanked the lawyer .", "label": "non-entailment"}
+{"index": "ex10159", "hypothesis": "The doctor heard the actor .", "premise": "The doctor heard the actor waited .", "label": "non-entailment"}
+{"index": "ex10160", "hypothesis": "The senator knew the banker .", "premise": "The senator knew the banker shouted .", "label": "non-entailment"}
+{"index": "ex10161", "hypothesis": "The tourists heard the banker .", "premise": "The tourists heard the banker called the managers .", "label": "non-entailment"}
+{"index": "ex10162", "hypothesis": "The actor believed the senator .", "premise": "The actor believed the senator stopped the athlete .", "label": "non-entailment"}
+{"index": "ex10163", "hypothesis": "The lawyer knew the senator .", "premise": "The lawyer knew the senator admired the author .", "label": "non-entailment"}
+{"index": "ex10164", "hypothesis": "The scientists heard the doctors .", "premise": "The scientists heard the doctors introduced the managers .", "label": "non-entailment"}
+{"index": "ex10165", "hypothesis": "The presidents heard the senators .", "premise": "The presidents heard the senators waited .", "label": "non-entailment"}
+{"index": "ex10166", "hypothesis": "The senator knew the banker .", "premise": "The senator knew the banker called the author .", "label": "non-entailment"}
+{"index": "ex10167", "hypothesis": "The bankers heard the judges .", "premise": "The bankers heard the judges shouted .", "label": "non-entailment"}
+{"index": "ex10168", "hypothesis": "The senator believed the professor .", "premise": "The senator believed the professor stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex10169", "hypothesis": "The presidents heard the lawyers .", "premise": "The presidents heard the lawyers believed the athletes .", "label": "non-entailment"}
+{"index": "ex10170", "hypothesis": "The manager heard the tourists .", "premise": "The manager heard the tourists believed the professors .", "label": "non-entailment"}
+{"index": "ex10171", "hypothesis": "The manager knew the secretary .", "premise": "The manager knew the secretary recommended the judge .", "label": "non-entailment"}
+{"index": "ex10172", "hypothesis": "The banker knew the artists .", "premise": "The banker knew the artists performed .", "label": "non-entailment"}
+{"index": "ex10173", "hypothesis": "The author believed the president .", "premise": "The author believed the president advised the senator .", "label": "non-entailment"}
+{"index": "ex10174", "hypothesis": "The author knew the students .", "premise": "The author knew the students called the artist .", "label": "non-entailment"}
+{"index": "ex10175", "hypothesis": "The secretaries believed the authors .", "premise": "The secretaries believed the authors danced .", "label": "non-entailment"}
+{"index": "ex10176", "hypothesis": "The doctors knew the actors .", "premise": "The doctors knew the actors advised the author .", "label": "non-entailment"}
+{"index": "ex10177", "hypothesis": "The senators heard the authors .", "premise": "The senators heard the authors encouraged the doctor .", "label": "non-entailment"}
+{"index": "ex10178", "hypothesis": "The actor believed the authors .", "premise": "The actor believed the authors advised the athletes .", "label": "non-entailment"}
+{"index": "ex10179", "hypothesis": "The secretaries knew the presidents .", "premise": "The secretaries knew the presidents mentioned the artist .", "label": "non-entailment"}
+{"index": "ex10180", "hypothesis": "The judge knew the athlete .", "premise": "The judge knew the athlete introduced the manager .", "label": "non-entailment"}
+{"index": "ex10181", "hypothesis": "The manager knew the secretary .", "premise": "The manager knew the secretary recognized the presidents .", "label": "non-entailment"}
+{"index": "ex10182", "hypothesis": "The doctors knew the secretaries .", "premise": "The doctors knew the secretaries introduced the athletes .", "label": "non-entailment"}
+{"index": "ex10183", "hypothesis": "The doctor knew the banker .", "premise": "The doctor knew the banker supported the athlete .", "label": "non-entailment"}
+{"index": "ex10184", "hypothesis": "The president heard the managers .", "premise": "The president heard the managers shouted .", "label": "non-entailment"}
+{"index": "ex10185", "hypothesis": "The artists knew the lawyers .", "premise": "The artists knew the lawyers waited .", "label": "non-entailment"}
+{"index": "ex10186", "hypothesis": "The secretary believed the athlete .", "premise": "The secretary believed the athlete slept .", "label": "non-entailment"}
+{"index": "ex10187", "hypothesis": "The scientists knew the actors .", "premise": "The scientists knew the actors avoided the president .", "label": "non-entailment"}
+{"index": "ex10188", "hypothesis": "The actors believed the authors .", "premise": "The actors believed the authors shouted .", "label": "non-entailment"}
+{"index": "ex10189", "hypothesis": "The professor believed the athlete .", "premise": "The professor believed the athlete arrived .", "label": "non-entailment"}
+{"index": "ex10190", "hypothesis": "The scientist heard the athletes .", "premise": "The scientist heard the athletes shouted .", "label": "non-entailment"}
+{"index": "ex10191", "hypothesis": "The athletes knew the judges .", "premise": "The athletes knew the judges avoided the student .", "label": "non-entailment"}
+{"index": "ex10192", "hypothesis": "The athletes knew the student .", "premise": "The athletes knew the student recommended the tourists .", "label": "non-entailment"}
+{"index": "ex10193", "hypothesis": "The manager believed the scientists .", "premise": "The manager believed the scientists shouted .", "label": "non-entailment"}
+{"index": "ex10194", "hypothesis": "The secretary believed the artist .", "premise": "The secretary believed the artist contacted the professors .", "label": "non-entailment"}
+{"index": "ex10195", "hypothesis": "The senator heard the professor .", "premise": "The senator heard the professor ran .", "label": "non-entailment"}
+{"index": "ex10196", "hypothesis": "The athletes believed the judges .", "premise": "The athletes believed the judges introduced the senators .", "label": "non-entailment"}
+{"index": "ex10197", "hypothesis": "The presidents knew the lawyer .", "premise": "The presidents knew the lawyer danced .", "label": "non-entailment"}
+{"index": "ex10198", "hypothesis": "The professor heard the artist .", "premise": "The professor heard the artist recognized the athlete .", "label": "non-entailment"}
+{"index": "ex10199", "hypothesis": "The artist believed the secretaries .", "premise": "The artist believed the secretaries slept .", "label": "non-entailment"}
+{"index": "ex10200", "hypothesis": "The author heard the artists .", "premise": "The author heard the artists thanked the secretaries .", "label": "non-entailment"}
+{"index": "ex10201", "hypothesis": "The lawyer knew the presidents .", "premise": "The lawyer knew the presidents supported the senator .", "label": "non-entailment"}
+{"index": "ex10202", "hypothesis": "The athlete knew the judge .", "premise": "The athlete knew the judge saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10203", "hypothesis": "The students knew the actors .", "premise": "The students knew the actors advised the athletes .", "label": "non-entailment"}
+{"index": "ex10204", "hypothesis": "The student believed the doctors .", "premise": "The student believed the doctors admired the lawyers .", "label": "non-entailment"}
+{"index": "ex10205", "hypothesis": "The judge knew the secretaries .", "premise": "The judge knew the secretaries recognized the artists .", "label": "non-entailment"}
+{"index": "ex10206", "hypothesis": "The president believed the doctors .", "premise": "The president believed the doctors introduced the secretaries .", "label": "non-entailment"}
+{"index": "ex10207", "hypothesis": "The secretaries heard the judge .", "premise": "The secretaries heard the judge admired the president .", "label": "non-entailment"}
+{"index": "ex10208", "hypothesis": "The scientists knew the tourists .", "premise": "The scientists knew the tourists thanked the manager .", "label": "non-entailment"}
+{"index": "ex10209", "hypothesis": "The lawyers believed the presidents .", "premise": "The lawyers believed the presidents danced .", "label": "non-entailment"}
+{"index": "ex10210", "hypothesis": "The judge knew the senators .", "premise": "The judge knew the senators resigned .", "label": "non-entailment"}
+{"index": "ex10211", "hypothesis": "The judge believed the professor .", "premise": "The judge believed the professor slept .", "label": "non-entailment"}
+{"index": "ex10212", "hypothesis": "The senators believed the actor .", "premise": "The senators believed the actor mentioned the athletes .", "label": "non-entailment"}
+{"index": "ex10213", "hypothesis": "The professors knew the secretary .", "premise": "The professors knew the secretary danced .", "label": "non-entailment"}
+{"index": "ex10214", "hypothesis": "The managers heard the senator .", "premise": "The managers heard the senator called the students .", "label": "non-entailment"}
+{"index": "ex10215", "hypothesis": "The managers heard the doctor .", "premise": "The managers heard the doctor mentioned the bankers .", "label": "non-entailment"}
+{"index": "ex10216", "hypothesis": "The bankers heard the artist .", "premise": "The bankers heard the artist recognized the senators .", "label": "non-entailment"}
+{"index": "ex10217", "hypothesis": "The judge believed the actors .", "premise": "The judge believed the actors avoided the manager .", "label": "non-entailment"}
+{"index": "ex10218", "hypothesis": "The scientist heard the senator .", "premise": "The scientist heard the senator advised the students .", "label": "non-entailment"}
+{"index": "ex10219", "hypothesis": "The author heard the student .", "premise": "The author heard the student helped the judges .", "label": "non-entailment"}
+{"index": "ex10220", "hypothesis": "The athletes heard the author .", "premise": "The athletes heard the author saw the manager .", "label": "non-entailment"}
+{"index": "ex10221", "hypothesis": "The managers heard the students .", "premise": "The managers heard the students performed .", "label": "non-entailment"}
+{"index": "ex10222", "hypothesis": "The bankers believed the tourists .", "premise": "The bankers believed the tourists admired the managers .", "label": "non-entailment"}
+{"index": "ex10223", "hypothesis": "The actor heard the athletes .", "premise": "The actor heard the athletes thanked the senator .", "label": "non-entailment"}
+{"index": "ex10224", "hypothesis": "The scientists heard the judge .", "premise": "The scientists heard the judge recommended the secretary .", "label": "non-entailment"}
+{"index": "ex10225", "hypothesis": "The athletes believed the student .", "premise": "The athletes believed the student advised the scientist .", "label": "non-entailment"}
+{"index": "ex10226", "hypothesis": "The tourists knew the presidents .", "premise": "The tourists knew the presidents avoided the athletes .", "label": "non-entailment"}
+{"index": "ex10227", "hypothesis": "The manager heard the lawyers .", "premise": "The manager heard the lawyers admired the judge .", "label": "non-entailment"}
+{"index": "ex10228", "hypothesis": "The actor heard the banker .", "premise": "The actor heard the banker helped the artist .", "label": "non-entailment"}
+{"index": "ex10229", "hypothesis": "The banker believed the students .", "premise": "The banker believed the students admired the senator .", "label": "non-entailment"}
+{"index": "ex10230", "hypothesis": "The doctors believed the senator .", "premise": "The doctors believed the senator avoided the student .", "label": "non-entailment"}
+{"index": "ex10231", "hypothesis": "The tourists heard the actor .", "premise": "The tourists heard the actor thanked the authors .", "label": "non-entailment"}
+{"index": "ex10232", "hypothesis": "The judge knew the tourist .", "premise": "The judge knew the tourist supported the student .", "label": "non-entailment"}
+{"index": "ex10233", "hypothesis": "The student knew the judge .", "premise": "The student knew the judge slept .", "label": "non-entailment"}
+{"index": "ex10234", "hypothesis": "The secretary believed the lawyers .", "premise": "The secretary believed the lawyers shouted .", "label": "non-entailment"}
+{"index": "ex10235", "hypothesis": "The artist knew the judges .", "premise": "The artist knew the judges admired the professors .", "label": "non-entailment"}
+{"index": "ex10236", "hypothesis": "The judge knew the professors .", "premise": "The judge knew the professors shouted .", "label": "non-entailment"}
+{"index": "ex10237", "hypothesis": "The actor believed the author .", "premise": "The actor believed the author arrived .", "label": "non-entailment"}
+{"index": "ex10238", "hypothesis": "The bankers knew the presidents .", "premise": "The bankers knew the presidents saw the manager .", "label": "non-entailment"}
+{"index": "ex10239", "hypothesis": "The presidents knew the lawyer .", "premise": "The presidents knew the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10240", "hypothesis": "The lawyers heard the professors .", "premise": "The lawyers heard the professors supported the judges .", "label": "non-entailment"}
+{"index": "ex10241", "hypothesis": "The tourists heard the managers .", "premise": "The tourists heard the managers arrived .", "label": "non-entailment"}
+{"index": "ex10242", "hypothesis": "The scientist knew the authors .", "premise": "The scientist knew the authors called the manager .", "label": "non-entailment"}
+{"index": "ex10243", "hypothesis": "The lawyers knew the scientist .", "premise": "The lawyers knew the scientist mentioned the senators .", "label": "non-entailment"}
+{"index": "ex10244", "hypothesis": "The doctors knew the student .", "premise": "The doctors knew the student resigned .", "label": "non-entailment"}
+{"index": "ex10245", "hypothesis": "The professors heard the president .", "premise": "The professors heard the president helped the secretary .", "label": "non-entailment"}
+{"index": "ex10246", "hypothesis": "The athlete knew the doctor .", "premise": "The athlete knew the doctor danced .", "label": "non-entailment"}
+{"index": "ex10247", "hypothesis": "The professor knew the student .", "premise": "The professor knew the student slept .", "label": "non-entailment"}
+{"index": "ex10248", "hypothesis": "The scientist knew the judges .", "premise": "The scientist knew the judges thanked the secretary .", "label": "non-entailment"}
+{"index": "ex10249", "hypothesis": "The authors knew the judges .", "premise": "The authors knew the judges stopped the scientists .", "label": "non-entailment"}
+{"index": "ex10250", "hypothesis": "The tourist knew the actors .", "premise": "The tourist knew the actors slept .", "label": "non-entailment"}
+{"index": "ex10251", "hypothesis": "The athlete believed the judges .", "premise": "The athlete believed the judges avoided the tourist .", "label": "non-entailment"}
+{"index": "ex10252", "hypothesis": "The scientists heard the bankers .", "premise": "The scientists heard the bankers advised the actors .", "label": "non-entailment"}
+{"index": "ex10253", "hypothesis": "The scientist heard the actors .", "premise": "The scientist heard the actors mentioned the tourist .", "label": "non-entailment"}
+{"index": "ex10254", "hypothesis": "The athletes believed the scientists .", "premise": "The athletes believed the scientists stopped the bankers .", "label": "non-entailment"}
+{"index": "ex10255", "hypothesis": "The judge heard the senators .", "premise": "The judge heard the senators believed the author .", "label": "non-entailment"}
+{"index": "ex10256", "hypothesis": "The athletes heard the senators .", "premise": "The athletes heard the senators recognized the student .", "label": "non-entailment"}
+{"index": "ex10257", "hypothesis": "The actor knew the professor .", "premise": "The actor knew the professor slept .", "label": "non-entailment"}
+{"index": "ex10258", "hypothesis": "The author heard the artists .", "premise": "The author heard the artists called the secretaries .", "label": "non-entailment"}
+{"index": "ex10259", "hypothesis": "The actor heard the lawyers .", "premise": "The actor heard the lawyers called the manager .", "label": "non-entailment"}
+{"index": "ex10260", "hypothesis": "The senator believed the secretaries .", "premise": "The senator believed the secretaries called the student .", "label": "non-entailment"}
+{"index": "ex10261", "hypothesis": "The athlete knew the actors .", "premise": "The athlete knew the actors waited .", "label": "non-entailment"}
+{"index": "ex10262", "hypothesis": "The president heard the judge .", "premise": "The president heard the judge admired the lawyer .", "label": "non-entailment"}
+{"index": "ex10263", "hypothesis": "The judges believed the senators .", "premise": "The judges believed the senators shouted .", "label": "non-entailment"}
+{"index": "ex10264", "hypothesis": "The judges believed the secretaries .", "premise": "The judges believed the secretaries thanked the manager .", "label": "non-entailment"}
+{"index": "ex10265", "hypothesis": "The scientist heard the judges .", "premise": "The scientist heard the judges danced .", "label": "non-entailment"}
+{"index": "ex10266", "hypothesis": "The senator knew the artist .", "premise": "The senator knew the artist waited .", "label": "non-entailment"}
+{"index": "ex10267", "hypothesis": "The senator believed the professor .", "premise": "The senator believed the professor thanked the manager .", "label": "non-entailment"}
+{"index": "ex10268", "hypothesis": "The athletes heard the managers .", "premise": "The athletes heard the managers arrived .", "label": "non-entailment"}
+{"index": "ex10269", "hypothesis": "The author believed the actor .", "premise": "The author believed the actor thanked the secretaries .", "label": "non-entailment"}
+{"index": "ex10270", "hypothesis": "The scientist knew the lawyers .", "premise": "The scientist knew the lawyers resigned .", "label": "non-entailment"}
+{"index": "ex10271", "hypothesis": "The lawyers heard the scientists .", "premise": "The lawyers heard the scientists performed .", "label": "non-entailment"}
+{"index": "ex10272", "hypothesis": "The lawyers heard the senator .", "premise": "The lawyers heard the senator supported the secretary .", "label": "non-entailment"}
+{"index": "ex10273", "hypothesis": "The lawyers knew the judges .", "premise": "The lawyers knew the judges called the artists .", "label": "non-entailment"}
+{"index": "ex10274", "hypothesis": "The tourists believed the students .", "premise": "The tourists believed the students avoided the bankers .", "label": "non-entailment"}
+{"index": "ex10275", "hypothesis": "The students believed the author .", "premise": "The students believed the author performed .", "label": "non-entailment"}
+{"index": "ex10276", "hypothesis": "The lawyers knew the professor .", "premise": "The lawyers knew the professor waited .", "label": "non-entailment"}
+{"index": "ex10277", "hypothesis": "The president believed the professor .", "premise": "The president believed the professor ran .", "label": "non-entailment"}
+{"index": "ex10278", "hypothesis": "The tourists heard the author .", "premise": "The tourists heard the author stopped the judges .", "label": "non-entailment"}
+{"index": "ex10279", "hypothesis": "The athlete heard the judges .", "premise": "The athlete heard the judges waited .", "label": "non-entailment"}
+{"index": "ex10280", "hypothesis": "The banker believed the judges .", "premise": "The banker believed the judges recommended the actors .", "label": "non-entailment"}
+{"index": "ex10281", "hypothesis": "The athletes believed the senators .", "premise": "The athletes believed the senators danced .", "label": "non-entailment"}
+{"index": "ex10282", "hypothesis": "The banker heard the tourist .", "premise": "The banker heard the tourist resigned .", "label": "non-entailment"}
+{"index": "ex10283", "hypothesis": "The doctors knew the secretary .", "premise": "The doctors knew the secretary avoided the tourist .", "label": "non-entailment"}
+{"index": "ex10284", "hypothesis": "The judges heard the scientist .", "premise": "The judges heard the scientist recommended the tourists .", "label": "non-entailment"}
+{"index": "ex10285", "hypothesis": "The secretaries heard the professors .", "premise": "The secretaries heard the professors saw the senator .", "label": "non-entailment"}
+{"index": "ex10286", "hypothesis": "The manager heard the scientist .", "premise": "The manager heard the scientist avoided the student .", "label": "non-entailment"}
+{"index": "ex10287", "hypothesis": "The athletes knew the senators .", "premise": "The athletes knew the senators waited .", "label": "non-entailment"}
+{"index": "ex10288", "hypothesis": "The senators knew the athletes .", "premise": "The senators knew the athletes believed the professors .", "label": "non-entailment"}
+{"index": "ex10289", "hypothesis": "The artists heard the bankers .", "premise": "The artists heard the bankers advised the tourists .", "label": "non-entailment"}
+{"index": "ex10290", "hypothesis": "The athlete heard the author .", "premise": "The athlete heard the author advised the tourists .", "label": "non-entailment"}
+{"index": "ex10291", "hypothesis": "The bankers knew the secretaries .", "premise": "The bankers knew the secretaries stopped the actors .", "label": "non-entailment"}
+{"index": "ex10292", "hypothesis": "The senator heard the bankers .", "premise": "The senator heard the bankers slept .", "label": "non-entailment"}
+{"index": "ex10293", "hypothesis": "The senators heard the secretaries .", "premise": "The senators heard the secretaries arrived .", "label": "non-entailment"}
+{"index": "ex10294", "hypothesis": "The student knew the banker .", "premise": "The student knew the banker waited .", "label": "non-entailment"}
+{"index": "ex10295", "hypothesis": "The artists heard the senators .", "premise": "The artists heard the senators stopped the managers .", "label": "non-entailment"}
+{"index": "ex10296", "hypothesis": "The bankers heard the tourists .", "premise": "The bankers heard the tourists arrived .", "label": "non-entailment"}
+{"index": "ex10297", "hypothesis": "The senators knew the banker .", "premise": "The senators knew the banker danced .", "label": "non-entailment"}
+{"index": "ex10298", "hypothesis": "The presidents heard the professors .", "premise": "The presidents heard the professors thanked the banker .", "label": "non-entailment"}
+{"index": "ex10299", "hypothesis": "The senators believed the judge .", "premise": "The senators believed the judge introduced the tourists .", "label": "non-entailment"}
+{"index": "ex10300", "hypothesis": "The managers knew the senator .", "premise": "The managers knew the senator mentioned the authors .", "label": "non-entailment"}
+{"index": "ex10301", "hypothesis": "The authors believed the senators .", "premise": "The authors believed the senators slept .", "label": "non-entailment"}
+{"index": "ex10302", "hypothesis": "The judges heard the artist .", "premise": "The judges heard the artist believed the scientists .", "label": "non-entailment"}
+{"index": "ex10303", "hypothesis": "The athletes knew the senator .", "premise": "The athletes knew the senator shouted .", "label": "non-entailment"}
+{"index": "ex10304", "hypothesis": "The students heard the judge .", "premise": "The students heard the judge recommended the banker .", "label": "non-entailment"}
+{"index": "ex10305", "hypothesis": "The secretary heard the lawyer .", "premise": "The secretary heard the lawyer danced .", "label": "non-entailment"}
+{"index": "ex10306", "hypothesis": "The athletes knew the tourist .", "premise": "The athletes knew the tourist recommended the banker .", "label": "non-entailment"}
+{"index": "ex10307", "hypothesis": "The banker believed the lawyers .", "premise": "The banker believed the lawyers advised the managers .", "label": "non-entailment"}
+{"index": "ex10308", "hypothesis": "The artists knew the secretary .", "premise": "The artists knew the secretary admired the author .", "label": "non-entailment"}
+{"index": "ex10309", "hypothesis": "The author knew the managers .", "premise": "The author knew the managers danced .", "label": "non-entailment"}
+{"index": "ex10310", "hypothesis": "The president heard the judge .", "premise": "The president heard the judge stopped the scientist .", "label": "non-entailment"}
+{"index": "ex10311", "hypothesis": "The bankers heard the president .", "premise": "The bankers heard the president arrived .", "label": "non-entailment"}
+{"index": "ex10312", "hypothesis": "The student heard the senators .", "premise": "The student heard the senators performed .", "label": "non-entailment"}
+{"index": "ex10313", "hypothesis": "The president believed the banker .", "premise": "The president believed the banker recognized the authors .", "label": "non-entailment"}
+{"index": "ex10314", "hypothesis": "The lawyers knew the manager .", "premise": "The lawyers knew the manager introduced the tourists .", "label": "non-entailment"}
+{"index": "ex10315", "hypothesis": "The judges heard the senators .", "premise": "The judges heard the senators avoided the president .", "label": "non-entailment"}
+{"index": "ex10316", "hypothesis": "The doctors heard the athlete .", "premise": "The doctors heard the athlete shouted .", "label": "non-entailment"}
+{"index": "ex10317", "hypothesis": "The bankers heard the doctors .", "premise": "The bankers heard the doctors stopped the student .", "label": "non-entailment"}
+{"index": "ex10318", "hypothesis": "The scientists heard the manager .", "premise": "The scientists heard the manager shouted .", "label": "non-entailment"}
+{"index": "ex10319", "hypothesis": "The athletes believed the judges .", "premise": "The athletes believed the judges saw the presidents .", "label": "non-entailment"}
+{"index": "ex10320", "hypothesis": "The actor believed the artist .", "premise": "The actor believed the artist performed .", "label": "non-entailment"}
+{"index": "ex10321", "hypothesis": "The students heard the secretaries .", "premise": "The students heard the secretaries thanked the athletes .", "label": "non-entailment"}
+{"index": "ex10322", "hypothesis": "The athlete heard the doctor .", "premise": "The athlete heard the doctor danced .", "label": "non-entailment"}
+{"index": "ex10323", "hypothesis": "The students believed the professors .", "premise": "The students believed the professors performed .", "label": "non-entailment"}
+{"index": "ex10324", "hypothesis": "The artist believed the lawyer .", "premise": "The artist believed the lawyer introduced the professor .", "label": "non-entailment"}
+{"index": "ex10325", "hypothesis": "The president knew the authors .", "premise": "The president knew the authors called the banker .", "label": "non-entailment"}
+{"index": "ex10326", "hypothesis": "The professors heard the student .", "premise": "The professors heard the student performed .", "label": "non-entailment"}
+{"index": "ex10327", "hypothesis": "The banker knew the lawyer .", "premise": "The banker knew the lawyer waited .", "label": "non-entailment"}
+{"index": "ex10328", "hypothesis": "The students believed the senators .", "premise": "The students believed the senators performed .", "label": "non-entailment"}
+{"index": "ex10329", "hypothesis": "The secretary knew the students .", "premise": "The secretary knew the students saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10330", "hypothesis": "The author knew the lawyer .", "premise": "The author knew the lawyer avoided the actors .", "label": "non-entailment"}
+{"index": "ex10331", "hypothesis": "The bankers believed the actors .", "premise": "The bankers believed the actors performed .", "label": "non-entailment"}
+{"index": "ex10332", "hypothesis": "The authors knew the senators .", "premise": "The authors knew the senators stopped the managers .", "label": "non-entailment"}
+{"index": "ex10333", "hypothesis": "The authors knew the doctors .", "premise": "The authors knew the doctors advised the judge .", "label": "non-entailment"}
+{"index": "ex10334", "hypothesis": "The artists knew the athletes .", "premise": "The artists knew the athletes shouted .", "label": "non-entailment"}
+{"index": "ex10335", "hypothesis": "The banker knew the tourists .", "premise": "The banker knew the tourists thanked the professor .", "label": "non-entailment"}
+{"index": "ex10336", "hypothesis": "The banker believed the senators .", "premise": "The banker believed the senators introduced the judge .", "label": "non-entailment"}
+{"index": "ex10337", "hypothesis": "The doctor knew the presidents .", "premise": "The doctor knew the presidents encouraged the judge .", "label": "non-entailment"}
+{"index": "ex10338", "hypothesis": "The lawyer knew the senator .", "premise": "The lawyer knew the senator helped the scientists .", "label": "non-entailment"}
+{"index": "ex10339", "hypothesis": "The judges knew the president .", "premise": "The judges knew the president recognized the professors .", "label": "non-entailment"}
+{"index": "ex10340", "hypothesis": "The presidents knew the managers .", "premise": "The presidents knew the managers arrived .", "label": "non-entailment"}
+{"index": "ex10341", "hypothesis": "The judge heard the lawyer .", "premise": "The judge heard the lawyer believed the bankers .", "label": "non-entailment"}
+{"index": "ex10342", "hypothesis": "The artist believed the athletes .", "premise": "The artist believed the athletes avoided the bankers .", "label": "non-entailment"}
+{"index": "ex10343", "hypothesis": "The president believed the actor .", "premise": "The president believed the actor ran .", "label": "non-entailment"}
+{"index": "ex10344", "hypothesis": "The presidents believed the actor .", "premise": "The presidents believed the actor introduced the tourists .", "label": "non-entailment"}
+{"index": "ex10345", "hypothesis": "The professor knew the judges .", "premise": "The professor knew the judges avoided the athlete .", "label": "non-entailment"}
+{"index": "ex10346", "hypothesis": "The scientists heard the secretaries .", "premise": "The scientists heard the secretaries recognized the doctors .", "label": "non-entailment"}
+{"index": "ex10347", "hypothesis": "The manager heard the judges .", "premise": "The manager heard the judges stopped the secretaries .", "label": "non-entailment"}
+{"index": "ex10349", "hypothesis": "The doctor heard the secretaries .", "premise": "The doctor heard the secretaries contacted the presidents .", "label": "non-entailment"}
+{"index": "ex10350", "hypothesis": "The senator believed the managers .", "premise": "The senator believed the managers recommended the bankers .", "label": "non-entailment"}
+{"index": "ex10351", "hypothesis": "The scientist heard the judge .", "premise": "The scientist heard the judge waited .", "label": "non-entailment"}
+{"index": "ex10352", "hypothesis": "The athlete heard the artist .", "premise": "The athlete heard the artist advised the senators .", "label": "non-entailment"}
+{"index": "ex10353", "hypothesis": "The artists heard the doctors .", "premise": "The artists heard the doctors recognized the manager .", "label": "non-entailment"}
+{"index": "ex10354", "hypothesis": "The secretaries believed the artists .", "premise": "The secretaries believed the artists danced .", "label": "non-entailment"}
+{"index": "ex10355", "hypothesis": "The students heard the authors .", "premise": "The students heard the authors admired the professors .", "label": "non-entailment"}
+{"index": "ex10356", "hypothesis": "The doctors knew the author .", "premise": "The doctors knew the author avoided the scientists .", "label": "non-entailment"}
+{"index": "ex10357", "hypothesis": "The athletes heard the banker .", "premise": "The athletes heard the banker mentioned the artist .", "label": "non-entailment"}
+{"index": "ex10358", "hypothesis": "The president heard the author .", "premise": "The president heard the author encouraged the students .", "label": "non-entailment"}
+{"index": "ex10359", "hypothesis": "The doctors believed the president .", "premise": "The doctors believed the president advised the senator .", "label": "non-entailment"}
+{"index": "ex10360", "hypothesis": "The bankers heard the athlete .", "premise": "The bankers heard the athlete recommended the scientists .", "label": "non-entailment"}
+{"index": "ex10361", "hypothesis": "The president believed the secretary .", "premise": "The president believed the secretary waited .", "label": "non-entailment"}
+{"index": "ex10362", "hypothesis": "The lawyers believed the tourists .", "premise": "The lawyers believed the tourists mentioned the scientist .", "label": "non-entailment"}
+{"index": "ex10363", "hypothesis": "The banker believed the actors .", "premise": "The banker believed the actors helped the doctors .", "label": "non-entailment"}
+{"index": "ex10364", "hypothesis": "The actors heard the banker .", "premise": "The actors heard the banker mentioned the president .", "label": "non-entailment"}
+{"index": "ex10365", "hypothesis": "The secretary knew the tourist .", "premise": "The secretary knew the tourist encouraged the president .", "label": "non-entailment"}
+{"index": "ex10366", "hypothesis": "The lawyer heard the athletes .", "premise": "The lawyer heard the athletes arrived .", "label": "non-entailment"}
+{"index": "ex10367", "hypothesis": "The presidents knew the bankers .", "premise": "The presidents knew the bankers saw the tourists .", "label": "non-entailment"}
+{"index": "ex10368", "hypothesis": "The judge believed the actor .", "premise": "The judge believed the actor admired the scientist .", "label": "non-entailment"}
+{"index": "ex10369", "hypothesis": "The scientists heard the authors .", "premise": "The scientists heard the authors helped the president .", "label": "non-entailment"}
+{"index": "ex10370", "hypothesis": "The tourists knew the lawyer .", "premise": "The tourists knew the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10371", "hypothesis": "The artist knew the lawyer .", "premise": "The artist knew the lawyer encouraged the manager .", "label": "non-entailment"}
+{"index": "ex10372", "hypothesis": "The actors believed the lawyer .", "premise": "The actors believed the lawyer thanked the senator .", "label": "non-entailment"}
+{"index": "ex10373", "hypothesis": "The presidents believed the lawyers .", "premise": "The presidents believed the lawyers recognized the student .", "label": "non-entailment"}
+{"index": "ex10374", "hypothesis": "The secretaries believed the doctor .", "premise": "The secretaries believed the doctor supported the judges .", "label": "non-entailment"}
+{"index": "ex10375", "hypothesis": "The judges believed the tourists .", "premise": "The judges believed the tourists supported the professor .", "label": "non-entailment"}
+{"index": "ex10376", "hypothesis": "The professors knew the secretary .", "premise": "The professors knew the secretary advised the tourist .", "label": "non-entailment"}
+{"index": "ex10377", "hypothesis": "The doctors knew the tourists .", "premise": "The doctors knew the tourists recognized the senator .", "label": "non-entailment"}
+{"index": "ex10378", "hypothesis": "The judges believed the secretaries .", "premise": "The judges believed the secretaries admired the author .", "label": "non-entailment"}
+{"index": "ex10379", "hypothesis": "The professor knew the artist .", "premise": "The professor knew the artist stopped the tourist .", "label": "non-entailment"}
+{"index": "ex10380", "hypothesis": "The scientist believed the tourists .", "premise": "The scientist believed the tourists saw the artist .", "label": "non-entailment"}
+{"index": "ex10381", "hypothesis": "The senator knew the manager .", "premise": "The senator knew the manager arrived .", "label": "non-entailment"}
+{"index": "ex10382", "hypothesis": "The doctor knew the athlete .", "premise": "The doctor knew the athlete introduced the senator .", "label": "non-entailment"}
+{"index": "ex10383", "hypothesis": "The author knew the student .", "premise": "The author knew the student recommended the professor .", "label": "non-entailment"}
+{"index": "ex10384", "hypothesis": "The secretary believed the actor .", "premise": "The secretary believed the actor avoided the athlete .", "label": "non-entailment"}
+{"index": "ex10385", "hypothesis": "The artists heard the senators .", "premise": "The artists heard the senators slept .", "label": "non-entailment"}
+{"index": "ex10386", "hypothesis": "The president knew the banker .", "premise": "The president knew the banker slept .", "label": "non-entailment"}
+{"index": "ex10387", "hypothesis": "The secretaries heard the lawyers .", "premise": "The secretaries heard the lawyers ran .", "label": "non-entailment"}
+{"index": "ex10388", "hypothesis": "The actors believed the lawyer .", "premise": "The actors believed the lawyer supported the athlete .", "label": "non-entailment"}
+{"index": "ex10389", "hypothesis": "The students believed the lawyers .", "premise": "The students believed the lawyers called the athletes .", "label": "non-entailment"}
+{"index": "ex10390", "hypothesis": "The senator knew the lawyers .", "premise": "The senator knew the lawyers stopped the bankers .", "label": "non-entailment"}
+{"index": "ex10391", "hypothesis": "The author heard the scientist .", "premise": "The author heard the scientist performed .", "label": "non-entailment"}
+{"index": "ex10392", "hypothesis": "The artist knew the president .", "premise": "The artist knew the president ran .", "label": "non-entailment"}
+{"index": "ex10393", "hypothesis": "The managers heard the professor .", "premise": "The managers heard the professor supported the author .", "label": "non-entailment"}
+{"index": "ex10394", "hypothesis": "The athletes believed the scientist .", "premise": "The athletes believed the scientist introduced the professor .", "label": "non-entailment"}
+{"index": "ex10395", "hypothesis": "The managers heard the students .", "premise": "The managers heard the students slept .", "label": "non-entailment"}
+{"index": "ex10396", "hypothesis": "The athletes knew the lawyers .", "premise": "The athletes knew the lawyers introduced the scientists .", "label": "non-entailment"}
+{"index": "ex10397", "hypothesis": "The manager heard the artist .", "premise": "The manager heard the artist thanked the professor .", "label": "non-entailment"}
+{"index": "ex10398", "hypothesis": "The athletes believed the scientist .", "premise": "The athletes believed the scientist admired the banker .", "label": "non-entailment"}
+{"index": "ex10399", "hypothesis": "The authors believed the presidents .", "premise": "The authors believed the presidents arrived .", "label": "non-entailment"}
+{"index": "ex10400", "hypothesis": "The presidents knew the secretary .", "premise": "The presidents knew the secretary resigned .", "label": "non-entailment"}
+{"index": "ex10401", "hypothesis": "The lawyer heard the scientist .", "premise": "The lawyer heard the scientist introduced the doctors .", "label": "non-entailment"}
+{"index": "ex10402", "hypothesis": "The artists knew the manager .", "premise": "The artists knew the manager shouted .", "label": "non-entailment"}
+{"index": "ex10403", "hypothesis": "The doctors believed the scientists .", "premise": "The doctors believed the scientists recognized the bankers .", "label": "non-entailment"}
+{"index": "ex10404", "hypothesis": "The manager believed the doctors .", "premise": "The manager believed the doctors thanked the judge .", "label": "non-entailment"}
+{"index": "ex10405", "hypothesis": "The president heard the bankers .", "premise": "The president heard the bankers resigned .", "label": "non-entailment"}
+{"index": "ex10406", "hypothesis": "The judges heard the secretary .", "premise": "The judges heard the secretary arrived .", "label": "non-entailment"}
+{"index": "ex10407", "hypothesis": "The tourist knew the professor .", "premise": "The tourist knew the professor recognized the artist .", "label": "non-entailment"}
+{"index": "ex10408", "hypothesis": "The senators knew the banker .", "premise": "The senators knew the banker slept .", "label": "non-entailment"}
+{"index": "ex10409", "hypothesis": "The presidents believed the banker .", "premise": "The presidents believed the banker supported the manager .", "label": "non-entailment"}
+{"index": "ex10410", "hypothesis": "The tourists knew the lawyers .", "premise": "The tourists knew the lawyers introduced the authors .", "label": "non-entailment"}
+{"index": "ex10411", "hypothesis": "The artist believed the judges .", "premise": "The artist believed the judges resigned .", "label": "non-entailment"}
+{"index": "ex10412", "hypothesis": "The students knew the artists .", "premise": "The students knew the artists waited .", "label": "non-entailment"}
+{"index": "ex10413", "hypothesis": "The judge knew the students .", "premise": "The judge knew the students slept .", "label": "non-entailment"}
+{"index": "ex10414", "hypothesis": "The president believed the scientists .", "premise": "The president believed the scientists helped the senator .", "label": "non-entailment"}
+{"index": "ex10415", "hypothesis": "The doctor heard the author .", "premise": "The doctor heard the author thanked the president .", "label": "non-entailment"}
+{"index": "ex10416", "hypothesis": "The judge believed the manager .", "premise": "The judge believed the manager ran .", "label": "non-entailment"}
+{"index": "ex10417", "hypothesis": "The professor knew the manager .", "premise": "The professor knew the manager shouted .", "label": "non-entailment"}
+{"index": "ex10418", "hypothesis": "The artist believed the authors .", "premise": "The artist believed the authors contacted the banker .", "label": "non-entailment"}
+{"index": "ex10419", "hypothesis": "The doctor heard the athlete .", "premise": "The doctor heard the athlete ran .", "label": "non-entailment"}
+{"index": "ex10420", "hypothesis": "The artist believed the lawyers .", "premise": "The artist believed the lawyers supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10421", "hypothesis": "The athlete heard the manager .", "premise": "The athlete heard the manager recognized the senators .", "label": "non-entailment"}
+{"index": "ex10422", "hypothesis": "The secretaries knew the judge .", "premise": "The secretaries knew the judge introduced the doctors .", "label": "non-entailment"}
+{"index": "ex10423", "hypothesis": "The artists believed the authors .", "premise": "The artists believed the authors supported the students .", "label": "non-entailment"}
+{"index": "ex10424", "hypothesis": "The president heard the doctors .", "premise": "The president heard the doctors ran .", "label": "non-entailment"}
+{"index": "ex10425", "hypothesis": "The senator believed the lawyer .", "premise": "The senator believed the lawyer recommended the artists .", "label": "non-entailment"}
+{"index": "ex10426", "hypothesis": "The lawyers knew the presidents .", "premise": "The lawyers knew the presidents ran .", "label": "non-entailment"}
+{"index": "ex10427", "hypothesis": "The doctors knew the scientists .", "premise": "The doctors knew the scientists helped the managers .", "label": "non-entailment"}
+{"index": "ex10428", "hypothesis": "The authors knew the tourist .", "premise": "The authors knew the tourist arrived .", "label": "non-entailment"}
+{"index": "ex10429", "hypothesis": "The senator heard the secretary .", "premise": "The senator heard the secretary danced .", "label": "non-entailment"}
+{"index": "ex10430", "hypothesis": "The professors heard the tourist .", "premise": "The professors heard the tourist shouted .", "label": "non-entailment"}
+{"index": "ex10431", "hypothesis": "The actors believed the athlete .", "premise": "The actors believed the athlete supported the banker .", "label": "non-entailment"}
+{"index": "ex10432", "hypothesis": "The students knew the presidents .", "premise": "The students knew the presidents admired the artists .", "label": "non-entailment"}
+{"index": "ex10433", "hypothesis": "The tourists heard the artist .", "premise": "The tourists heard the artist believed the authors .", "label": "non-entailment"}
+{"index": "ex10434", "hypothesis": "The manager heard the professor .", "premise": "The manager heard the professor admired the artists .", "label": "non-entailment"}
+{"index": "ex10435", "hypothesis": "The actor believed the president .", "premise": "The actor believed the president performed .", "label": "non-entailment"}
+{"index": "ex10436", "hypothesis": "The judge heard the professors .", "premise": "The judge heard the professors recognized the senators .", "label": "non-entailment"}
+{"index": "ex10437", "hypothesis": "The bankers believed the judge .", "premise": "The bankers believed the judge shouted .", "label": "non-entailment"}
+{"index": "ex10438", "hypothesis": "The scientists heard the lawyer .", "premise": "The scientists heard the lawyer helped the tourists .", "label": "non-entailment"}
+{"index": "ex10439", "hypothesis": "The manager knew the scientist .", "premise": "The manager knew the scientist danced .", "label": "non-entailment"}
+{"index": "ex10440", "hypothesis": "The banker heard the tourists .", "premise": "The banker heard the tourists helped the athletes .", "label": "non-entailment"}
+{"index": "ex10441", "hypothesis": "The senator believed the athlete .", "premise": "The senator believed the athlete thanked the scientist .", "label": "non-entailment"}
+{"index": "ex10442", "hypothesis": "The judge heard the lawyer .", "premise": "The judge heard the lawyer recognized the manager .", "label": "non-entailment"}
+{"index": "ex10443", "hypothesis": "The manager believed the athlete .", "premise": "The manager believed the athlete supported the judge .", "label": "non-entailment"}
+{"index": "ex10444", "hypothesis": "The actors knew the judge .", "premise": "The actors knew the judge contacted the artists .", "label": "non-entailment"}
+{"index": "ex10445", "hypothesis": "The judges believed the secretaries .", "premise": "The judges believed the secretaries shouted .", "label": "non-entailment"}
+{"index": "ex10446", "hypothesis": "The senator heard the secretary .", "premise": "The senator heard the secretary waited .", "label": "non-entailment"}
+{"index": "ex10447", "hypothesis": "The artist knew the lawyers .", "premise": "The artist knew the lawyers stopped the scientist .", "label": "non-entailment"}
+{"index": "ex10448", "hypothesis": "The judge believed the lawyers .", "premise": "The judge believed the lawyers arrived .", "label": "non-entailment"}
+{"index": "ex10449", "hypothesis": "The students believed the secretaries .", "premise": "The students believed the secretaries avoided the artist .", "label": "non-entailment"}
+{"index": "ex10450", "hypothesis": "The lawyer knew the scientist .", "premise": "The lawyer knew the scientist thanked the judge .", "label": "non-entailment"}
+{"index": "ex10451", "hypothesis": "The artists knew the judges .", "premise": "The artists knew the judges thanked the actor .", "label": "non-entailment"}
+{"index": "ex10452", "hypothesis": "The athletes believed the artists .", "premise": "The athletes believed the artists stopped the banker .", "label": "non-entailment"}
+{"index": "ex10453", "hypothesis": "The managers knew the actor .", "premise": "The managers knew the actor encouraged the scientist .", "label": "non-entailment"}
+{"index": "ex10454", "hypothesis": "The scientists believed the artist .", "premise": "The scientists believed the artist helped the professor .", "label": "non-entailment"}
+{"index": "ex10455", "hypothesis": "The bankers believed the artist .", "premise": "The bankers believed the artist avoided the doctor .", "label": "non-entailment"}
+{"index": "ex10456", "hypothesis": "The bankers heard the manager .", "premise": "The bankers heard the manager stopped the senators .", "label": "non-entailment"}
+{"index": "ex10457", "hypothesis": "The authors heard the lawyers .", "premise": "The authors heard the lawyers slept .", "label": "non-entailment"}
+{"index": "ex10458", "hypothesis": "The senators believed the secretaries .", "premise": "The senators believed the secretaries resigned .", "label": "non-entailment"}
+{"index": "ex10459", "hypothesis": "The secretary heard the students .", "premise": "The secretary heard the students recommended the author .", "label": "non-entailment"}
+{"index": "ex10460", "hypothesis": "The student heard the bankers .", "premise": "The student heard the bankers arrived .", "label": "non-entailment"}
+{"index": "ex10461", "hypothesis": "The author believed the managers .", "premise": "The author believed the managers avoided the judge .", "label": "non-entailment"}
+{"index": "ex10462", "hypothesis": "The senator knew the actors .", "premise": "The senator knew the actors stopped the banker .", "label": "non-entailment"}
+{"index": "ex10463", "hypothesis": "The professors believed the tourists .", "premise": "The professors believed the tourists recommended the president .", "label": "non-entailment"}
+{"index": "ex10464", "hypothesis": "The athletes knew the artists .", "premise": "The athletes knew the artists encouraged the senator .", "label": "non-entailment"}
+{"index": "ex10465", "hypothesis": "The actors believed the senators .", "premise": "The actors believed the senators advised the manager .", "label": "non-entailment"}
+{"index": "ex10466", "hypothesis": "The actor heard the athletes .", "premise": "The actor heard the athletes called the senators .", "label": "non-entailment"}
+{"index": "ex10467", "hypothesis": "The artists knew the actor .", "premise": "The artists knew the actor called the scientists .", "label": "non-entailment"}
+{"index": "ex10468", "hypothesis": "The banker believed the managers .", "premise": "The banker believed the managers performed .", "label": "non-entailment"}
+{"index": "ex10469", "hypothesis": "The athlete knew the tourist .", "premise": "The athlete knew the tourist shouted .", "label": "non-entailment"}
+{"index": "ex10471", "hypothesis": "The student knew the president .", "premise": "The student knew the president slept .", "label": "non-entailment"}
+{"index": "ex10472", "hypothesis": "The scientists believed the presidents .", "premise": "The scientists believed the presidents saw the doctors .", "label": "non-entailment"}
+{"index": "ex10473", "hypothesis": "The students knew the president .", "premise": "The students knew the president admired the scientist .", "label": "non-entailment"}
+{"index": "ex10474", "hypothesis": "The artist knew the actors .", "premise": "The artist knew the actors supported the student .", "label": "non-entailment"}
+{"index": "ex10475", "hypothesis": "The student believed the lawyers .", "premise": "The student believed the lawyers thanked the bankers .", "label": "non-entailment"}
+{"index": "ex10476", "hypothesis": "The banker heard the author .", "premise": "The banker heard the author called the manager .", "label": "non-entailment"}
+{"index": "ex10477", "hypothesis": "The actors knew the athletes .", "premise": "The actors knew the athletes thanked the doctors .", "label": "non-entailment"}
+{"index": "ex10478", "hypothesis": "The actors believed the artist .", "premise": "The actors believed the artist mentioned the athlete .", "label": "non-entailment"}
+{"index": "ex10479", "hypothesis": "The athletes believed the scientist .", "premise": "The athletes believed the scientist introduced the artist .", "label": "non-entailment"}
+{"index": "ex10480", "hypothesis": "The presidents heard the lawyers .", "premise": "The presidents heard the lawyers slept .", "label": "non-entailment"}
+{"index": "ex10481", "hypothesis": "The actors heard the artist .", "premise": "The actors heard the artist recognized the banker .", "label": "non-entailment"}
+{"index": "ex10482", "hypothesis": "The senator knew the manager .", "premise": "The senator knew the manager advised the banker .", "label": "non-entailment"}
+{"index": "ex10483", "hypothesis": "The judge heard the student .", "premise": "The judge heard the student waited .", "label": "non-entailment"}
+{"index": "ex10484", "hypothesis": "The doctor heard the authors .", "premise": "The doctor heard the authors resigned .", "label": "non-entailment"}
+{"index": "ex10485", "hypothesis": "The students heard the doctors .", "premise": "The students heard the doctors stopped the banker .", "label": "non-entailment"}
+{"index": "ex10486", "hypothesis": "The lawyer believed the athletes .", "premise": "The lawyer believed the athletes supported the senator .", "label": "non-entailment"}
+{"index": "ex10487", "hypothesis": "The actors knew the tourists .", "premise": "The actors knew the tourists supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10488", "hypothesis": "The athletes believed the secretary .", "premise": "The athletes believed the secretary arrived .", "label": "non-entailment"}
+{"index": "ex10489", "hypothesis": "The lawyers knew the actors .", "premise": "The lawyers knew the actors contacted the secretary .", "label": "non-entailment"}
+{"index": "ex10490", "hypothesis": "The bankers believed the senator .", "premise": "The bankers believed the senator waited .", "label": "non-entailment"}
+{"index": "ex10491", "hypothesis": "The secretary heard the authors .", "premise": "The secretary heard the authors slept .", "label": "non-entailment"}
+{"index": "ex10492", "hypothesis": "The artist knew the athletes .", "premise": "The artist knew the athletes thanked the professors .", "label": "non-entailment"}
+{"index": "ex10493", "hypothesis": "The student believed the actors .", "premise": "The student believed the actors admired the presidents .", "label": "non-entailment"}
+{"index": "ex10494", "hypothesis": "The professors believed the tourists .", "premise": "The professors believed the tourists performed .", "label": "non-entailment"}
+{"index": "ex10495", "hypothesis": "The secretaries knew the judges .", "premise": "The secretaries knew the judges saw the banker .", "label": "non-entailment"}
+{"index": "ex10496", "hypothesis": "The doctor heard the actor .", "premise": "The doctor heard the actor avoided the artist .", "label": "non-entailment"}
+{"index": "ex10497", "hypothesis": "The student heard the athlete .", "premise": "The student heard the athlete waited .", "label": "non-entailment"}
+{"index": "ex10498", "hypothesis": "The doctors believed the judges .", "premise": "The doctors believed the judges introduced the lawyers .", "label": "non-entailment"}
+{"index": "ex10499", "hypothesis": "The senators knew the tourists .", "premise": "The senators knew the tourists shouted .", "label": "non-entailment"}
+{"index": "ex10500", "hypothesis": "The athlete heard the bankers .", "premise": "The athlete heard the bankers slept .", "label": "non-entailment"}
+{"index": "ex10501", "hypothesis": "The professors believed the students .", "premise": "The professors believed the students called the doctors .", "label": "non-entailment"}
+{"index": "ex10502", "hypothesis": "The secretary knew the tourist .", "premise": "The secretary knew the tourist mentioned the judge .", "label": "non-entailment"}
+{"index": "ex10503", "hypothesis": "The scientists heard the tourists .", "premise": "The scientists heard the tourists recognized the artists .", "label": "non-entailment"}
+{"index": "ex10504", "hypothesis": "The banker knew the judge .", "premise": "The banker knew the judge encouraged the author .", "label": "non-entailment"}
+{"index": "ex10505", "hypothesis": "The athletes believed the tourist .", "premise": "The athletes believed the tourist arrived .", "label": "non-entailment"}
+{"index": "ex10506", "hypothesis": "The authors knew the judge .", "premise": "The authors knew the judge waited .", "label": "non-entailment"}
+{"index": "ex10507", "hypothesis": "The students heard the managers .", "premise": "The students heard the managers believed the authors .", "label": "non-entailment"}
+{"index": "ex10508", "hypothesis": "The lawyers heard the manager .", "premise": "The lawyers heard the manager advised the doctors .", "label": "non-entailment"}
+{"index": "ex10509", "hypothesis": "The senator knew the bankers .", "premise": "The senator knew the bankers recognized the presidents .", "label": "non-entailment"}
+{"index": "ex10510", "hypothesis": "The authors heard the scientists .", "premise": "The authors heard the scientists admired the secretary .", "label": "non-entailment"}
+{"index": "ex10511", "hypothesis": "The scientist knew the tourist .", "premise": "The scientist knew the tourist helped the bankers .", "label": "non-entailment"}
+{"index": "ex10512", "hypothesis": "The artists believed the secretaries .", "premise": "The artists believed the secretaries encouraged the doctors .", "label": "non-entailment"}
+{"index": "ex10513", "hypothesis": "The author knew the student .", "premise": "The author knew the student recommended the senator .", "label": "non-entailment"}
+{"index": "ex10514", "hypothesis": "The senator heard the athlete .", "premise": "The senator heard the athlete encouraged the actor .", "label": "non-entailment"}
+{"index": "ex10515", "hypothesis": "The judges heard the manager .", "premise": "The judges heard the manager saw the author .", "label": "non-entailment"}
+{"index": "ex10516", "hypothesis": "The bankers believed the senator .", "premise": "The bankers believed the senator contacted the doctor .", "label": "non-entailment"}
+{"index": "ex10517", "hypothesis": "The manager heard the presidents .", "premise": "The manager heard the presidents shouted .", "label": "non-entailment"}
+{"index": "ex10518", "hypothesis": "The actors believed the judges .", "premise": "The actors believed the judges encouraged the tourist .", "label": "non-entailment"}
+{"index": "ex10519", "hypothesis": "The professor knew the actor .", "premise": "The professor knew the actor shouted .", "label": "non-entailment"}
+{"index": "ex10520", "hypothesis": "The artist knew the manager .", "premise": "The artist knew the manager waited .", "label": "non-entailment"}
+{"index": "ex10521", "hypothesis": "The professor knew the senator .", "premise": "The professor knew the senator recognized the authors .", "label": "non-entailment"}
+{"index": "ex10522", "hypothesis": "The tourist knew the judges .", "premise": "The tourist knew the judges shouted .", "label": "non-entailment"}
+{"index": "ex10523", "hypothesis": "The students knew the actors .", "premise": "The students knew the actors advised the author .", "label": "non-entailment"}
+{"index": "ex10524", "hypothesis": "The professors knew the senator .", "premise": "The professors knew the senator performed .", "label": "non-entailment"}
+{"index": "ex10525", "hypothesis": "The artists knew the scientist .", "premise": "The artists knew the scientist encouraged the lawyers .", "label": "non-entailment"}
+{"index": "ex10526", "hypothesis": "The president heard the judges .", "premise": "The president heard the judges helped the lawyers .", "label": "non-entailment"}
+{"index": "ex10527", "hypothesis": "The manager heard the scientist .", "premise": "The manager heard the scientist thanked the student .", "label": "non-entailment"}
+{"index": "ex10528", "hypothesis": "The authors believed the presidents .", "premise": "The authors believed the presidents waited .", "label": "non-entailment"}
+{"index": "ex10529", "hypothesis": "The tourist knew the artist .", "premise": "The tourist knew the artist believed the managers .", "label": "non-entailment"}
+{"index": "ex10530", "hypothesis": "The artists heard the tourists .", "premise": "The artists heard the tourists danced .", "label": "non-entailment"}
+{"index": "ex10531", "hypothesis": "The students heard the actor .", "premise": "The students heard the actor recognized the president .", "label": "non-entailment"}
+{"index": "ex10532", "hypothesis": "The senators believed the artist .", "premise": "The senators believed the artist introduced the doctors .", "label": "non-entailment"}
+{"index": "ex10534", "hypothesis": "The secretary heard the artist .", "premise": "The secretary heard the artist performed .", "label": "non-entailment"}
+{"index": "ex10535", "hypothesis": "The judge heard the doctor .", "premise": "The judge heard the doctor supported the president .", "label": "non-entailment"}
+{"index": "ex10536", "hypothesis": "The author knew the secretaries .", "premise": "The author knew the secretaries believed the managers .", "label": "non-entailment"}
+{"index": "ex10537", "hypothesis": "The professor heard the lawyer .", "premise": "The professor heard the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10538", "hypothesis": "The president believed the secretaries .", "premise": "The president believed the secretaries supported the managers .", "label": "non-entailment"}
+{"index": "ex10539", "hypothesis": "The authors heard the banker .", "premise": "The authors heard the banker recommended the presidents .", "label": "non-entailment"}
+{"index": "ex10540", "hypothesis": "The secretaries knew the actors .", "premise": "The secretaries knew the actors called the athlete .", "label": "non-entailment"}
+{"index": "ex10541", "hypothesis": "The president heard the secretary .", "premise": "The president heard the secretary contacted the scientist .", "label": "non-entailment"}
+{"index": "ex10542", "hypothesis": "The presidents knew the senators .", "premise": "The presidents knew the senators encouraged the actors .", "label": "non-entailment"}
+{"index": "ex10543", "hypothesis": "The doctors knew the tourist .", "premise": "The doctors knew the tourist advised the manager .", "label": "non-entailment"}
+{"index": "ex10544", "hypothesis": "The senators knew the lawyer .", "premise": "The senators knew the lawyer slept .", "label": "non-entailment"}
+{"index": "ex10545", "hypothesis": "The lawyer believed the artists .", "premise": "The lawyer believed the artists performed .", "label": "non-entailment"}
+{"index": "ex10546", "hypothesis": "The doctors knew the scientist .", "premise": "The doctors knew the scientist danced .", "label": "non-entailment"}
+{"index": "ex10547", "hypothesis": "The senators believed the scientist .", "premise": "The senators believed the scientist performed .", "label": "non-entailment"}
+{"index": "ex10548", "hypothesis": "The actor heard the artist .", "premise": "The actor heard the artist ran .", "label": "non-entailment"}
+{"index": "ex10549", "hypothesis": "The artist heard the athletes .", "premise": "The artist heard the athletes believed the senators .", "label": "non-entailment"}
+{"index": "ex10550", "hypothesis": "The secretary knew the tourist .", "premise": "The secretary knew the tourist shouted .", "label": "non-entailment"}
+{"index": "ex10551", "hypothesis": "The tourist heard the senator .", "premise": "The tourist heard the senator recognized the professor .", "label": "non-entailment"}
+{"index": "ex10552", "hypothesis": "The senator believed the doctor .", "premise": "The senator believed the doctor waited .", "label": "non-entailment"}
+{"index": "ex10553", "hypothesis": "The managers heard the president .", "premise": "The managers heard the president introduced the judge .", "label": "non-entailment"}
+{"index": "ex10554", "hypothesis": "The scientists knew the president .", "premise": "The scientists knew the president mentioned the athlete .", "label": "non-entailment"}
+{"index": "ex10555", "hypothesis": "The actor believed the athlete .", "premise": "The actor believed the athlete supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10556", "hypothesis": "The professor knew the judge .", "premise": "The professor knew the judge stopped the lawyer .", "label": "non-entailment"}
+{"index": "ex10557", "hypothesis": "The actors knew the artists .", "premise": "The actors knew the artists believed the doctor .", "label": "non-entailment"}
+{"index": "ex10558", "hypothesis": "The artists heard the secretary .", "premise": "The artists heard the secretary helped the actor .", "label": "non-entailment"}
+{"index": "ex10559", "hypothesis": "The secretary heard the judges .", "premise": "The secretary heard the judges supported the students .", "label": "non-entailment"}
+{"index": "ex10560", "hypothesis": "The judges believed the authors .", "premise": "The judges believed the authors slept .", "label": "non-entailment"}
+{"index": "ex10561", "hypothesis": "The presidents believed the doctor .", "premise": "The presidents believed the doctor saw the artists .", "label": "non-entailment"}
+{"index": "ex10562", "hypothesis": "The doctors believed the professors .", "premise": "The doctors believed the professors arrived .", "label": "non-entailment"}
+{"index": "ex10563", "hypothesis": "The actor believed the secretaries .", "premise": "The actor believed the secretaries waited .", "label": "non-entailment"}
+{"index": "ex10564", "hypothesis": "The professor believed the tourists .", "premise": "The professor believed the tourists resigned .", "label": "non-entailment"}
+{"index": "ex10565", "hypothesis": "The tourist believed the senators .", "premise": "The tourist believed the senators introduced the lawyer .", "label": "non-entailment"}
+{"index": "ex10566", "hypothesis": "The managers believed the senators .", "premise": "The managers believed the senators thanked the actors .", "label": "non-entailment"}
+{"index": "ex10567", "hypothesis": "The athlete heard the senator .", "premise": "The athlete heard the senator admired the lawyers .", "label": "non-entailment"}
+{"index": "ex10568", "hypothesis": "The senator heard the judge .", "premise": "The senator heard the judge believed the scientists .", "label": "non-entailment"}
+{"index": "ex10569", "hypothesis": "The doctor knew the actors .", "premise": "The doctor knew the actors arrived .", "label": "non-entailment"}
+{"index": "ex10570", "hypothesis": "The scientists believed the authors .", "premise": "The scientists believed the authors stopped the president .", "label": "non-entailment"}
+{"index": "ex10571", "hypothesis": "The secretaries heard the scientist .", "premise": "The secretaries heard the scientist recognized the judge .", "label": "non-entailment"}
+{"index": "ex10572", "hypothesis": "The lawyer heard the bankers .", "premise": "The lawyer heard the bankers slept .", "label": "non-entailment"}
+{"index": "ex10573", "hypothesis": "The scientist knew the manager .", "premise": "The scientist knew the manager mentioned the secretary .", "label": "non-entailment"}
+{"index": "ex10574", "hypothesis": "The doctor heard the artists .", "premise": "The doctor heard the artists admired the manager .", "label": "non-entailment"}
+{"index": "ex10575", "hypothesis": "The scientist believed the student .", "premise": "The scientist believed the student danced .", "label": "non-entailment"}
+{"index": "ex10576", "hypothesis": "The lawyer knew the artist .", "premise": "The lawyer knew the artist contacted the secretary .", "label": "non-entailment"}
+{"index": "ex10577", "hypothesis": "The authors heard the athletes .", "premise": "The authors heard the athletes ran .", "label": "non-entailment"}
+{"index": "ex10578", "hypothesis": "The scientists heard the actors .", "premise": "The scientists heard the actors ran .", "label": "non-entailment"}
+{"index": "ex10579", "hypothesis": "The students heard the tourists .", "premise": "The students heard the tourists waited .", "label": "non-entailment"}
+{"index": "ex10580", "hypothesis": "The presidents knew the actor .", "premise": "The presidents knew the actor called the athletes .", "label": "non-entailment"}
+{"index": "ex10581", "hypothesis": "The judges knew the artist .", "premise": "The judges knew the artist avoided the tourists .", "label": "non-entailment"}
+{"index": "ex10582", "hypothesis": "The judge heard the lawyers .", "premise": "The judge heard the lawyers danced .", "label": "non-entailment"}
+{"index": "ex10583", "hypothesis": "The athletes heard the tourist .", "premise": "The athletes heard the tourist slept .", "label": "non-entailment"}
+{"index": "ex10584", "hypothesis": "The judge knew the student .", "premise": "The judge knew the student thanked the doctor .", "label": "non-entailment"}
+{"index": "ex10585", "hypothesis": "The professor believed the manager .", "premise": "The professor believed the manager stopped the tourist .", "label": "non-entailment"}
+{"index": "ex10586", "hypothesis": "The professors heard the presidents .", "premise": "The professors heard the presidents waited .", "label": "non-entailment"}
+{"index": "ex10587", "hypothesis": "The senators believed the lawyer .", "premise": "The senators believed the lawyer ran .", "label": "non-entailment"}
+{"index": "ex10588", "hypothesis": "The secretaries heard the student .", "premise": "The secretaries heard the student shouted .", "label": "non-entailment"}
+{"index": "ex10589", "hypothesis": "The scientist believed the senator .", "premise": "The scientist believed the senator supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10590", "hypothesis": "The lawyers heard the actor .", "premise": "The lawyers heard the actor helped the students .", "label": "non-entailment"}
+{"index": "ex10591", "hypothesis": "The lawyer heard the student .", "premise": "The lawyer heard the student thanked the judges .", "label": "non-entailment"}
+{"index": "ex10592", "hypothesis": "The athlete heard the lawyer .", "premise": "The athlete heard the lawyer slept .", "label": "non-entailment"}
+{"index": "ex10593", "hypothesis": "The author believed the student .", "premise": "The author believed the student helped the judge .", "label": "non-entailment"}
+{"index": "ex10594", "hypothesis": "The senators knew the student .", "premise": "The senators knew the student advised the artist .", "label": "non-entailment"}
+{"index": "ex10595", "hypothesis": "The senators believed the secretaries .", "premise": "The senators believed the secretaries advised the scientist .", "label": "non-entailment"}
+{"index": "ex10596", "hypothesis": "The doctor heard the actors .", "premise": "The doctor heard the actors waited .", "label": "non-entailment"}
+{"index": "ex10597", "hypothesis": "The artist believed the banker .", "premise": "The artist believed the banker saw the athlete .", "label": "non-entailment"}
+{"index": "ex10598", "hypothesis": "The authors believed the scientists .", "premise": "The authors believed the scientists performed .", "label": "non-entailment"}
+{"index": "ex10599", "hypothesis": "The professors believed the athlete .", "premise": "The professors believed the athlete waited .", "label": "non-entailment"}
+{"index": "ex10600", "hypothesis": "The secretary knew the doctors .", "premise": "The secretary knew the doctors advised the author .", "label": "non-entailment"}
+{"index": "ex10601", "hypothesis": "The senator knew the lawyer .", "premise": "The senator knew the lawyer introduced the doctors .", "label": "non-entailment"}
+{"index": "ex10602", "hypothesis": "The lawyers knew the judges .", "premise": "The lawyers knew the judges waited .", "label": "non-entailment"}
+{"index": "ex10603", "hypothesis": "The lawyer heard the students .", "premise": "The lawyer heard the students performed .", "label": "non-entailment"}
+{"index": "ex10605", "hypothesis": "The doctors heard the artist .", "premise": "The doctors heard the artist shouted .", "label": "non-entailment"}
+{"index": "ex10606", "hypothesis": "The judge believed the tourists .", "premise": "The judge believed the tourists recommended the actor .", "label": "non-entailment"}
+{"index": "ex10607", "hypothesis": "The presidents believed the artist .", "premise": "The presidents believed the artist saw the actor .", "label": "non-entailment"}
+{"index": "ex10608", "hypothesis": "The tourist knew the judges .", "premise": "The tourist knew the judges supported the senator .", "label": "non-entailment"}
+{"index": "ex10609", "hypothesis": "The actor knew the doctors .", "premise": "The actor knew the doctors advised the senators .", "label": "non-entailment"}
+{"index": "ex10610", "hypothesis": "The athletes heard the secretaries .", "premise": "The athletes heard the secretaries admired the authors .", "label": "non-entailment"}
+{"index": "ex10612", "hypothesis": "The bankers knew the senators .", "premise": "The bankers knew the senators believed the judges .", "label": "non-entailment"}
+{"index": "ex10613", "hypothesis": "The doctors believed the scientists .", "premise": "The doctors believed the scientists mentioned the senators .", "label": "non-entailment"}
+{"index": "ex10614", "hypothesis": "The professor knew the doctor .", "premise": "The professor knew the doctor shouted .", "label": "non-entailment"}
+{"index": "ex10615", "hypothesis": "The authors heard the judge .", "premise": "The authors heard the judge thanked the professor .", "label": "non-entailment"}
+{"index": "ex10616", "hypothesis": "The author believed the students .", "premise": "The author believed the students encouraged the lawyer .", "label": "non-entailment"}
+{"index": "ex10617", "hypothesis": "The athlete believed the scientists .", "premise": "The athlete believed the scientists called the professors .", "label": "non-entailment"}
+{"index": "ex10618", "hypothesis": "The author heard the secretary .", "premise": "The author heard the secretary avoided the banker .", "label": "non-entailment"}
+{"index": "ex10619", "hypothesis": "The bankers heard the tourists .", "premise": "The bankers heard the tourists slept .", "label": "non-entailment"}
+{"index": "ex10620", "hypothesis": "The scientists heard the tourist .", "premise": "The scientists heard the tourist thanked the doctor .", "label": "non-entailment"}
+{"index": "ex10621", "hypothesis": "The athlete believed the judge .", "premise": "The athlete believed the judge recommended the manager .", "label": "non-entailment"}
+{"index": "ex10622", "hypothesis": "The lawyer believed the bankers .", "premise": "The lawyer believed the bankers saw the scientists .", "label": "non-entailment"}
+{"index": "ex10623", "hypothesis": "The students believed the banker .", "premise": "The students believed the banker recommended the senators .", "label": "non-entailment"}
+{"index": "ex10624", "hypothesis": "The senator believed the presidents .", "premise": "The senator believed the presidents contacted the doctors .", "label": "non-entailment"}
+{"index": "ex10625", "hypothesis": "The scientist believed the author .", "premise": "The scientist believed the author admired the secretaries .", "label": "non-entailment"}
+{"index": "ex10626", "hypothesis": "The authors believed the bankers .", "premise": "The authors believed the bankers recommended the lawyer .", "label": "non-entailment"}
+{"index": "ex10627", "hypothesis": "The lawyers heard the bankers .", "premise": "The lawyers heard the bankers danced .", "label": "non-entailment"}
+{"index": "ex10628", "hypothesis": "The professor believed the manager .", "premise": "The professor believed the manager mentioned the judges .", "label": "non-entailment"}
+{"index": "ex10629", "hypothesis": "The secretaries heard the doctor .", "premise": "The secretaries heard the doctor introduced the professors .", "label": "non-entailment"}
+{"index": "ex10630", "hypothesis": "The students heard the professors .", "premise": "The students heard the professors contacted the artists .", "label": "non-entailment"}
+{"index": "ex10631", "hypothesis": "The manager believed the authors .", "premise": "The manager believed the authors stopped the professors .", "label": "non-entailment"}
+{"index": "ex10632", "hypothesis": "The actors heard the tourist .", "premise": "The actors heard the tourist slept .", "label": "non-entailment"}
+{"index": "ex10633", "hypothesis": "The athlete knew the authors .", "premise": "The athlete knew the authors contacted the artists .", "label": "non-entailment"}
+{"index": "ex10634", "hypothesis": "The scientist heard the secretaries .", "premise": "The scientist heard the secretaries supported the artists .", "label": "non-entailment"}
+{"index": "ex10635", "hypothesis": "The secretary believed the professor .", "premise": "The secretary believed the professor shouted .", "label": "non-entailment"}
+{"index": "ex10636", "hypothesis": "The tourist heard the actors .", "premise": "The tourist heard the actors mentioned the author .", "label": "non-entailment"}
+{"index": "ex10637", "hypothesis": "The actors knew the banker .", "premise": "The actors knew the banker encouraged the judge .", "label": "non-entailment"}
+{"index": "ex10638", "hypothesis": "The athlete heard the secretary .", "premise": "The athlete heard the secretary admired the authors .", "label": "non-entailment"}
+{"index": "ex10639", "hypothesis": "The doctor believed the secretaries .", "premise": "The doctor believed the secretaries helped the authors .", "label": "non-entailment"}
+{"index": "ex10640", "hypothesis": "The presidents knew the scientist .", "premise": "The presidents knew the scientist performed .", "label": "non-entailment"}
+{"index": "ex10641", "hypothesis": "The author knew the professor .", "premise": "The author knew the professor resigned .", "label": "non-entailment"}
+{"index": "ex10642", "hypothesis": "The senators heard the students .", "premise": "The senators heard the students arrived .", "label": "non-entailment"}
+{"index": "ex10643", "hypothesis": "The artist heard the tourist .", "premise": "The artist heard the tourist supported the manager .", "label": "non-entailment"}
+{"index": "ex10644", "hypothesis": "The bankers knew the senators .", "premise": "The bankers knew the senators mentioned the author .", "label": "non-entailment"}
+{"index": "ex10645", "hypothesis": "The president believed the artists .", "premise": "The president believed the artists performed .", "label": "non-entailment"}
+{"index": "ex10646", "hypothesis": "The actors believed the professors .", "premise": "The actors believed the professors supported the tourist .", "label": "non-entailment"}
+{"index": "ex10647", "hypothesis": "The students heard the scientists .", "premise": "The students heard the scientists helped the professors .", "label": "non-entailment"}
+{"index": "ex10648", "hypothesis": "The lawyer believed the professors .", "premise": "The lawyer believed the professors avoided the authors .", "label": "non-entailment"}
+{"index": "ex10649", "hypothesis": "The senators believed the judges .", "premise": "The senators believed the judges slept .", "label": "non-entailment"}
+{"index": "ex10650", "hypothesis": "The athletes heard the artists .", "premise": "The athletes heard the artists recognized the doctor .", "label": "non-entailment"}
+{"index": "ex10651", "hypothesis": "The doctors believed the author .", "premise": "The doctors believed the author supported the lawyer .", "label": "non-entailment"}
+{"index": "ex10652", "hypothesis": "The manager believed the scientist .", "premise": "The manager believed the scientist danced .", "label": "non-entailment"}
+{"index": "ex10653", "hypothesis": "The doctors heard the judge .", "premise": "The doctors heard the judge introduced the banker .", "label": "non-entailment"}
+{"index": "ex10654", "hypothesis": "The doctors heard the president .", "premise": "The doctors heard the president introduced the secretary .", "label": "non-entailment"}
+{"index": "ex10655", "hypothesis": "The authors heard the actor .", "premise": "The authors heard the actor performed .", "label": "non-entailment"}
+{"index": "ex10656", "hypothesis": "The student believed the author .", "premise": "The student believed the author performed .", "label": "non-entailment"}
+{"index": "ex10657", "hypothesis": "The banker heard the secretary .", "premise": "The banker heard the secretary called the professors .", "label": "non-entailment"}
+{"index": "ex10658", "hypothesis": "The scientists heard the students .", "premise": "The scientists heard the students mentioned the doctor .", "label": "non-entailment"}
+{"index": "ex10659", "hypothesis": "The judge heard the professor .", "premise": "The judge heard the professor supported the scientist .", "label": "non-entailment"}
+{"index": "ex10660", "hypothesis": "The doctors believed the senator .", "premise": "The doctors believed the senator recommended the bankers .", "label": "non-entailment"}
+{"index": "ex10661", "hypothesis": "The secretaries heard the lawyers .", "premise": "The secretaries heard the lawyers danced .", "label": "non-entailment"}
+{"index": "ex10662", "hypothesis": "The author believed the secretaries .", "premise": "The author believed the secretaries encouraged the judges .", "label": "non-entailment"}
+{"index": "ex10663", "hypothesis": "The professor believed the authors .", "premise": "The professor believed the authors thanked the senators .", "label": "non-entailment"}
+{"index": "ex10664", "hypothesis": "The lawyers knew the authors .", "premise": "The lawyers knew the authors performed .", "label": "non-entailment"}
+{"index": "ex10665", "hypothesis": "The senators knew the secretary .", "premise": "The senators knew the secretary shouted .", "label": "non-entailment"}
+{"index": "ex10666", "hypothesis": "The manager believed the senators .", "premise": "The manager believed the senators mentioned the author .", "label": "non-entailment"}
+{"index": "ex10667", "hypothesis": "The banker heard the scientists .", "premise": "The banker heard the scientists believed the students .", "label": "non-entailment"}
+{"index": "ex10668", "hypothesis": "The athletes heard the artists .", "premise": "The athletes heard the artists avoided the author .", "label": "non-entailment"}
+{"index": "ex10669", "hypothesis": "The judges knew the presidents .", "premise": "The judges knew the presidents admired the artists .", "label": "non-entailment"}
+{"index": "ex10670", "hypothesis": "The lawyer believed the secretary .", "premise": "The lawyer believed the secretary avoided the professor .", "label": "non-entailment"}
+{"index": "ex10671", "hypothesis": "The lawyer heard the author .", "premise": "The lawyer heard the author recognized the scientist .", "label": "non-entailment"}
+{"index": "ex10672", "hypothesis": "The actor knew the doctors .", "premise": "The actor knew the doctors resigned .", "label": "non-entailment"}
+{"index": "ex10673", "hypothesis": "The tourist knew the presidents .", "premise": "The tourist knew the presidents performed .", "label": "non-entailment"}
+{"index": "ex10674", "hypothesis": "The scientists believed the bankers .", "premise": "The scientists believed the bankers avoided the student .", "label": "non-entailment"}
+{"index": "ex10675", "hypothesis": "The student knew the banker .", "premise": "The student knew the banker contacted the artist .", "label": "non-entailment"}
+{"index": "ex10676", "hypothesis": "The judge heard the athletes .", "premise": "The judge heard the athletes slept .", "label": "non-entailment"}
+{"index": "ex10677", "hypothesis": "The author believed the actor .", "premise": "The author believed the actor arrived .", "label": "non-entailment"}
+{"index": "ex10678", "hypothesis": "The scientists knew the professors .", "premise": "The scientists knew the professors thanked the judges .", "label": "non-entailment"}
+{"index": "ex10679", "hypothesis": "The doctor heard the manager .", "premise": "The doctor heard the manager encouraged the senator .", "label": "non-entailment"}
+{"index": "ex10680", "hypothesis": "The professor heard the athletes .", "premise": "The professor heard the athletes arrived .", "label": "non-entailment"}
+{"index": "ex10681", "hypothesis": "The actors knew the senators .", "premise": "The actors knew the senators supported the doctor .", "label": "non-entailment"}
+{"index": "ex10682", "hypothesis": "The professor heard the artist .", "premise": "The professor heard the artist advised the tourist .", "label": "non-entailment"}
+{"index": "ex10683", "hypothesis": "The managers knew the student .", "premise": "The managers knew the student recognized the secretaries .", "label": "non-entailment"}
+{"index": "ex10684", "hypothesis": "The scientists heard the bankers .", "premise": "The scientists heard the bankers mentioned the authors .", "label": "non-entailment"}
+{"index": "ex10685", "hypothesis": "The manager heard the artists .", "premise": "The manager heard the artists performed .", "label": "non-entailment"}
+{"index": "ex10686", "hypothesis": "The artist knew the managers .", "premise": "The artist knew the managers performed .", "label": "non-entailment"}
+{"index": "ex10687", "hypothesis": "The judge heard the athlete .", "premise": "The judge heard the athlete thanked the student .", "label": "non-entailment"}
+{"index": "ex10688", "hypothesis": "The scientist knew the doctors .", "premise": "The scientist knew the doctors ran .", "label": "non-entailment"}
+{"index": "ex10689", "hypothesis": "The senator heard the manager .", "premise": "The senator heard the manager danced .", "label": "non-entailment"}
+{"index": "ex10690", "hypothesis": "The lawyers heard the tourist .", "premise": "The lawyers heard the tourist arrived .", "label": "non-entailment"}
+{"index": "ex10691", "hypothesis": "The doctors knew the professor .", "premise": "The doctors knew the professor recommended the students .", "label": "non-entailment"}
+{"index": "ex10692", "hypothesis": "The students knew the athletes .", "premise": "The students knew the athletes called the managers .", "label": "non-entailment"}
+{"index": "ex10693", "hypothesis": "The lawyer believed the artists .", "premise": "The lawyer believed the artists thanked the professor .", "label": "non-entailment"}
+{"index": "ex10694", "hypothesis": "The athletes knew the artists .", "premise": "The athletes knew the artists ran .", "label": "non-entailment"}
+{"index": "ex10695", "hypothesis": "The judge believed the athletes .", "premise": "The judge believed the athletes mentioned the professor .", "label": "non-entailment"}
+{"index": "ex10696", "hypothesis": "The manager heard the senator .", "premise": "The manager heard the senator recommended the athlete .", "label": "non-entailment"}
+{"index": "ex10697", "hypothesis": "The managers heard the secretary .", "premise": "The managers heard the secretary admired the doctor .", "label": "non-entailment"}
+{"index": "ex10698", "hypothesis": "The athletes knew the judges .", "premise": "The athletes knew the judges introduced the professor .", "label": "non-entailment"}
+{"index": "ex10699", "hypothesis": "The judge heard the managers .", "premise": "The judge heard the managers performed .", "label": "non-entailment"}
+{"index": "ex10700", "hypothesis": "The bankers heard the secretaries .", "premise": "The bankers heard the secretaries stopped the presidents .", "label": "non-entailment"}
+{"index": "ex10701", "hypothesis": "The manager knew the student .", "premise": "The manager knew the student admired the secretary .", "label": "non-entailment"}
+{"index": "ex10702", "hypothesis": "The manager knew the doctor .", "premise": "The manager knew the doctor helped the secretary .", "label": "non-entailment"}
+{"index": "ex10703", "hypothesis": "The senators knew the judges .", "premise": "The senators knew the judges avoided the banker .", "label": "non-entailment"}
+{"index": "ex10704", "hypothesis": "The artists knew the judges .", "premise": "The artists knew the judges waited .", "label": "non-entailment"}
+{"index": "ex10705", "hypothesis": "The athletes knew the secretary .", "premise": "The athletes knew the secretary admired the authors .", "label": "non-entailment"}
+{"index": "ex10706", "hypothesis": "The secretary knew the lawyers .", "premise": "The secretary knew the lawyers slept .", "label": "non-entailment"}
+{"index": "ex10707", "hypothesis": "The judges knew the professor .", "premise": "The judges knew the professor saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10708", "hypothesis": "The doctors heard the president .", "premise": "The doctors heard the president mentioned the bankers .", "label": "non-entailment"}
+{"index": "ex10709", "hypothesis": "The students heard the president .", "premise": "The students heard the president believed the secretaries .", "label": "non-entailment"}
+{"index": "ex10710", "hypothesis": "The tourist knew the athletes .", "premise": "The tourist knew the athletes helped the artists .", "label": "non-entailment"}
+{"index": "ex10711", "hypothesis": "The presidents heard the manager .", "premise": "The presidents heard the manager saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10712", "hypothesis": "The tourists knew the professors .", "premise": "The tourists knew the professors resigned .", "label": "non-entailment"}
+{"index": "ex10713", "hypothesis": "The lawyer believed the students .", "premise": "The lawyer believed the students advised the manager .", "label": "non-entailment"}
+{"index": "ex10714", "hypothesis": "The scientist knew the tourists .", "premise": "The scientist knew the tourists danced .", "label": "non-entailment"}
+{"index": "ex10715", "hypothesis": "The managers heard the professors .", "premise": "The managers heard the professors helped the lawyers .", "label": "non-entailment"}
+{"index": "ex10716", "hypothesis": "The judges knew the scientists .", "premise": "The judges knew the scientists helped the tourists .", "label": "non-entailment"}
+{"index": "ex10717", "hypothesis": "The secretaries knew the manager .", "premise": "The secretaries knew the manager arrived .", "label": "non-entailment"}
+{"index": "ex10718", "hypothesis": "The tourist heard the presidents .", "premise": "The tourist heard the presidents mentioned the athlete .", "label": "non-entailment"}
+{"index": "ex10719", "hypothesis": "The athlete knew the senators .", "premise": "The athlete knew the senators recommended the president .", "label": "non-entailment"}
+{"index": "ex10720", "hypothesis": "The artist heard the professors .", "premise": "The artist heard the professors encouraged the scientists .", "label": "non-entailment"}
+{"index": "ex10721", "hypothesis": "The athletes believed the students .", "premise": "The athletes believed the students contacted the managers .", "label": "non-entailment"}
+{"index": "ex10722", "hypothesis": "The artist believed the scientist .", "premise": "The artist believed the scientist saw the professor .", "label": "non-entailment"}
+{"index": "ex10723", "hypothesis": "The actors heard the bankers .", "premise": "The actors heard the bankers arrived .", "label": "non-entailment"}
+{"index": "ex10724", "hypothesis": "The scientist believed the tourists .", "premise": "The scientist believed the tourists avoided the senator .", "label": "non-entailment"}
+{"index": "ex10725", "hypothesis": "The athlete believed the professor .", "premise": "The athlete believed the professor recommended the author .", "label": "non-entailment"}
+{"index": "ex10726", "hypothesis": "The judges believed the athletes .", "premise": "The judges believed the athletes recognized the tourists .", "label": "non-entailment"}
+{"index": "ex10727", "hypothesis": "The athletes believed the judges .", "premise": "The athletes believed the judges encouraged the tourist .", "label": "non-entailment"}
+{"index": "ex10728", "hypothesis": "The banker knew the president .", "premise": "The banker knew the president performed .", "label": "non-entailment"}
+{"index": "ex10729", "hypothesis": "The doctors believed the secretaries .", "premise": "The doctors believed the secretaries introduced the artist .", "label": "non-entailment"}
+{"index": "ex10730", "hypothesis": "The professors believed the scientists .", "premise": "The professors believed the scientists avoided the president .", "label": "non-entailment"}
+{"index": "ex10731", "hypothesis": "The professors knew the artist .", "premise": "The professors knew the artist advised the tourists .", "label": "non-entailment"}
+{"index": "ex10732", "hypothesis": "The lawyers heard the doctor .", "premise": "The lawyers heard the doctor saw the author .", "label": "non-entailment"}
+{"index": "ex10733", "hypothesis": "The actor knew the athletes .", "premise": "The actor knew the athletes called the doctor .", "label": "non-entailment"}
+{"index": "ex10734", "hypothesis": "The scientists heard the actor .", "premise": "The scientists heard the actor supported the banker .", "label": "non-entailment"}
+{"index": "ex10735", "hypothesis": "The lawyers knew the scientists .", "premise": "The lawyers knew the scientists admired the author .", "label": "non-entailment"}
+{"index": "ex10736", "hypothesis": "The banker knew the scientist .", "premise": "The banker knew the scientist advised the professor .", "label": "non-entailment"}
+{"index": "ex10737", "hypothesis": "The senators believed the lawyer .", "premise": "The senators believed the lawyer encouraged the author .", "label": "non-entailment"}
+{"index": "ex10738", "hypothesis": "The judges knew the scientist .", "premise": "The judges knew the scientist believed the secretary .", "label": "non-entailment"}
+{"index": "ex10739", "hypothesis": "The judges believed the actors .", "premise": "The judges believed the actors stopped the senator .", "label": "non-entailment"}
+{"index": "ex10740", "hypothesis": "The athletes heard the tourist .", "premise": "The athletes heard the tourist introduced the secretaries .", "label": "non-entailment"}
+{"index": "ex10741", "hypothesis": "The banker heard the judge .", "premise": "The banker heard the judge admired the artists .", "label": "non-entailment"}
+{"index": "ex10742", "hypothesis": "The student believed the tourists .", "premise": "The student believed the tourists admired the professor .", "label": "non-entailment"}
+{"index": "ex10743", "hypothesis": "The banker knew the author .", "premise": "The banker knew the author stopped the scientist .", "label": "non-entailment"}
+{"index": "ex10744", "hypothesis": "The students heard the athletes .", "premise": "The students heard the athletes slept .", "label": "non-entailment"}
+{"index": "ex10745", "hypothesis": "The artist heard the tourist .", "premise": "The artist heard the tourist resigned .", "label": "non-entailment"}
+{"index": "ex10746", "hypothesis": "The scientist heard the manager .", "premise": "The scientist heard the manager thanked the judge .", "label": "non-entailment"}
+{"index": "ex10747", "hypothesis": "The scientists heard the presidents .", "premise": "The scientists heard the presidents slept .", "label": "non-entailment"}
+{"index": "ex10748", "hypothesis": "The senator knew the lawyer .", "premise": "The senator knew the lawyer recommended the doctor .", "label": "non-entailment"}
+{"index": "ex10749", "hypothesis": "The managers heard the artists .", "premise": "The managers heard the artists slept .", "label": "non-entailment"}
+{"index": "ex10750", "hypothesis": "The actors believed the artist .", "premise": "The actors believed the artist recommended the doctor .", "label": "non-entailment"}
+{"index": "ex10751", "hypothesis": "The student heard the doctor .", "premise": "The student heard the doctor resigned .", "label": "non-entailment"}
+{"index": "ex10752", "hypothesis": "The senator heard the tourists .", "premise": "The senator heard the tourists recognized the manager .", "label": "non-entailment"}
+{"index": "ex10753", "hypothesis": "The athlete knew the doctor .", "premise": "The athlete knew the doctor shouted .", "label": "non-entailment"}
+{"index": "ex10754", "hypothesis": "The lawyers knew the senators .", "premise": "The lawyers knew the senators shouted .", "label": "non-entailment"}
+{"index": "ex10755", "hypothesis": "The doctors knew the artists .", "premise": "The doctors knew the artists ran .", "label": "non-entailment"}
+{"index": "ex10756", "hypothesis": "The manager believed the president .", "premise": "The manager believed the president advised the lawyers .", "label": "non-entailment"}
+{"index": "ex10757", "hypothesis": "The senators believed the presidents .", "premise": "The senators believed the presidents resigned .", "label": "non-entailment"}
+{"index": "ex10758", "hypothesis": "The tourist knew the manager .", "premise": "The tourist knew the manager thanked the judges .", "label": "non-entailment"}
+{"index": "ex10759", "hypothesis": "The judge believed the actors .", "premise": "The judge believed the actors called the doctor .", "label": "non-entailment"}
+{"index": "ex10760", "hypothesis": "The secretary believed the artists .", "premise": "The secretary believed the artists called the judges .", "label": "non-entailment"}
+{"index": "ex10761", "hypothesis": "The secretary believed the judges .", "premise": "The secretary believed the judges stopped the scientists .", "label": "non-entailment"}
+{"index": "ex10762", "hypothesis": "The secretary believed the lawyer .", "premise": "The secretary believed the lawyer slept .", "label": "non-entailment"}
+{"index": "ex10763", "hypothesis": "The senator heard the judges .", "premise": "The senator heard the judges admired the tourist .", "label": "non-entailment"}
+{"index": "ex10764", "hypothesis": "The actor believed the manager .", "premise": "The actor believed the manager waited .", "label": "non-entailment"}
+{"index": "ex10765", "hypothesis": "The lawyers believed the judge .", "premise": "The lawyers believed the judge encouraged the professor .", "label": "non-entailment"}
+{"index": "ex10766", "hypothesis": "The secretaries knew the scientists .", "premise": "The secretaries knew the scientists stopped the president .", "label": "non-entailment"}
+{"index": "ex10767", "hypothesis": "The athlete heard the manager .", "premise": "The athlete heard the manager mentioned the senators .", "label": "non-entailment"}
+{"index": "ex10768", "hypothesis": "The author heard the secretary .", "premise": "The author heard the secretary supported the lawyers .", "label": "non-entailment"}
+{"index": "ex10769", "hypothesis": "The author believed the student .", "premise": "The author believed the student encouraged the secretary .", "label": "non-entailment"}
+{"index": "ex10770", "hypothesis": "The athlete believed the judge .", "premise": "The athlete believed the judge admired the scientists .", "label": "non-entailment"}
+{"index": "ex10771", "hypothesis": "The bankers knew the athletes .", "premise": "The bankers knew the athletes slept .", "label": "non-entailment"}
+{"index": "ex10772", "hypothesis": "The senators believed the lawyer .", "premise": "The senators believed the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10773", "hypothesis": "The tourist knew the professors .", "premise": "The tourist knew the professors saw the athletes .", "label": "non-entailment"}
+{"index": "ex10774", "hypothesis": "The scientists knew the athlete .", "premise": "The scientists knew the athlete waited .", "label": "non-entailment"}
+{"index": "ex10775", "hypothesis": "The judges heard the artist .", "premise": "The judges heard the artist supported the actors .", "label": "non-entailment"}
+{"index": "ex10776", "hypothesis": "The tourist heard the judge .", "premise": "The tourist heard the judge contacted the athlete .", "label": "non-entailment"}
+{"index": "ex10777", "hypothesis": "The students knew the judge .", "premise": "The students knew the judge resigned .", "label": "non-entailment"}
+{"index": "ex10778", "hypothesis": "The presidents believed the senators .", "premise": "The presidents believed the senators recognized the banker .", "label": "non-entailment"}
+{"index": "ex10779", "hypothesis": "The athlete heard the artists .", "premise": "The athlete heard the artists encouraged the student .", "label": "non-entailment"}
+{"index": "ex10780", "hypothesis": "The professors heard the manager .", "premise": "The professors heard the manager called the judge .", "label": "non-entailment"}
+{"index": "ex10781", "hypothesis": "The professors heard the banker .", "premise": "The professors heard the banker encouraged the senators .", "label": "non-entailment"}
+{"index": "ex10782", "hypothesis": "The president believed the senators .", "premise": "The president believed the senators ran .", "label": "non-entailment"}
+{"index": "ex10783", "hypothesis": "The actors heard the students .", "premise": "The actors heard the students performed .", "label": "non-entailment"}
+{"index": "ex10784", "hypothesis": "The students believed the doctors .", "premise": "The students believed the doctors thanked the athlete .", "label": "non-entailment"}
+{"index": "ex10785", "hypothesis": "The students knew the scientist .", "premise": "The students knew the scientist danced .", "label": "non-entailment"}
+{"index": "ex10786", "hypothesis": "The banker believed the judge .", "premise": "The banker believed the judge supported the actor .", "label": "non-entailment"}
+{"index": "ex10787", "hypothesis": "The president believed the tourist .", "premise": "The president believed the tourist introduced the judges .", "label": "non-entailment"}
+{"index": "ex10788", "hypothesis": "The lawyers heard the author .", "premise": "The lawyers heard the author arrived .", "label": "non-entailment"}
+{"index": "ex10789", "hypothesis": "The secretaries believed the scientist .", "premise": "The secretaries believed the scientist stopped the senators .", "label": "non-entailment"}
+{"index": "ex10790", "hypothesis": "The authors believed the judge .", "premise": "The authors believed the judge recommended the managers .", "label": "non-entailment"}
+{"index": "ex10791", "hypothesis": "The scientist knew the students .", "premise": "The scientist knew the students stopped the managers .", "label": "non-entailment"}
+{"index": "ex10792", "hypothesis": "The actors believed the doctor .", "premise": "The actors believed the doctor arrived .", "label": "non-entailment"}
+{"index": "ex10793", "hypothesis": "The bankers heard the athletes .", "premise": "The bankers heard the athletes helped the students .", "label": "non-entailment"}
+{"index": "ex10794", "hypothesis": "The lawyers believed the manager .", "premise": "The lawyers believed the manager performed .", "label": "non-entailment"}
+{"index": "ex10795", "hypothesis": "The managers knew the bankers .", "premise": "The managers knew the bankers shouted .", "label": "non-entailment"}
+{"index": "ex10796", "hypothesis": "The secretary heard the doctors .", "premise": "The secretary heard the doctors performed .", "label": "non-entailment"}
+{"index": "ex10797", "hypothesis": "The actors heard the artists .", "premise": "The actors heard the artists slept .", "label": "non-entailment"}
+{"index": "ex10798", "hypothesis": "The artists knew the doctor .", "premise": "The artists knew the doctor waited .", "label": "non-entailment"}
+{"index": "ex10799", "hypothesis": "The secretary knew the doctors .", "premise": "The secretary knew the doctors arrived .", "label": "non-entailment"}
+{"index": "ex10800", "hypothesis": "The senator heard the managers .", "premise": "The senator heard the managers advised the professor .", "label": "non-entailment"}
+{"index": "ex10801", "hypothesis": "The senator heard the authors .", "premise": "The senator heard the authors helped the athlete .", "label": "non-entailment"}
+{"index": "ex10802", "hypothesis": "The doctors believed the presidents .", "premise": "The doctors believed the presidents admired the professor .", "label": "non-entailment"}
+{"index": "ex10803", "hypothesis": "The athletes heard the judges .", "premise": "The athletes heard the judges introduced the professor .", "label": "non-entailment"}
+{"index": "ex10804", "hypothesis": "The secretaries believed the scientists .", "premise": "The secretaries believed the scientists waited .", "label": "non-entailment"}
+{"index": "ex10805", "hypothesis": "The scientists heard the managers .", "premise": "The scientists heard the managers recommended the tourist .", "label": "non-entailment"}
+{"index": "ex10806", "hypothesis": "The athletes believed the doctor .", "premise": "The athletes believed the doctor danced .", "label": "non-entailment"}
+{"index": "ex10807", "hypothesis": "The artist knew the secretary .", "premise": "The artist knew the secretary performed .", "label": "non-entailment"}
+{"index": "ex10808", "hypothesis": "The doctors knew the student .", "premise": "The doctors knew the student mentioned the senator .", "label": "non-entailment"}
+{"index": "ex10809", "hypothesis": "The manager heard the athlete .", "premise": "The manager heard the athlete shouted .", "label": "non-entailment"}
+{"index": "ex10810", "hypothesis": "The bankers heard the lawyers .", "premise": "The bankers heard the lawyers believed the president .", "label": "non-entailment"}
+{"index": "ex10811", "hypothesis": "The presidents believed the judges .", "premise": "The presidents believed the judges mentioned the senators .", "label": "non-entailment"}
+{"index": "ex10812", "hypothesis": "The actors heard the presidents .", "premise": "The actors heard the presidents shouted .", "label": "non-entailment"}
+{"index": "ex10813", "hypothesis": "The student believed the bankers .", "premise": "The student believed the bankers supported the president .", "label": "non-entailment"}
+{"index": "ex10814", "hypothesis": "The athlete heard the doctors .", "premise": "The athlete heard the doctors shouted .", "label": "non-entailment"}
+{"index": "ex10815", "hypothesis": "The professor heard the artists .", "premise": "The professor heard the artists called the manager .", "label": "non-entailment"}
+{"index": "ex10816", "hypothesis": "The actors heard the athlete .", "premise": "The actors heard the athlete shouted .", "label": "non-entailment"}
+{"index": "ex10817", "hypothesis": "The athlete heard the secretary .", "premise": "The athlete heard the secretary supported the student .", "label": "non-entailment"}
+{"index": "ex10818", "hypothesis": "The actors believed the lawyers .", "premise": "The actors believed the lawyers ran .", "label": "non-entailment"}
+{"index": "ex10819", "hypothesis": "The secretary knew the manager .", "premise": "The secretary knew the manager danced .", "label": "non-entailment"}
+{"index": "ex10820", "hypothesis": "The tourist knew the scientist .", "premise": "The tourist knew the scientist danced .", "label": "non-entailment"}
+{"index": "ex10821", "hypothesis": "The judges knew the lawyer .", "premise": "The judges knew the lawyer resigned .", "label": "non-entailment"}
+{"index": "ex10822", "hypothesis": "The judges knew the presidents .", "premise": "The judges knew the presidents recognized the lawyers .", "label": "non-entailment"}
+{"index": "ex10823", "hypothesis": "The scientist knew the author .", "premise": "The scientist knew the author stopped the secretaries .", "label": "non-entailment"}
+{"index": "ex10824", "hypothesis": "The banker heard the artists .", "premise": "The banker heard the artists arrived .", "label": "non-entailment"}
+{"index": "ex10825", "hypothesis": "The lawyers believed the professors .", "premise": "The lawyers believed the professors recommended the banker .", "label": "non-entailment"}
+{"index": "ex10826", "hypothesis": "The author believed the actor .", "premise": "The author believed the actor advised the lawyers .", "label": "non-entailment"}
+{"index": "ex10827", "hypothesis": "The lawyers knew the professors .", "premise": "The lawyers knew the professors believed the scientist .", "label": "non-entailment"}
+{"index": "ex10828", "hypothesis": "The scientist heard the authors .", "premise": "The scientist heard the authors admired the manager .", "label": "non-entailment"}
+{"index": "ex10829", "hypothesis": "The professor heard the student .", "premise": "The professor heard the student arrived .", "label": "non-entailment"}
+{"index": "ex10830", "hypothesis": "The judges knew the students .", "premise": "The judges knew the students helped the artists .", "label": "non-entailment"}
+{"index": "ex10831", "hypothesis": "The student believed the bankers .", "premise": "The student believed the bankers recommended the presidents .", "label": "non-entailment"}
+{"index": "ex10832", "hypothesis": "The students heard the artists .", "premise": "The students heard the artists resigned .", "label": "non-entailment"}
+{"index": "ex10833", "hypothesis": "The actor believed the student .", "premise": "The actor believed the student slept .", "label": "non-entailment"}
+{"index": "ex10834", "hypothesis": "The artists believed the senators .", "premise": "The artists believed the senators ran .", "label": "non-entailment"}
+{"index": "ex10835", "hypothesis": "The tourists heard the manager .", "premise": "The tourists heard the manager supported the authors .", "label": "non-entailment"}
+{"index": "ex10836", "hypothesis": "The manager believed the tourist .", "premise": "The manager believed the tourist ran .", "label": "non-entailment"}
+{"index": "ex10837", "hypothesis": "The artist believed the secretaries .", "premise": "The artist believed the secretaries recommended the scientists .", "label": "non-entailment"}
+{"index": "ex10838", "hypothesis": "The secretary heard the authors .", "premise": "The secretary heard the authors recommended the doctors .", "label": "non-entailment"}
+{"index": "ex10839", "hypothesis": "The artist believed the judges .", "premise": "The artist believed the judges advised the secretary .", "label": "non-entailment"}
+{"index": "ex10840", "hypothesis": "The athlete heard the presidents .", "premise": "The athlete heard the presidents performed .", "label": "non-entailment"}
+{"index": "ex10841", "hypothesis": "The lawyer heard the athlete .", "premise": "The lawyer heard the athlete saw the artists .", "label": "non-entailment"}
+{"index": "ex10842", "hypothesis": "The manager believed the student .", "premise": "The manager believed the student called the lawyer .", "label": "non-entailment"}
+{"index": "ex10843", "hypothesis": "The senator heard the author .", "premise": "The senator heard the author resigned .", "label": "non-entailment"}
+{"index": "ex10844", "hypothesis": "The managers believed the president .", "premise": "The managers believed the president thanked the judge .", "label": "non-entailment"}
+{"index": "ex10846", "hypothesis": "The tourists heard the artists .", "premise": "The tourists heard the artists arrived .", "label": "non-entailment"}
+{"index": "ex10847", "hypothesis": "The secretary believed the actor .", "premise": "The secretary believed the actor arrived .", "label": "non-entailment"}
+{"index": "ex10848", "hypothesis": "The senator believed the artists .", "premise": "The senator believed the artists waited .", "label": "non-entailment"}
+{"index": "ex10850", "hypothesis": "The manager knew the doctor .", "premise": "The manager knew the doctor performed .", "label": "non-entailment"}
+{"index": "ex10851", "hypothesis": "The doctors believed the authors .", "premise": "The doctors believed the authors helped the managers .", "label": "non-entailment"}
+{"index": "ex10852", "hypothesis": "The athletes believed the scientists .", "premise": "The athletes believed the scientists performed .", "label": "non-entailment"}
+{"index": "ex10853", "hypothesis": "The banker believed the judge .", "premise": "The banker believed the judge supported the tourists .", "label": "non-entailment"}
+{"index": "ex10854", "hypothesis": "The students heard the senator .", "premise": "The students heard the senator danced .", "label": "non-entailment"}
+{"index": "ex10855", "hypothesis": "The lawyer believed the doctor .", "premise": "The lawyer believed the doctor stopped the judge .", "label": "non-entailment"}
+{"index": "ex10856", "hypothesis": "The judges heard the authors .", "premise": "The judges heard the authors performed .", "label": "non-entailment"}
+{"index": "ex10857", "hypothesis": "The doctor knew the actors .", "premise": "The doctor knew the actors contacted the senator .", "label": "non-entailment"}
+{"index": "ex10858", "hypothesis": "The secretaries knew the tourist .", "premise": "The secretaries knew the tourist supported the athlete .", "label": "non-entailment"}
+{"index": "ex10859", "hypothesis": "The doctor knew the lawyer .", "premise": "The doctor knew the lawyer stopped the actor .", "label": "non-entailment"}
+{"index": "ex10860", "hypothesis": "The president knew the judges .", "premise": "The president knew the judges resigned .", "label": "non-entailment"}
+{"index": "ex10861", "hypothesis": "The athletes believed the professor .", "premise": "The athletes believed the professor shouted .", "label": "non-entailment"}
+{"index": "ex10862", "hypothesis": "The students heard the actors .", "premise": "The students heard the actors mentioned the banker .", "label": "non-entailment"}
+{"index": "ex10863", "hypothesis": "The managers heard the judge .", "premise": "The managers heard the judge believed the tourists .", "label": "non-entailment"}
+{"index": "ex10864", "hypothesis": "The actor believed the scientist .", "premise": "The actor believed the scientist recommended the managers .", "label": "non-entailment"}
+{"index": "ex10865", "hypothesis": "The senators believed the scientists .", "premise": "The senators believed the scientists recognized the author .", "label": "non-entailment"}
+{"index": "ex10866", "hypothesis": "The manager believed the artist .", "premise": "The manager believed the artist saw the president .", "label": "non-entailment"}
+{"index": "ex10867", "hypothesis": "The senators believed the doctor .", "premise": "The senators believed the doctor called the secretary .", "label": "non-entailment"}
+{"index": "ex10868", "hypothesis": "The students heard the professors .", "premise": "The students heard the professors shouted .", "label": "non-entailment"}
+{"index": "ex10869", "hypothesis": "The doctor believed the athlete .", "premise": "The doctor believed the athlete helped the bankers .", "label": "non-entailment"}
+{"index": "ex10870", "hypothesis": "The authors believed the actors .", "premise": "The authors believed the actors contacted the lawyer .", "label": "non-entailment"}
+{"index": "ex10871", "hypothesis": "The athlete heard the presidents .", "premise": "The athlete heard the presidents saw the tourists .", "label": "non-entailment"}
+{"index": "ex10872", "hypothesis": "The artists believed the author .", "premise": "The artists believed the author supported the president .", "label": "non-entailment"}
+{"index": "ex10873", "hypothesis": "The actors believed the judges .", "premise": "The actors believed the judges advised the artist .", "label": "non-entailment"}
+{"index": "ex10874", "hypothesis": "The secretaries knew the athletes .", "premise": "The secretaries knew the athletes helped the student .", "label": "non-entailment"}
+{"index": "ex10875", "hypothesis": "The professor believed the manager .", "premise": "The professor believed the manager contacted the artist .", "label": "non-entailment"}
+{"index": "ex10876", "hypothesis": "The artists heard the banker .", "premise": "The artists heard the banker encouraged the authors .", "label": "non-entailment"}
+{"index": "ex10877", "hypothesis": "The tourists knew the lawyers .", "premise": "The tourists knew the lawyers danced .", "label": "non-entailment"}
+{"index": "ex10878", "hypothesis": "The professor heard the tourist .", "premise": "The professor heard the tourist believed the judge .", "label": "non-entailment"}
+{"index": "ex10879", "hypothesis": "The judges knew the secretary .", "premise": "The judges knew the secretary thanked the student .", "label": "non-entailment"}
+{"index": "ex10880", "hypothesis": "The doctor knew the author .", "premise": "The doctor knew the author resigned .", "label": "non-entailment"}
+{"index": "ex10881", "hypothesis": "The artists knew the judge .", "premise": "The artists knew the judge danced .", "label": "non-entailment"}
+{"index": "ex10882", "hypothesis": "The professor believed the artists .", "premise": "The professor believed the artists stopped the president .", "label": "non-entailment"}
+{"index": "ex10883", "hypothesis": "The senator believed the secretary .", "premise": "The senator believed the secretary ran .", "label": "non-entailment"}
+{"index": "ex10884", "hypothesis": "The banker believed the scientist .", "premise": "The banker believed the scientist saw the athletes .", "label": "non-entailment"}
+{"index": "ex10885", "hypothesis": "The professor knew the doctor .", "premise": "The professor knew the doctor recommended the judges .", "label": "non-entailment"}
+{"index": "ex10886", "hypothesis": "The student knew the athlete .", "premise": "The student knew the athlete performed .", "label": "non-entailment"}
+{"index": "ex10887", "hypothesis": "The scientists knew the judge .", "premise": "The scientists knew the judge called the tourist .", "label": "non-entailment"}
+{"index": "ex10888", "hypothesis": "The athletes believed the tourist .", "premise": "The athletes believed the tourist danced .", "label": "non-entailment"}
+{"index": "ex10889", "hypothesis": "The professors heard the doctor .", "premise": "The professors heard the doctor shouted .", "label": "non-entailment"}
+{"index": "ex10890", "hypothesis": "The professors knew the students .", "premise": "The professors knew the students ran .", "label": "non-entailment"}
+{"index": "ex10891", "hypothesis": "The athlete heard the banker .", "premise": "The athlete heard the banker admired the actor .", "label": "non-entailment"}
+{"index": "ex10892", "hypothesis": "The president heard the managers .", "premise": "The president heard the managers supported the lawyers .", "label": "non-entailment"}
+{"index": "ex10893", "hypothesis": "The doctor heard the athletes .", "premise": "The doctor heard the athletes ran .", "label": "non-entailment"}
+{"index": "ex10894", "hypothesis": "The senator believed the author .", "premise": "The senator believed the author resigned .", "label": "non-entailment"}
+{"index": "ex10895", "hypothesis": "The tourists knew the actor .", "premise": "The tourists knew the actor performed .", "label": "non-entailment"}
+{"index": "ex10896", "hypothesis": "The scientist believed the senator .", "premise": "The scientist believed the senator saw the doctor .", "label": "non-entailment"}
+{"index": "ex10897", "hypothesis": "The lawyers knew the president .", "premise": "The lawyers knew the president saw the doctor .", "label": "non-entailment"}
+{"index": "ex10898", "hypothesis": "The student heard the senators .", "premise": "The student heard the senators slept .", "label": "non-entailment"}
+{"index": "ex10899", "hypothesis": "The secretaries heard the author .", "premise": "The secretaries heard the author introduced the scientist .", "label": "non-entailment"}
+{"index": "ex10900", "hypothesis": "The artists believed the student .", "premise": "The artists believed the student ran .", "label": "non-entailment"}
+{"index": "ex10901", "hypothesis": "The senators knew the students .", "premise": "The senators knew the students introduced the tourists .", "label": "non-entailment"}
+{"index": "ex10902", "hypothesis": "The judge knew the doctor .", "premise": "The judge knew the doctor stopped the senators .", "label": "non-entailment"}
+{"index": "ex10903", "hypothesis": "The president knew the senator .", "premise": "The president knew the senator resigned .", "label": "non-entailment"}
+{"index": "ex10904", "hypothesis": "The senator heard the manager .", "premise": "The senator heard the manager performed .", "label": "non-entailment"}
+{"index": "ex10906", "hypothesis": "The secretaries heard the scientists .", "premise": "The secretaries heard the scientists stopped the senator .", "label": "non-entailment"}
+{"index": "ex10907", "hypothesis": "The lawyer knew the author .", "premise": "The lawyer knew the author recognized the manager .", "label": "non-entailment"}
+{"index": "ex10908", "hypothesis": "The secretary heard the author .", "premise": "The secretary heard the author admired the presidents .", "label": "non-entailment"}
+{"index": "ex10909", "hypothesis": "The president knew the scientist .", "premise": "The president knew the scientist waited .", "label": "non-entailment"}
+{"index": "ex10910", "hypothesis": "The president knew the actor .", "premise": "The president knew the actor slept .", "label": "non-entailment"}
+{"index": "ex10911", "hypothesis": "The judge knew the managers .", "premise": "The judge knew the managers advised the lawyer .", "label": "non-entailment"}
+{"index": "ex10912", "hypothesis": "The authors heard the judge .", "premise": "The authors heard the judge arrived .", "label": "non-entailment"}
+{"index": "ex10913", "hypothesis": "The artist knew the manager .", "premise": "The artist knew the manager encouraged the senator .", "label": "non-entailment"}
+{"index": "ex10914", "hypothesis": "The secretaries heard the scientists .", "premise": "The secretaries heard the scientists shouted .", "label": "non-entailment"}
+{"index": "ex10915", "hypothesis": "The artists believed the doctor .", "premise": "The artists believed the doctor thanked the athletes .", "label": "non-entailment"}
+{"index": "ex10916", "hypothesis": "The athlete heard the banker .", "premise": "The athlete heard the banker admired the actors .", "label": "non-entailment"}
+{"index": "ex10917", "hypothesis": "The judges believed the professor .", "premise": "The judges believed the professor performed .", "label": "non-entailment"}
+{"index": "ex10918", "hypothesis": "The doctor knew the lawyers .", "premise": "The doctor knew the lawyers danced .", "label": "non-entailment"}
+{"index": "ex10919", "hypothesis": "The presidents believed the tourists .", "premise": "The presidents believed the tourists waited .", "label": "non-entailment"}
+{"index": "ex10920", "hypothesis": "The lawyer believed the professors .", "premise": "The lawyer believed the professors recognized the artist .", "label": "non-entailment"}
+{"index": "ex10921", "hypothesis": "The doctors knew the secretary .", "premise": "The doctors knew the secretary admired the managers .", "label": "non-entailment"}
+{"index": "ex10922", "hypothesis": "The professors knew the athletes .", "premise": "The professors knew the athletes slept .", "label": "non-entailment"}
+{"index": "ex10923", "hypothesis": "The actors knew the lawyer .", "premise": "The actors knew the lawyer arrived .", "label": "non-entailment"}
+{"index": "ex10924", "hypothesis": "The bankers heard the professor .", "premise": "The bankers heard the professor introduced the tourist .", "label": "non-entailment"}
+{"index": "ex10925", "hypothesis": "The doctor believed the bankers .", "premise": "The doctor believed the bankers helped the presidents .", "label": "non-entailment"}
+{"index": "ex10926", "hypothesis": "The authors believed the lawyers .", "premise": "The authors believed the lawyers arrived .", "label": "non-entailment"}
+{"index": "ex10927", "hypothesis": "The artists believed the professor .", "premise": "The artists believed the professor slept .", "label": "non-entailment"}
+{"index": "ex10928", "hypothesis": "The judge heard the scientist .", "premise": "The judge heard the scientist recognized the authors .", "label": "non-entailment"}
+{"index": "ex10929", "hypothesis": "The lawyer heard the secretary .", "premise": "The lawyer heard the secretary waited .", "label": "non-entailment"}
+{"index": "ex10930", "hypothesis": "The athlete heard the authors .", "premise": "The athlete heard the authors arrived .", "label": "non-entailment"}
+{"index": "ex10931", "hypothesis": "The managers believed the judge .", "premise": "The managers believed the judge thanked the author .", "label": "non-entailment"}
+{"index": "ex10932", "hypothesis": "The managers heard the professor .", "premise": "The managers heard the professor thanked the banker .", "label": "non-entailment"}
+{"index": "ex10933", "hypothesis": "The athlete knew the professor .", "premise": "The athlete knew the professor slept .", "label": "non-entailment"}
+{"index": "ex10934", "hypothesis": "The senator heard the scientist .", "premise": "The senator heard the scientist recognized the manager .", "label": "non-entailment"}
+{"index": "ex10935", "hypothesis": "The tourist believed the lawyers .", "premise": "The tourist believed the lawyers recommended the students .", "label": "non-entailment"}
+{"index": "ex10936", "hypothesis": "The judges believed the managers .", "premise": "The judges believed the managers thanked the scientists .", "label": "non-entailment"}
+{"index": "ex10937", "hypothesis": "The secretaries knew the actors .", "premise": "The secretaries knew the actors thanked the senators .", "label": "non-entailment"}
+{"index": "ex10938", "hypothesis": "The student believed the athlete .", "premise": "The student believed the athlete saw the lawyer .", "label": "non-entailment"}
+{"index": "ex10939", "hypothesis": "The artists believed the president .", "premise": "The artists believed the president arrived .", "label": "non-entailment"}
+{"index": "ex10940", "hypothesis": "The judge heard the managers .", "premise": "The judge heard the managers arrived .", "label": "non-entailment"}
+{"index": "ex10941", "hypothesis": "The banker knew the managers .", "premise": "The banker knew the managers recommended the secretaries .", "label": "non-entailment"}
+{"index": "ex10942", "hypothesis": "The secretaries heard the authors .", "premise": "The secretaries heard the authors believed the tourists .", "label": "non-entailment"}
+{"index": "ex10943", "hypothesis": "The actor heard the artists .", "premise": "The actor heard the artists thanked the presidents .", "label": "non-entailment"}
+{"index": "ex10944", "hypothesis": "The judges believed the artists .", "premise": "The judges believed the artists contacted the professors .", "label": "non-entailment"}
+{"index": "ex10945", "hypothesis": "The banker heard the doctor .", "premise": "The banker heard the doctor shouted .", "label": "non-entailment"}
+{"index": "ex10946", "hypothesis": "The artists heard the professors .", "premise": "The artists heard the professors danced .", "label": "non-entailment"}
+{"index": "ex10947", "hypothesis": "The artist believed the judges .", "premise": "The artist believed the judges waited .", "label": "non-entailment"}
+{"index": "ex10948", "hypothesis": "The scientists heard the tourists .", "premise": "The scientists heard the tourists advised the judges .", "label": "non-entailment"}
+{"index": "ex10949", "hypothesis": "The managers heard the doctors .", "premise": "The managers heard the doctors recommended the author .", "label": "non-entailment"}
+{"index": "ex10950", "hypothesis": "The doctor believed the managers .", "premise": "The doctor believed the managers thanked the author .", "label": "non-entailment"}
+{"index": "ex10951", "hypothesis": "The secretary believed the authors .", "premise": "The secretary believed the authors recognized the tourist .", "label": "non-entailment"}
+{"index": "ex10952", "hypothesis": "The secretaries heard the scientist .", "premise": "The secretaries heard the scientist recognized the actors .", "label": "non-entailment"}
+{"index": "ex10953", "hypothesis": "The athletes heard the professor .", "premise": "The athletes heard the professor performed .", "label": "non-entailment"}
+{"index": "ex10954", "hypothesis": "The professor heard the secretary .", "premise": "The professor heard the secretary thanked the managers .", "label": "non-entailment"}
+{"index": "ex10955", "hypothesis": "The banker believed the artists .", "premise": "The banker believed the artists resigned .", "label": "non-entailment"}
+{"index": "ex10956", "hypothesis": "The lawyer knew the secretaries .", "premise": "The lawyer knew the secretaries encouraged the athlete .", "label": "non-entailment"}
+{"index": "ex10957", "hypothesis": "The presidents heard the tourists .", "premise": "The presidents heard the tourists supported the secretaries .", "label": "non-entailment"}
+{"index": "ex10958", "hypothesis": "The scientists believed the student .", "premise": "The scientists believed the student shouted .", "label": "non-entailment"}
+{"index": "ex10959", "hypothesis": "The scientist believed the actors .", "premise": "The scientist believed the actors danced .", "label": "non-entailment"}
+{"index": "ex10960", "hypothesis": "The senators knew the artists .", "premise": "The senators knew the artists thanked the professors .", "label": "non-entailment"}
+{"index": "ex10961", "hypothesis": "The president heard the tourists .", "premise": "The president heard the tourists shouted .", "label": "non-entailment"}
+{"index": "ex10962", "hypothesis": "The manager believed the athletes .", "premise": "The manager believed the athletes encouraged the lawyer .", "label": "non-entailment"}
+{"index": "ex10963", "hypothesis": "The tourist believed the actor .", "premise": "The tourist believed the actor performed .", "label": "non-entailment"}
+{"index": "ex10964", "hypothesis": "The scientist believed the doctors .", "premise": "The scientist believed the doctors saw the authors .", "label": "non-entailment"}
+{"index": "ex10965", "hypothesis": "The artist knew the scientist .", "premise": "The artist knew the scientist shouted .", "label": "non-entailment"}
+{"index": "ex10966", "hypothesis": "The professors heard the secretary .", "premise": "The professors heard the secretary believed the judge .", "label": "non-entailment"}
+{"index": "ex10967", "hypothesis": "The athlete believed the professors .", "premise": "The athlete believed the professors ran .", "label": "non-entailment"}
+{"index": "ex10968", "hypothesis": "The secretaries heard the bankers .", "premise": "The secretaries heard the bankers admired the athlete .", "label": "non-entailment"}
+{"index": "ex10969", "hypothesis": "The lawyer knew the senator .", "premise": "The lawyer knew the senator ran .", "label": "non-entailment"}
+{"index": "ex10970", "hypothesis": "The judges knew the athletes .", "premise": "The judges knew the athletes shouted .", "label": "non-entailment"}
+{"index": "ex10971", "hypothesis": "The doctor heard the president .", "premise": "The doctor heard the president slept .", "label": "non-entailment"}
+{"index": "ex10972", "hypothesis": "The lawyer believed the professor .", "premise": "The lawyer believed the professor performed .", "label": "non-entailment"}
+{"index": "ex10973", "hypothesis": "The doctors believed the student .", "premise": "The doctors believed the student recognized the scientists .", "label": "non-entailment"}
+{"index": "ex10974", "hypothesis": "The senator knew the actors .", "premise": "The senator knew the actors resigned .", "label": "non-entailment"}
+{"index": "ex10975", "hypothesis": "The tourists believed the author .", "premise": "The tourists believed the author recommended the senator .", "label": "non-entailment"}
+{"index": "ex10976", "hypothesis": "The authors heard the tourist .", "premise": "The authors heard the tourist resigned .", "label": "non-entailment"}
+{"index": "ex10977", "hypothesis": "The actor heard the secretaries .", "premise": "The actor heard the secretaries waited .", "label": "non-entailment"}
+{"index": "ex10978", "hypothesis": "The judge believed the doctor .", "premise": "The judge believed the doctor performed .", "label": "non-entailment"}
+{"index": "ex10979", "hypothesis": "The lawyer believed the actor .", "premise": "The lawyer believed the actor encouraged the manager .", "label": "non-entailment"}
+{"index": "ex10980", "hypothesis": "The doctors believed the manager .", "premise": "The doctors believed the manager slept .", "label": "non-entailment"}
+{"index": "ex10981", "hypothesis": "The senator knew the athlete .", "premise": "The senator knew the athlete helped the authors .", "label": "non-entailment"}
+{"index": "ex10982", "hypothesis": "The artist heard the actors .", "premise": "The artist heard the actors encouraged the banker .", "label": "non-entailment"}
+{"index": "ex10983", "hypothesis": "The banker heard the doctor .", "premise": "The banker heard the doctor recommended the artists .", "label": "non-entailment"}
+{"index": "ex10984", "hypothesis": "The doctor believed the tourists .", "premise": "The doctor believed the tourists danced .", "label": "non-entailment"}
+{"index": "ex10985", "hypothesis": "The student believed the lawyer .", "premise": "The student believed the lawyer stopped the tourists .", "label": "non-entailment"}
+{"index": "ex10986", "hypothesis": "The bankers believed the president .", "premise": "The bankers believed the president waited .", "label": "non-entailment"}
+{"index": "ex10987", "hypothesis": "The manager knew the artist .", "premise": "The manager knew the artist mentioned the tourists .", "label": "non-entailment"}
+{"index": "ex10988", "hypothesis": "The presidents believed the lawyer .", "premise": "The presidents believed the lawyer introduced the managers .", "label": "non-entailment"}
+{"index": "ex10989", "hypothesis": "The authors knew the tourists .", "premise": "The authors knew the tourists ran .", "label": "non-entailment"}
+{"index": "ex10990", "hypothesis": "The lawyer heard the managers .", "premise": "The lawyer heard the managers recognized the judges .", "label": "non-entailment"}
+{"index": "ex10991", "hypothesis": "The professor knew the secretary .", "premise": "The professor knew the secretary shouted .", "label": "non-entailment"}
+{"index": "ex10992", "hypothesis": "The author believed the managers .", "premise": "The author believed the managers introduced the student .", "label": "non-entailment"}
+{"index": "ex10993", "hypothesis": "The doctors heard the artists .", "premise": "The doctors heard the artists called the judge .", "label": "non-entailment"}
+{"index": "ex10994", "hypothesis": "The tourists heard the judge .", "premise": "The tourists heard the judge admired the students .", "label": "non-entailment"}
+{"index": "ex10995", "hypothesis": "The athlete heard the judge .", "premise": "The athlete heard the judge avoided the scientist .", "label": "non-entailment"}
+{"index": "ex10996", "hypothesis": "The professor knew the students .", "premise": "The professor knew the students introduced the senator .", "label": "non-entailment"}
+{"index": "ex10997", "hypothesis": "The athletes knew the doctor .", "premise": "The athletes knew the doctor avoided the secretaries .", "label": "non-entailment"}
+{"index": "ex10998", "hypothesis": "The doctor knew the tourist .", "premise": "The doctor knew the tourist called the artists .", "label": "non-entailment"}
+{"index": "ex10999", "hypothesis": "The doctor believed the judges .", "premise": "The doctor believed the judges slept .", "label": "non-entailment"}

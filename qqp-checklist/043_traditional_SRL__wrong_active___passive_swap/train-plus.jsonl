@@ -1,0 +1,30 @@
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0000", "question1": "Did Adam use the farm?", "question2": "Was Adam used by the farm?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0001", "question1": "Did Jessica enjoy the business?", "question2": "Was Jessica enjoyed by the business?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0002", "question1": "Did Zachary want the newspaper?", "question2": "Was Zachary wanted by the newspaper?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0003", "question1": "Did Maria lose the farm?", "question2": "Was Maria lost by the farm?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0004", "question1": "Did Samuel leave the building?", "question2": "Was Samuel left by the building?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0005", "question1": "Did Samuel receive the book?", "question2": "Was Samuel received by the book?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0006", "question1": "Did Shannon sell the farm?", "question2": "Was Shannon sold by the farm?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0007", "question1": "Did Alyssa destroy the ticket?", "question2": "Was Alyssa destroyed by the ticket?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0008", "question1": "Did Joseph find the property?", "question2": "Was Joseph found by the property?", "label": "different"}
+{"index": "043_traditional_SRL__wrong_active___passive_swap:0009", "question1": "Did Anna receive the island?", "question2": "Was Anna received by the island?", "label": "different"}
+{"index": "qqp:130828", "question1": "Why do puppies get hiccups?", "question2": "Do puppies get hiccups?", "label": "same"}
+{"index": "qqp:135371", "question1": "How do I get over depression by myself?", "question2": "How do you get over feelings of loneliness and depression?", "label": "same"}
+{"index": "qqp:214237", "question1": "What is the difference between the Tampax Radiant and Tampax Pearl?", "question2": "Should I buy Tampax Radiant or Pearl?", "label": "same"}
+{"index": "qqp:113813", "question1": "Do the Greeks still worship Greek gods?", "question2": "Do people still worship the Greek gods?", "label": "same"}
+{"index": "qqp:348248", "question1": "Why does Heinz have 57 on the bottle?", "question2": "What are the 57 varieties touted on the Heinz product bottles?", "label": "same"}
+{"index": "qqp:382385", "question1": "How do I earn 1 lakh in a month?", "question2": "How can I earn rupees 1 lakh within a month?", "label": "same"}
+{"index": "qqp:224774", "question1": "Why am I thinking too much about everything?", "question2": "Why am I thinking too much?", "label": "same"}
+{"index": "qqp:51620", "question1": "Is it okay to eat two meals a day?", "question2": "What will happen if i eat only two meals per day?", "label": "same"}
+{"index": "qqp:82554", "question1": "How do I crack the SBI PO descriptive exam?", "question2": "What are some tricks to crack the SBI PO exam?", "label": "same"}
+{"index": "qqp:316999", "question1": "I want to be a billionaire, how do I accomplish this?", "question2": "I want to become a billionaire through creating startups. How do I accomplish this goal?", "label": "same"}
+{"index": "qqp:120742", "question1": "Do you regret getting a tattoo?", "question2": "What are the reasons that people regret getting their tattoos?", "label": "same"}
+{"index": "qqp:338631", "question1": "\"What are some of the best responses to \"\"Sell me this pen/water\"\" in a job interview?\"", "question2": "\"What are some of the best responses to \"\"Sell me this pen/pencil\"\" in a job interview?\"", "label": "same"}
+{"index": "qqp:59232", "question1": "What is the best Android app in learning French?", "question2": "Are there any useful Android apps for learning French?", "label": "same"}
+{"index": "qqp:16458", "question1": "Are there call girls in hyderabad?", "question2": "Where do I find call girls in Hyderabad?", "label": "same"}
+{"index": "qqp:355778", "question1": "How is Mars' gravitational field strength different from that of Earth's?", "question2": "What is the gravitational field strength on Mars and how was it measured?", "label": "same"}
+{"index": "qqp:97604", "question1": "What is key of life?", "question2": "What is the key to your happiness?", "label": "same"}
+{"index": "qqp:140471", "question1": "How did Quora change your life?", "question2": "Did Quora change your life in any way?", "label": "same"}
+{"index": "qqp:223168", "question1": "Do BJP supporters eat cow dung along with urine?", "question2": "Do Hindus consider cow dung as holy?", "label": "same"}
+{"index": "qqp:368347", "question1": "How do dermatology and pharmaceutical companies market their products?", "question2": "How pharmaceutical companies market their product in market?", "label": "same"}
+{"index": "qqp:196976", "question1": "What is so special about the Xiaomi Mi3 phone that the whole stock was sold out within seconds on Flipkart?", "question2": "What is so special about Xiaomi Redmi phones that they get sold out in seconds?", "label": "same"}

@@ -1,0 +1,10 @@
+{"index": "ex23052", "hypothesis": "The bankers recommended the tourists .", "premise": "The bankers recommended the tourists , or the professors helped the authors .", "label": "non-entailment"}
+{"index": "ex23125", "hypothesis": "The managers danced .", "premise": "The managers danced , or the actor waited .", "label": "non-entailment"}
+{"index": "ex23240", "hypothesis": "The secretaries resigned .", "premise": "The secretaries resigned , or the author performed .", "label": "non-entailment"}
+{"index": "ex23378", "hypothesis": "The athlete arrived .", "premise": "The president called the secretaries , or the athlete arrived .", "label": "non-entailment"}
+{"index": "ex23382", "hypothesis": "The lawyer avoided the manager .", "premise": "The lawyer avoided the manager , or the actor thanked the presidents .", "label": "non-entailment"}
+{"index": "ex23596", "hypothesis": "The athletes encouraged the artist .", "premise": "The tourist mentioned the senators , or the athletes encouraged the artist .", "label": "non-entailment"}
+{"index": "ex23666", "hypothesis": "The manager recognized the lawyers .", "premise": "The manager recognized the lawyers , or the scientists stopped the actors .", "label": "non-entailment"}
+{"index": "ex23692", "hypothesis": "The senator introduced the professors .", "premise": "The senator introduced the professors , or the managers stopped the athlete .", "label": "non-entailment"}
+{"index": "ex23829", "hypothesis": "The doctors saw the actors .", "premise": "The author mentioned the artists , or the doctors saw the actors .", "label": "non-entailment"}
+{"index": "ex23952", "hypothesis": "The tourist believed the doctors .", "premise": "The senators saw the secretary , or the tourist believed the doctors .", "label": "non-entailment"}

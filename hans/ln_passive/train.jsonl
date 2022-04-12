@@ -1,0 +1,10 @@
+{"index": "ex3021", "hypothesis": "The author recommended the judges .", "premise": "The author was recommended by the judges .", "label": "non-entailment"}
+{"index": "ex3140", "hypothesis": "The judge introduced the bankers .", "premise": "The judge was introduced by the bankers .", "label": "non-entailment"}
+{"index": "ex3179", "hypothesis": "The doctors contacted the senator .", "premise": "The doctors were contacted by the senator .", "label": "non-entailment"}
+{"index": "ex3278", "hypothesis": "The professors admired the scientist .", "premise": "The professors were admired by the scientist .", "label": "non-entailment"}
+{"index": "ex3369", "hypothesis": "The managers advised the secretary .", "premise": "The managers were advised by the secretary .", "label": "non-entailment"}
+{"index": "ex3426", "hypothesis": "The students believed the professors .", "premise": "The students were believed by the professors .", "label": "non-entailment"}
+{"index": "ex3484", "hypothesis": "The presidents encouraged the senator .", "premise": "The presidents were encouraged by the senator .", "label": "non-entailment"}
+{"index": "ex3789", "hypothesis": "The presidents helped the managers .", "premise": "The presidents were helped by the managers .", "label": "non-entailment"}
+{"index": "ex3837", "hypothesis": "The senator advised the artist .", "premise": "The senator was advised by the artist .", "label": "non-entailment"}
+{"index": "ex3959", "hypothesis": "The artists contacted the manager .", "premise": "The artists were contacted by the manager .", "label": "non-entailment"}

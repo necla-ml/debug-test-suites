@@ -1,0 +1,30 @@
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0000", "question1": "Is Isabella Anderson a photographer or an engineer?", "question2": "Is Isabella Anderson simultaneously a photographer and an engineer?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0001", "question1": "Is Nicole Morris a producer or a photographer?", "question2": "Is Nicole Morris simultaneously a producer and a photographer?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0002", "question1": "Is Angela Ortiz an economist or an administrator?", "question2": "Is Angela Ortiz simultaneously an economist and an administrator?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0003", "question1": "Is Erin Gray an activist or an agent?", "question2": "Is Erin Gray simultaneously an activist and an agent?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0004", "question1": "Is Danielle Harris an engineer or an administrator?", "question2": "Is Danielle Harris simultaneously an engineer and an administrator?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0005", "question1": "Is Charles Mitchell an agent or an entrepreneur?", "question2": "Is Charles Mitchell simultaneously an agent and an entrepreneur?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0006", "question1": "Is Alyssa Anderson an actor or a nurse?", "question2": "Is Alyssa Anderson simultaneously an actor and a nurse?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0007", "question1": "Is Richard Robinson an engineer or an entrepreneur?", "question2": "Is Richard Robinson simultaneously an engineer and an entrepreneur?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0008", "question1": "Is Zachary Long an academic or an analyst?", "question2": "Is Zachary Long simultaneously an academic and an analyst?", "label": "different"}
+{"index": "047_A_or_B_is_not_the_same_as_A_and_B:0009", "question1": "Is Megan Butler an actress or an investor?", "question2": "Is Megan Butler simultaneously an actress and an investor?", "label": "different"}
+{"index": "qqp:93684", "question1": "How do I get addicted to Quora?", "question2": "How did you get addicted to Quora?", "label": "same"}
+{"index": "qqp:158569", "question1": "Does Leonardo DiCaprio really donate money to charity? Does he really care about climate change?", "question2": "Is Leonardo DiCaprio really serious about climate change?", "label": "same"}
+{"index": "qqp:14368", "question1": "What is turnaround time and response time?", "question2": "How do turnaround time and response time differ?", "label": "same"}
+{"index": "qqp:200389", "question1": "How can I start my preparation for CAPF AC Exam 2017?", "question2": "How should I prepare for CAPF AC exam?", "label": "same"}
+{"index": "qqp:152548", "question1": "How do I get a job at Capgemini?", "question2": "How do you get a job at Capgemini?", "label": "same"}
+{"index": "qqp:112069", "question1": "Is it possible to migrate from CSE MAIT IPU to IT or CSE USIT?", "question2": "Can I migrate from MAIT to USIT?", "label": "same"}
+{"index": "qqp:222599", "question1": "I have a startup idea. The business plan is ready. How should I raise funding for it?", "question2": "Can I raise seed funding by writing a compelling business proposal alone?", "label": "same"}
+{"index": "qqp:107575", "question1": "Why don't people on Quora answer to my questions?", "question2": "Why don't people answer me on Quora?", "label": "same"}
+{"index": "qqp:184102", "question1": "Can someone hack my phone without the phone just with the phone Number?", "question2": "Can someone hack into your iPhone just by knowing your phone number?", "label": "same"}
+{"index": "qqp:7305", "question1": "How do I learn Spanish as soon as possible? What is the best way to learn?", "question2": "What's the best way to learn Spanish?", "label": "same"}
+{"index": "qqp:99733", "question1": "How prestigious is it to be a Quora Top Writer?", "question2": "What is it like to be a Top Writer?", "label": "same"}
+{"index": "qqp:199286", "question1": "Why are Ruskin Bond's poems so good?", "question2": "What makes Ruskin Bond's poems so special?", "label": "same"}
+{"index": "qqp:170561", "question1": "Why in your opinion were certain cities able to profit during the industrial era, but not during the digital age?", "question2": "Why in your opinion were certain cities able to profit during the industrial era?", "label": "same"}
+{"index": "qqp:369219", "question1": "If you were stranded on a deserted island, who would you want to be your partner, Donald Trump or Hillary Clinton?", "question2": "If you were stranded on a desert island would you prefer the company of Donald Trump or Hillary Clinton?", "label": "same"}
+{"index": "qqp:158548", "question1": "How do I crate train a puppy in an apartment?", "question2": "How do I crate train a puppy?", "label": "same"}
+{"index": "qqp:239933", "question1": "Is there a way to make myself fall asleep at will?", "question2": "How can I make myself fall asleep?", "label": "same"}
+{"index": "qqp:16972", "question1": "How will the 500 & 1000 rupee note ban affect India?", "question2": "How will the 500 rupee and 1000 rupee note ban change the rupee's value internationally?", "label": "same"}
+{"index": "qqp:163290", "question1": "How do I remove acne and worst acne scars?", "question2": "How do I remove acne scars fast?", "label": "same"}
+{"index": "qqp:325665", "question1": "I would like to prepare for KVPY SX.How can I do it?", "question2": "How do I prepare for KVPY 2016?", "label": "same"}
+{"index": "qqp:107398", "question1": "Who are the best publishers and self publishing houses in India?", "question2": "Which online/offline publishing house offers the best self-publishing platform/medium in India?", "label": "same"}

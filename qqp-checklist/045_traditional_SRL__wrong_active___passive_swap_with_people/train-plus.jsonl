@@ -1,0 +1,30 @@
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0000", "question1": "Does Megan deserve Hannah?", "question2": "Is Megan deserved by Hannah?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0001", "question1": "Does Andrea bother Natalie?", "question2": "Is Andrea bothered by Natalie?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0002", "question1": "Does Thomas attack Scott?", "question2": "Is Thomas attacked by Scott?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0003", "question1": "Does Scott notice Steven?", "question2": "Is Scott noticed by Steven?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0004", "question1": "Does Andrea support Kyle?", "question2": "Is Andrea supported by Kyle?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0005", "question1": "Does Christian hate Brittany?", "question2": "Is Christian hated by Brittany?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0006", "question1": "Does Lauren hurt Jessica?", "question2": "Is Lauren hurt by Jessica?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0007", "question1": "Does Steven understand Thomas?", "question2": "Is Steven understood by Thomas?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0008", "question1": "Does Melissa prefer Amanda?", "question2": "Is Melissa preferred by Amanda?", "label": "different"}
+{"index": "045_traditional_SRL__wrong_active___passive_swap_with_people:0009", "question1": "Does Amy blame Tyler?", "question2": "Is Amy blamed by Tyler?", "label": "different"}
+{"index": "qqp:20650", "question1": "Can I improve my English in a month?", "question2": "Can I improve my English?", "label": "same"}
+{"index": "qqp:280171", "question1": "What are Some of the best iphone gadgets?", "question2": "What are the best Iphone gadgets for 2016?", "label": "same"}
+{"index": "qqp:328896", "question1": "Why we can say that India is a sovereign state?", "question2": "Is India a dominion or sovereign state?", "label": "same"}
+{"index": "qqp:119641", "question1": "How can I find a good graphic designer?", "question2": "What is the best way to be a good graphic designer?", "label": "same"}
+{"index": "qqp:293598", "question1": "What is national pension scheme?", "question2": "How do I invest in National Pension Scheme(NPS)?", "label": "same"}
+{"index": "qqp:375844", "question1": "What will you do when you are in an ethical dilemma?", "question2": "How do you approach an ethical dilemma?", "label": "same"}
+{"index": "qqp:338310", "question1": "How can I unfollow everyone I'm following on Instagram?", "question2": "How can I unfollow everyone I'm following on Twitter?", "label": "same"}
+{"index": "qqp:358073", "question1": "Which programming language should we use at server side for a web based startup among Python, Ruby, and Node.js?", "question2": "Which is the best server side language to learn for Web development?", "label": "same"}
+{"index": "qqp:79630", "question1": "Why are my Quora stats not being updated?", "question2": "Why doesn't Quora instantly update the stats section?", "label": "same"}
+{"index": "qqp:94212", "question1": "Caroline Cossey: What are the sexual orientations of transgender people?", "question2": "Caroline Cossey: Does being transgender also mean that you are gay?", "label": "same"}
+{"index": "qqp:239421", "question1": "What are social media marketing strategies?", "question2": "What is my social media marketing strategy?", "label": "same"}
+{"index": "qqp:96503", "question1": "Why is a given amount of money today worth more than the same amount in the future?", "question2": "Why the amount of money we have today will not be the same as the same amount in a year?", "label": "same"}
+{"index": "qqp:10322", "question1": "What is a secret which you would not tell anybody in real life?", "question2": "What is a secret which you would not tell anybody in real life, but would on Quora using anonymity?", "label": "same"}
+{"index": "qqp:260258", "question1": "Is there a cure / treatment for Fibromyalgia?", "question2": "What are the treatments for fibromyalgia?", "label": "same"}
+{"index": "qqp:255284", "question1": "Why I select you for my company?", "question2": "Why should I select for my company?", "label": "same"}
+{"index": "qqp:76420", "question1": "How do I drop out of college?", "question2": "How do you drop out of college?", "label": "same"}
+{"index": "qqp:45830", "question1": "How should I prepare for IBPS PO prelims?", "question2": "How do I prepare for IBPS PO 2017?", "label": "same"}
+{"index": "qqp:376696", "question1": "How do I make a mobile application for myself?", "question2": "Can I make a mobile application just for myself?", "label": "same"}
+{"index": "qqp:371236", "question1": "Is Arnab Goswami a threat to Indian journalism?", "question2": "Is Arnab Goswami the saviour of Indian journalism?", "label": "same"}
+{"index": "qqp:28305", "question1": "How do I increase my interest in coding?", "question2": "How can I increase my interest in programming?", "label": "same"}

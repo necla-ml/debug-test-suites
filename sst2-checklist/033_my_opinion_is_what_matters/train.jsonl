@@ -1,0 +1,10 @@
+{"index": "033_my_opinion_is_what_matters:0000", "sentence": "Some people think you are awful, but I think you are good.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0001", "sentence": "I think you are good, but some people think you are awful.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0002", "sentence": "I had heard you were awful, but I think you are good.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0003", "sentence": "I think you are good, but I had heard you were awful.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0004", "sentence": "Some people think you are awful, I think you are good.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0005", "sentence": "I think you are good, some people think you are awful.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0006", "sentence": "I had heard you were awful, I think you are good.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0007", "sentence": "I think you are good, I had heard you were awful.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0008", "sentence": "Some people think you are bad, but I think you are good.", "label": "positive"}
+{"index": "033_my_opinion_is_what_matters:0009", "sentence": "I think you are good, but some people think you are bad.", "label": "positive"}

@@ -1,0 +1,19 @@
+{"index": "ex3021", "hypothesis": "The author recommended the judges .", "premise": "The author was recommended by the judges .", "label": "non-entailment"}
+{"index": "ex3140", "hypothesis": "The judge introduced the bankers .", "premise": "The judge was introduced by the bankers .", "label": "non-entailment"}
+{"index": "ex3179", "hypothesis": "The doctors contacted the senator .", "premise": "The doctors were contacted by the senator .", "label": "non-entailment"}
+{"index": "ex3278", "hypothesis": "The professors admired the scientist .", "premise": "The professors were admired by the scientist .", "label": "non-entailment"}
+{"index": "ex3369", "hypothesis": "The managers advised the secretary .", "premise": "The managers were advised by the secretary .", "label": "non-entailment"}
+{"index": "ex3426", "hypothesis": "The students believed the professors .", "premise": "The students were believed by the professors .", "label": "non-entailment"}
+{"index": "ex3484", "hypothesis": "The presidents encouraged the senator .", "premise": "The presidents were encouraged by the senator .", "label": "non-entailment"}
+{"index": "ex3789", "hypothesis": "The presidents helped the managers .", "premise": "The presidents were helped by the managers .", "label": "non-entailment"}
+{"index": "ex3837", "hypothesis": "The senator advised the artist .", "premise": "The senator was advised by the artist .", "label": "non-entailment"}
+{"index": "ex3959", "hypothesis": "The artists contacted the manager .", "premise": "The artists were contacted by the manager .", "label": "non-entailment"}
+{"index": "mnli:8058:62140c", "hypothesis": "Lawyers desire fewer incentives as they become more experienced.", "premise": "Over the next year she realized she needed incentives to keep lawyers around after they got a few years of experience.", "label": "contradiction"}
+{"index": "mnli:49403:40571e", "hypothesis": "A coordinating Committee exists and is somewhat relevant.", "premise": "Coordinating Committee.", "label": "entailment"}
+{"index": "mnli:87765:14028n", "hypothesis": "with her", "premise": "with Gil Janklowicz", "label": "neutral"}
+{"index": "mnli:114411:32030n", "hypothesis": "Tuppence is a Young Adventurer.", "premise": "Just trot out your questions and I'll answer.\" For the moment this paralysed the Young Adventurers, but Tuppence, recovering herself, plunged boldly into the breach with a reminiscence culled from detective fiction.", "label": "neutral"}
+{"index": "mnli:159504:9327e", "hypothesis": "The USPS is having a hard time with their finances.", "premise": "You have already heard the doom and gloom projections about USPS finances generally and about this Recommended Decision not providing the Postal Service with sufficient revenue to breakeven in the current fiscal year.", "label": "entailment"}
+{"index": "mnli:188455:17489e", "hypothesis": "U.S. mail carriers deliver the mail from their vehicles.", "premise": "In the U.S. the carrier remains on the road, stops at a roadside mailbox and places mail in it without leaving the vehicle.", "label": "entailment"}
+{"index": "mnli:236425:61175e", "hypothesis": "When you have children, you have more to worry about. ", "premise": "and then when your children are very little you can't go out and do things like that and it got so the insurance and the and the uh and the tie up fee uh was", "label": "entailment"}
+{"index": "mnli:270746:104308e", "hypothesis": "There is a law in the above list that each reader will support.", "premise": "No doubt somewhere in the above list I've included a law that you, dear reader, support and believe is more than merely therapeutic.", "label": "entailment"}
+{"index": "mnli:360290:128372c", "hypothesis": "The experts consulted were not so proficient in financial management.", "premise": "We also consulted with leading public and private sector experts in financial management.", "label": "contradiction"}
