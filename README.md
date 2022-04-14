@@ -1,7 +1,7 @@
 # Fast Few-shot Debugging for NLU Test Suites
 
 This repository contains the test suites used in the paper,
-"Fast Few-shot Debugging for NLU Test Suites."
+["Fast Few-shot Debugging for NLU Test Suites"](https://arxiv.org/abs/2204.06555).
 They are derived from test suites in [HANS](https://github.com/tommccoy1/hans)
 by Tom McCoy et al. and [CheckList](https://github.com/marcotcr/checklist)
 by Marco Ribeiro et al..
